@@ -1,0 +1,2096 @@
+2022-04-19.10:26:32 Starting forward search n = 13, C = 33, threads=48
+2022-04-19.10:26:32 Creating initial poset
+2022-04-19.10:26:32 Forward step, parentC=0
+2022-04-19.10:26:32 Processing layer c=0 phase 1
+2022-04-19.10:26:32 Total 90 ms, bw work 0 ms, bw io 0 ms, fw 1 0 ms, fw 2 0 ms, fw io 0 ms, fw old 0 ms, other 90 ms
+2022-04-19.10:26:32 Forward step, parentC=1
+2022-04-19.10:26:32 Processing layer c=1 phase 1
+2022-04-19.10:26:32 Total 90 ms, bw work 0 ms, bw io 0 ms, fw 1 0 ms, fw 2 0 ms, fw io 0 ms, fw old 0 ms, other 90 ms
+2022-04-19.10:26:32 Forward step, parentC=2
+2022-04-19.10:26:32 Processing layer c=2 phase 1
+2022-04-19.10:26:32 Total 90 ms, bw work 0 ms, bw io 0 ms, fw 1 0 ms, fw 2 0 ms, fw io 0 ms, fw old 0 ms, other 90 ms
+2022-04-19.10:26:32 Forward step, parentC=3
+2022-04-19.10:26:32 Processing layer c=3 phase 1
+2022-04-19.10:26:32 Total 90 ms, bw work 0 ms, bw io 0 ms, fw 1 0 ms, fw 2 0 ms, fw io 0 ms, fw old 0 ms, other 90 ms
+2022-04-19.10:26:32 Forward step, parentC=4
+2022-04-19.10:26:32 Processing layer c=4 phase 1
+2022-04-19.10:26:32 Total 90 ms, bw work 0 ms, bw io 0 ms, fw 1 0 ms, fw 2 0 ms, fw io 0 ms, fw old 0 ms, other 90 ms
+2022-04-19.10:26:32 Forward step, parentC=5
+2022-04-19.10:26:32 Processing layer c=5 phase 1
+2022-04-19.10:26:32 Total 90 ms, bw work 0 ms, bw io 0 ms, fw 1 0 ms, fw 2 0 ms, fw io 0 ms, fw old 0 ms, other 90 ms
+2022-04-19.10:26:32 Forward step, parentC=6
+2022-04-19.10:26:32 Processing layer c=6 phase 1
+2022-04-19.10:26:32 Total 91 ms, bw work 0 ms, bw io 0 ms, fw 1 1 ms, fw 2 0 ms, fw io 0 ms, fw old 0 ms, other 90 ms
+2022-04-19.10:26:32 Forward step, parentC=7
+2022-04-19.10:26:32 Processing layer c=7 phase 1
+2022-04-19.10:26:32 Total 94 ms, bw work 0 ms, bw io 0 ms, fw 1 3 ms, fw 2 0 ms, fw io 0 ms, fw old 0 ms, other 90 ms
+2022-04-19.10:26:32 Forward step, parentC=8
+2022-04-19.10:26:32 Processing layer c=8 phase 1
+2022-04-19.10:26:32 Total 97 ms, bw work 0 ms, bw io 0 ms, fw 1 7 ms, fw 2 0 ms, fw io 0 ms, fw old 0 ms, other 90 ms
+2022-04-19.10:26:32 Forward step, parentC=9
+2022-04-19.10:26:32 Processing layer c=9 phase 1
+2022-04-19.10:26:32 Total 102 ms, bw work 0 ms, bw io 0 ms, fw 1 12 ms, fw 2 0 ms, fw io 0 ms, fw old 0 ms, other 90 ms
+2022-04-19.10:26:32 Forward step, parentC=10
+2022-04-19.10:26:32 Processing layer c=10 phase 1
+2022-04-19.10:26:32 Total 117 ms, bw work 0 ms, bw io 0 ms, fw 1 27 ms, fw 2 0 ms, fw io 0 ms, fw old 0 ms, other 90 ms
+2022-04-19.10:26:32 Forward step, parentC=11
+2022-04-19.10:26:32 Processing layer c=11 phase 1
+2022-04-19.10:26:32 Total 130 ms, bw work 0 ms, bw io 0 ms, fw 1 39 ms, fw 2 0 ms, fw io 0 ms, fw old 0 ms, other 90 ms
+2022-04-19.10:26:32 Forward step, parentC=12
+2022-04-19.10:26:32 Processing layer c=12 phase 1
+2022-04-19.10:26:32 Total 153 ms, bw work 0 ms, bw io 0 ms, fw 1 63 ms, fw 2 0 ms, fw io 0 ms, fw old 0 ms, other 90 ms
+2022-04-19.10:26:32 Forward step, parentC=13
+2022-04-19.10:26:32 Processing layer c=13 phase 1
+2022-04-19.10:26:32 Total 203 ms, bw work 0 ms, bw io 0 ms, fw 1 112 ms, fw 2 0 ms, fw io 0 ms, fw old 0 ms, other 90 ms
+2022-04-19.10:26:32 Forward step, parentC=14
+2022-04-19.10:26:32 Processing layer c=14 phase 1
+2022-04-19.10:26:32 Total 305 ms, bw work 0 ms, bw io 0 ms, fw 1 214 ms, fw 2 0 ms, fw io 0 ms, fw old 0 ms, other 90 ms
+2022-04-19.10:26:32 Forward step, parentC=15
+2022-04-19.10:26:32 Processing layer c=15 phase 1
+2022-04-19.10:26:32 Total 489 ms, bw work 0 ms, bw io 0 ms, fw 1 398 ms, fw 2 0 ms, fw io 0 ms, fw old 0 ms, other 90 ms
+2022-04-19.10:26:32 Forward step, parentC=16
+2022-04-19.10:26:32 Processing layer c=16 phase 1
+2022-04-19.10:26:32 Total 782 ms, bw work 0 ms, bw io 0 ms, fw 1 691 ms, fw 2 0 ms, fw io 0 ms, fw old 0 ms, other 90 ms
+2022-04-19.10:26:32 Forward step, parentC=17
+2022-04-19.10:26:32 Processing layer c=17 phase 1
+2022-04-19.10:26:33 Total 1173 ms, bw work 0 ms, bw io 0 ms, fw 1 1082 ms, fw 2 0 ms, fw io 0 ms, fw old 0 ms, other 90 ms
+2022-04-19.10:26:33 Forward step, parentC=18
+2022-04-19.10:26:33 Processing layer c=18 phase 1
+2022-04-19.10:26:33 Total 1543 ms, bw work 0 ms, bw io 0 ms, fw 1 1452 ms, fw 2 0 ms, fw io 0 ms, fw old 0 ms, other 91 ms
+2022-04-19.10:26:33 Forward step, parentC=19
+2022-04-19.10:26:33 Processing layer c=19 phase 1
+2022-04-19.10:26:34 Total 1942 ms, bw work 0 ms, bw io 0 ms, fw 1 1851 ms, fw 2 0 ms, fw io 0 ms, fw old 0 ms, other 91 ms
+2022-04-19.10:26:34 Forward step, parentC=20
+2022-04-19.10:26:34 Processing layer c=20 phase 1
+2022-04-19.10:26:34 Total 2297 ms, bw work 0 ms, bw io 0 ms, fw 1 2174 ms, fw 2 0 ms, fw io 31 ms, fw old 0 ms, other 91 ms
+2022-04-19.10:26:34 Forward step, parentC=21
+2022-04-19.10:26:34 Processing layer c=21 phase 1
+2022-04-19.10:26:34 Total 2541 ms, bw work 0 ms, bw io 0 ms, fw 1 2390 ms, fw 2 0 ms, fw io 59 ms, fw old 0 ms, other 91 ms
+2022-04-19.10:26:34 Forward step, parentC=22
+2022-04-19.10:26:34 Processing layer c=22 phase 1
+2022-04-19.10:26:34 Total 2681 ms, bw work 0 ms, bw io 0 ms, fw 1 2513 ms, fw 2 0 ms, fw io 76 ms, fw old 0 ms, other 91 ms
+2022-04-19.10:26:34 Forward step, parentC=23
+2022-04-19.10:26:34 Processing layer c=23 phase 1
+2022-04-19.10:26:34 Total 2765 ms, bw work 0 ms, bw io 0 ms, fw 1 2587 ms, fw 2 0 ms, fw io 86 ms, fw old 0 ms, other 91 ms
+2022-04-19.10:26:34 Forward step, parentC=24
+2022-04-19.10:26:34 Processing layer c=24 phase 1
+2022-04-19.10:26:34 Total 2800 ms, bw work 0 ms, bw io 0 ms, fw 1 2617 ms, fw 2 0 ms, fw io 91 ms, fw old 0 ms, other 91 ms
+2022-04-19.10:26:34 Forward step, parentC=25
+2022-04-19.10:26:34 Processing layer c=25 phase 1
+2022-04-19.10:26:34 Total 2819 ms, bw work 0 ms, bw io 0 ms, fw 1 2634 ms, fw 2 0 ms, fw io 93 ms, fw old 0 ms, other 91 ms
+2022-04-19.10:26:34 Forward step, parentC=26
+2022-04-19.10:26:34 Processing layer c=26 phase 1
+2022-04-19.10:26:34 Total 2827 ms, bw work 0 ms, bw io 0 ms, fw 1 2641 ms, fw 2 0 ms, fw io 94 ms, fw old 0 ms, other 91 ms
+2022-04-19.10:26:34 Forward step, parentC=27
+2022-04-19.10:26:34 Processing layer c=27 phase 1
+2022-04-19.10:26:34 Total 2840 ms, bw work 0 ms, bw io 0 ms, fw 1 2654 ms, fw 2 0 ms, fw io 94 ms, fw old 0 ms, other 91 ms
+2022-04-19.10:26:34 Forward step, parentC=28
+2022-04-19.10:26:34 Processing layer c=28 phase 1
+2022-04-19.10:26:34 Total 2843 ms, bw work 0 ms, bw io 0 ms, fw 1 2656 ms, fw 2 0 ms, fw io 94 ms, fw old 0 ms, other 91 ms
+2022-04-19.10:26:34 Forward step, parentC=29
+2022-04-19.10:26:34 Processing layer c=29 phase 1
+2022-04-19.10:26:34 Total 2844 ms, bw work 0 ms, bw io 0 ms, fw 1 2658 ms, fw 2 0 ms, fw io 94 ms, fw old 0 ms, other 91 ms
+2022-04-19.10:26:34 Forward step, parentC=30
+2022-04-19.10:26:34 Processing layer c=30 phase 1
+2022-04-19.10:26:34 Total 2846 ms, bw work 0 ms, bw io 0 ms, fw 1 2659 ms, fw 2 0 ms, fw io 94 ms, fw old 0 ms, other 91 ms
+2022-04-19.10:26:34 Forward step, parentC=29
+2022-04-19.10:26:34 Processing layer c=29 phase 2
+2022-04-19.10:26:34 Total 2847 ms, bw work 0 ms, bw io 0 ms, fw 1 2659 ms, fw 2 1 ms, fw io 94 ms, fw old 0 ms, other 91 ms
+2022-04-19.10:26:34 Forward step, parentC=30
+2022-04-19.10:26:34 Processing layer c=30 phase 1
+2022-04-19.10:26:34 Total 2849 ms, bw work 0 ms, bw io 0 ms, fw 1 2661 ms, fw 2 1 ms, fw io 94 ms, fw old 0 ms, other 91 ms
+2022-04-19.10:26:34 Forward step, parentC=29
+2022-04-19.10:26:34 Processing layer c=29 phase 3
+2022-04-19.10:26:34 Total 2850 ms, bw work 0 ms, bw io 0 ms, fw 1 2661 ms, fw 2 2 ms, fw io 94 ms, fw old 0 ms, other 91 ms
+2022-04-19.10:26:34 Forward step, parentC=28
+2022-04-19.10:26:34 Processing layer c=28 phase 2
+2022-04-19.10:26:34 Total 2852 ms, bw work 0 ms, bw io 0 ms, fw 1 2661 ms, fw 2 4 ms, fw io 94 ms, fw old 0 ms, other 91 ms
+2022-04-19.10:26:34 Forward step, parentC=29
+2022-04-19.10:26:34 Processing layer c=29 phase 1
+2022-04-19.10:26:34 Total 2853 ms, bw work 0 ms, bw io 0 ms, fw 1 2662 ms, fw 2 4 ms, fw io 94 ms, fw old 0 ms, other 91 ms
+2022-04-19.10:26:34 Forward step, parentC=30
+2022-04-19.10:26:34 Processing layer c=30 phase 1
+2022-04-19.10:26:34 Total 2853 ms, bw work 0 ms, bw io 0 ms, fw 1 2662 ms, fw 2 4 ms, fw io 94 ms, fw old 0 ms, other 92 ms
+2022-04-19.10:26:34 Forward step, parentC=29
+2022-04-19.10:26:34 Processing layer c=29 phase 2
+2022-04-19.10:26:34 Total 2855 ms, bw work 0 ms, bw io 0 ms, fw 1 2662 ms, fw 2 5 ms, fw io 94 ms, fw old 0 ms, other 92 ms
+2022-04-19.10:26:34 Forward step, parentC=28
+2022-04-19.10:26:34 Processing layer c=28 phase 3
+2022-04-19.10:26:34 Total 2857 ms, bw work 0 ms, bw io 0 ms, fw 1 2662 ms, fw 2 6 ms, fw io 94 ms, fw old 1 ms, other 92 ms
+2022-04-19.10:26:34 Forward step, parentC=27
+2022-04-19.10:26:34 Processing layer c=27 phase 2
+2022-04-19.10:26:34 Total 2858 ms, bw work 0 ms, bw io 0 ms, fw 1 2662 ms, fw 2 8 ms, fw io 94 ms, fw old 1 ms, other 92 ms
+2022-04-19.10:26:34 Forward step, parentC=28
+2022-04-19.10:26:34 Processing layer c=28 phase 1
+2022-04-19.10:26:34 Total 2860 ms, bw work 0 ms, bw io 0 ms, fw 1 2664 ms, fw 2 8 ms, fw io 94 ms, fw old 1 ms, other 92 ms
+2022-04-19.10:26:34 Forward step, parentC=29
+2022-04-19.10:26:34 Processing layer c=29 phase 1
+2022-04-19.10:26:34 Total 2860 ms, bw work 0 ms, bw io 0 ms, fw 1 2664 ms, fw 2 8 ms, fw io 94 ms, fw old 1 ms, other 92 ms
+2022-04-19.10:26:34 Forward step, parentC=30
+2022-04-19.10:26:34 Processing layer c=30 phase 1
+2022-04-19.10:26:34 Total 2860 ms, bw work 0 ms, bw io 0 ms, fw 1 2664 ms, fw 2 8 ms, fw io 94 ms, fw old 1 ms, other 92 ms
+2022-04-19.10:26:34 Forward step, parentC=29
+2022-04-19.10:26:34 Processing layer c=29 phase 2
+2022-04-19.10:26:34 Total 2860 ms, bw work 0 ms, bw io 0 ms, fw 1 2664 ms, fw 2 8 ms, fw io 94 ms, fw old 1 ms, other 92 ms
+2022-04-19.10:26:34 Forward step, parentC=30
+2022-04-19.10:26:34 Processing layer c=30 phase 1
+2022-04-19.10:26:34 Total 2860 ms, bw work 0 ms, bw io 0 ms, fw 1 2664 ms, fw 2 8 ms, fw io 94 ms, fw old 1 ms, other 92 ms
+2022-04-19.10:26:34 Forward step, parentC=29
+2022-04-19.10:26:34 Processing layer c=29 phase 3
+2022-04-19.10:26:34 Total 2860 ms, bw work 0 ms, bw io 0 ms, fw 1 2664 ms, fw 2 8 ms, fw io 94 ms, fw old 1 ms, other 92 ms
+2022-04-19.10:26:34 Forward step, parentC=28
+2022-04-19.10:26:34 Processing layer c=28 phase 2
+2022-04-19.10:26:34 Total 2862 ms, bw work 0 ms, bw io 0 ms, fw 1 2664 ms, fw 2 9 ms, fw io 94 ms, fw old 1 ms, other 92 ms
+2022-04-19.10:26:34 Forward step, parentC=29
+2022-04-19.10:26:34 Processing layer c=29 phase 1
+2022-04-19.10:26:34 Total 2862 ms, bw work 0 ms, bw io 0 ms, fw 1 2664 ms, fw 2 9 ms, fw io 94 ms, fw old 1 ms, other 92 ms
+2022-04-19.10:26:34 Forward step, parentC=28
+2022-04-19.10:26:34 Processing layer c=28 phase 3
+2022-04-19.10:26:34 Total 2863 ms, bw work 0 ms, bw io 0 ms, fw 1 2664 ms, fw 2 11 ms, fw io 94 ms, fw old 1 ms, other 92 ms
+2022-04-19.10:26:34 Forward step, parentC=27
+2022-04-19.10:26:34 Processing layer c=27 phase 3
+2022-04-19.10:26:34 Total 2866 ms, bw work 0 ms, bw io 0 ms, fw 1 2664 ms, fw 2 12 ms, fw io 94 ms, fw old 2 ms, other 92 ms
+2022-04-19.10:26:34 Forward step, parentC=26
+2022-04-19.10:26:34 Processing layer c=26 phase 2
+2022-04-19.10:26:34 Total 2870 ms, bw work 0 ms, bw io 0 ms, fw 1 2664 ms, fw 2 16 ms, fw io 94 ms, fw old 2 ms, other 92 ms
+2022-04-19.10:26:34 Forward step, parentC=27
+2022-04-19.10:26:34 Processing layer c=27 phase 1
+2022-04-19.10:26:34 Total 2871 ms, bw work 0 ms, bw io 0 ms, fw 1 2666 ms, fw 2 16 ms, fw io 94 ms, fw old 2 ms, other 92 ms
+2022-04-19.10:26:34 Forward step, parentC=28
+2022-04-19.10:26:34 Processing layer c=28 phase 1
+2022-04-19.10:26:34 Total 2873 ms, bw work 0 ms, bw io 0 ms, fw 1 2667 ms, fw 2 16 ms, fw io 94 ms, fw old 2 ms, other 92 ms
+2022-04-19.10:26:34 Forward step, parentC=29
+2022-04-19.10:26:34 Processing layer c=29 phase 1
+2022-04-19.10:26:34 Total 2873 ms, bw work 0 ms, bw io 0 ms, fw 1 2668 ms, fw 2 16 ms, fw io 94 ms, fw old 2 ms, other 92 ms
+2022-04-19.10:26:34 Forward step, parentC=30
+2022-04-19.10:26:34 Processing layer c=30 phase 1
+2022-04-19.10:26:34 Total 2873 ms, bw work 0 ms, bw io 0 ms, fw 1 2668 ms, fw 2 16 ms, fw io 94 ms, fw old 2 ms, other 92 ms
+2022-04-19.10:26:34 Forward step, parentC=29
+2022-04-19.10:26:34 Processing layer c=29 phase 2
+2022-04-19.10:26:34 Total 2873 ms, bw work 0 ms, bw io 0 ms, fw 1 2668 ms, fw 2 16 ms, fw io 94 ms, fw old 2 ms, other 92 ms
+2022-04-19.10:26:34 Forward step, parentC=28
+2022-04-19.10:26:34 Processing layer c=28 phase 2
+2022-04-19.10:26:34 Total 2875 ms, bw work 0 ms, bw io 0 ms, fw 1 2668 ms, fw 2 17 ms, fw io 94 ms, fw old 2 ms, other 92 ms
+2022-04-19.10:26:34 Forward step, parentC=27
+2022-04-19.10:26:34 Processing layer c=27 phase 2
+2022-04-19.10:26:34 Total 2876 ms, bw work 0 ms, bw io 0 ms, fw 1 2668 ms, fw 2 18 ms, fw io 94 ms, fw old 2 ms, other 92 ms
+2022-04-19.10:26:34 Forward step, parentC=28
+2022-04-19.10:26:34 Processing layer c=28 phase 1
+2022-04-19.10:26:34 Total 2877 ms, bw work 0 ms, bw io 0 ms, fw 1 2668 ms, fw 2 18 ms, fw io 94 ms, fw old 2 ms, other 92 ms
+2022-04-19.10:26:34 Forward step, parentC=29
+2022-04-19.10:26:34 Processing layer c=29 phase 1
+2022-04-19.10:26:34 Total 2877 ms, bw work 0 ms, bw io 0 ms, fw 1 2668 ms, fw 2 18 ms, fw io 94 ms, fw old 2 ms, other 92 ms
+2022-04-19.10:26:34 Forward step, parentC=28
+2022-04-19.10:26:34 Processing layer c=28 phase 2
+2022-04-19.10:26:34 Total 2877 ms, bw work 0 ms, bw io 0 ms, fw 1 2668 ms, fw 2 18 ms, fw io 94 ms, fw old 2 ms, other 92 ms
+2022-04-19.10:26:34 Forward step, parentC=27
+2022-04-19.10:26:34 Processing layer c=27 phase 3
+2022-04-19.10:26:34 Total 2878 ms, bw work 0 ms, bw io 0 ms, fw 1 2668 ms, fw 2 20 ms, fw io 94 ms, fw old 2 ms, other 92 ms
+2022-04-19.10:26:34 Forward step, parentC=26
+2022-04-19.10:26:34 Processing layer c=26 phase 3
+2022-04-19.10:26:34 Total 2883 ms, bw work 0 ms, bw io 0 ms, fw 1 2668 ms, fw 2 21 ms, fw io 94 ms, fw old 6 ms, other 92 ms
+2022-04-19.10:26:34 Forward step, parentC=25
+2022-04-19.10:26:34 Processing layer c=25 phase 2
+2022-04-19.10:26:34 Total 2886 ms, bw work 0 ms, bw io 0 ms, fw 1 2668 ms, fw 2 24 ms, fw io 94 ms, fw old 6 ms, other 92 ms
+2022-04-19.10:26:34 Forward step, parentC=26
+2022-04-19.10:26:34 Processing layer c=26 phase 1
+2022-04-19.10:26:34 Total 2888 ms, bw work 0 ms, bw io 0 ms, fw 1 2670 ms, fw 2 24 ms, fw io 94 ms, fw old 6 ms, other 92 ms
+2022-04-19.10:26:34 Forward step, parentC=27
+2022-04-19.10:26:34 Processing layer c=27 phase 1
+2022-04-19.10:26:34 Total 2890 ms, bw work 0 ms, bw io 0 ms, fw 1 2672 ms, fw 2 24 ms, fw io 94 ms, fw old 6 ms, other 92 ms
+2022-04-19.10:26:34 Forward step, parentC=28
+2022-04-19.10:26:34 Processing layer c=28 phase 1
+2022-04-19.10:26:34 Total 2892 ms, bw work 0 ms, bw io 0 ms, fw 1 2674 ms, fw 2 24 ms, fw io 94 ms, fw old 6 ms, other 92 ms
+2022-04-19.10:26:34 Forward step, parentC=29
+2022-04-19.10:26:34 Processing layer c=29 phase 1
+2022-04-19.10:26:34 Total 2892 ms, bw work 0 ms, bw io 0 ms, fw 1 2674 ms, fw 2 24 ms, fw io 94 ms, fw old 6 ms, other 92 ms
+2022-04-19.10:26:34 Forward step, parentC=30
+2022-04-19.10:26:34 Processing layer c=30 phase 1
+2022-04-19.10:26:34 Total 2892 ms, bw work 0 ms, bw io 0 ms, fw 1 2674 ms, fw 2 24 ms, fw io 94 ms, fw old 6 ms, other 92 ms
+2022-04-19.10:26:34 Forward step, parentC=29
+2022-04-19.10:26:34 Processing layer c=29 phase 2
+2022-04-19.10:26:34 Total 2892 ms, bw work 0 ms, bw io 0 ms, fw 1 2674 ms, fw 2 24 ms, fw io 94 ms, fw old 6 ms, other 93 ms
+2022-04-19.10:26:34 Forward step, parentC=28
+2022-04-19.10:26:34 Processing layer c=28 phase 2
+2022-04-19.10:26:34 Total 2894 ms, bw work 0 ms, bw io 0 ms, fw 1 2674 ms, fw 2 26 ms, fw io 94 ms, fw old 6 ms, other 93 ms
+2022-04-19.10:26:34 Forward step, parentC=27
+2022-04-19.10:26:34 Processing layer c=27 phase 2
+2022-04-19.10:26:34 Total 2895 ms, bw work 0 ms, bw io 0 ms, fw 1 2674 ms, fw 2 27 ms, fw io 94 ms, fw old 6 ms, other 93 ms
+2022-04-19.10:26:34 Forward step, parentC=28
+2022-04-19.10:26:34 Processing layer c=28 phase 1
+2022-04-19.10:26:34 Total 2896 ms, bw work 0 ms, bw io 0 ms, fw 1 2674 ms, fw 2 27 ms, fw io 94 ms, fw old 6 ms, other 93 ms
+2022-04-19.10:26:34 Forward step, parentC=29
+2022-04-19.10:26:34 Processing layer c=29 phase 1
+2022-04-19.10:26:34 Total 2896 ms, bw work 0 ms, bw io 0 ms, fw 1 2674 ms, fw 2 27 ms, fw io 94 ms, fw old 6 ms, other 93 ms
+2022-04-19.10:26:34 Forward step, parentC=28
+2022-04-19.10:26:34 Processing layer c=28 phase 2
+2022-04-19.10:26:34 Total 2896 ms, bw work 0 ms, bw io 0 ms, fw 1 2674 ms, fw 2 27 ms, fw io 94 ms, fw old 6 ms, other 93 ms
+2022-04-19.10:26:34 Forward step, parentC=27
+2022-04-19.10:26:34 Processing layer c=27 phase 3
+2022-04-19.10:26:34 Total 2897 ms, bw work 0 ms, bw io 0 ms, fw 1 2674 ms, fw 2 29 ms, fw io 94 ms, fw old 6 ms, other 93 ms
+2022-04-19.10:26:34 Forward step, parentC=26
+2022-04-19.10:26:34 Processing layer c=26 phase 2
+2022-04-19.10:26:34 Total 2899 ms, bw work 0 ms, bw io 0 ms, fw 1 2674 ms, fw 2 30 ms, fw io 94 ms, fw old 6 ms, other 93 ms
+2022-04-19.10:26:34 Forward step, parentC=27
+2022-04-19.10:26:34 Processing layer c=27 phase 1
+2022-04-19.10:26:34 Total 2899 ms, bw work 0 ms, bw io 0 ms, fw 1 2674 ms, fw 2 30 ms, fw io 94 ms, fw old 6 ms, other 93 ms
+2022-04-19.10:26:34 Forward step, parentC=28
+2022-04-19.10:26:34 Processing layer c=28 phase 1
+2022-04-19.10:26:34 Total 2899 ms, bw work 0 ms, bw io 0 ms, fw 1 2674 ms, fw 2 30 ms, fw io 94 ms, fw old 6 ms, other 93 ms
+2022-04-19.10:26:34 Forward step, parentC=29
+2022-04-19.10:26:34 Processing layer c=29 phase 1
+2022-04-19.10:26:34 Total 2899 ms, bw work 0 ms, bw io 0 ms, fw 1 2674 ms, fw 2 30 ms, fw io 94 ms, fw old 6 ms, other 93 ms
+2022-04-19.10:26:34 Forward step, parentC=30
+2022-04-19.10:26:34 Processing layer c=30 phase 1
+2022-04-19.10:26:34 Total 2899 ms, bw work 0 ms, bw io 0 ms, fw 1 2674 ms, fw 2 30 ms, fw io 94 ms, fw old 6 ms, other 93 ms
+2022-04-19.10:26:34 Forward step, parentC=29
+2022-04-19.10:26:34 Processing layer c=29 phase 2
+2022-04-19.10:26:34 Total 2899 ms, bw work 0 ms, bw io 0 ms, fw 1 2674 ms, fw 2 30 ms, fw io 94 ms, fw old 6 ms, other 93 ms
+2022-04-19.10:26:34 Forward step, parentC=28
+2022-04-19.10:26:34 Processing layer c=28 phase 2
+2022-04-19.10:26:34 Total 2899 ms, bw work 0 ms, bw io 0 ms, fw 1 2674 ms, fw 2 30 ms, fw io 94 ms, fw old 6 ms, other 93 ms
+2022-04-19.10:26:34 Forward step, parentC=27
+2022-04-19.10:26:34 Processing layer c=27 phase 2
+2022-04-19.10:26:34 Total 2900 ms, bw work 0 ms, bw io 0 ms, fw 1 2674 ms, fw 2 30 ms, fw io 94 ms, fw old 6 ms, other 93 ms
+2022-04-19.10:26:34 Forward step, parentC=26
+2022-04-19.10:26:34 Processing layer c=26 phase 3
+2022-04-19.10:26:34 Total 2901 ms, bw work 0 ms, bw io 0 ms, fw 1 2674 ms, fw 2 32 ms, fw io 94 ms, fw old 6 ms, other 93 ms
+2022-04-19.10:26:34 Forward step, parentC=25
+2022-04-19.10:26:34 Processing layer c=25 phase 3
+2022-04-19.10:26:35 Total 2926 ms, bw work 0 ms, bw io 0 ms, fw 1 2674 ms, fw 2 33 ms, fw io 94 ms, fw old 29 ms, other 93 ms
+2022-04-19.10:26:35 Forward step, parentC=24
+2022-04-19.10:26:35 Processing layer c=24 phase 2
+2022-04-19.10:26:35 Total 2928 ms, bw work 0 ms, bw io 0 ms, fw 1 2674 ms, fw 2 35 ms, fw io 94 ms, fw old 29 ms, other 93 ms
+2022-04-19.10:26:35 Forward step, parentC=25
+2022-04-19.10:26:35 Processing layer c=25 phase 1
+2022-04-19.10:26:35 Total 2930 ms, bw work 0 ms, bw io 0 ms, fw 1 2677 ms, fw 2 35 ms, fw io 94 ms, fw old 29 ms, other 93 ms
+2022-04-19.10:26:35 Forward step, parentC=26
+2022-04-19.10:26:35 Processing layer c=26 phase 1
+2022-04-19.10:26:35 Total 2932 ms, bw work 0 ms, bw io 0 ms, fw 1 2679 ms, fw 2 35 ms, fw io 94 ms, fw old 29 ms, other 93 ms
+2022-04-19.10:26:35 Forward step, parentC=27
+2022-04-19.10:26:35 Processing layer c=27 phase 1
+2022-04-19.10:26:35 Total 2934 ms, bw work 0 ms, bw io 0 ms, fw 1 2680 ms, fw 2 35 ms, fw io 94 ms, fw old 29 ms, other 93 ms
+2022-04-19.10:26:35 Forward step, parentC=28
+2022-04-19.10:26:35 Processing layer c=28 phase 1
+2022-04-19.10:26:35 Total 2935 ms, bw work 0 ms, bw io 0 ms, fw 1 2682 ms, fw 2 35 ms, fw io 94 ms, fw old 29 ms, other 93 ms
+2022-04-19.10:26:35 Forward step, parentC=29
+2022-04-19.10:26:35 Processing layer c=29 phase 1
+2022-04-19.10:26:35 Total 2936 ms, bw work 0 ms, bw io 0 ms, fw 1 2682 ms, fw 2 35 ms, fw io 94 ms, fw old 29 ms, other 93 ms
+2022-04-19.10:26:35 Forward step, parentC=30
+2022-04-19.10:26:35 Processing layer c=30 phase 1
+2022-04-19.10:26:35 Total 2936 ms, bw work 0 ms, bw io 0 ms, fw 1 2682 ms, fw 2 35 ms, fw io 94 ms, fw old 29 ms, other 93 ms
+2022-04-19.10:26:35 Forward step, parentC=29
+2022-04-19.10:26:35 Processing layer c=29 phase 2
+2022-04-19.10:26:35 Total 2936 ms, bw work 0 ms, bw io 0 ms, fw 1 2682 ms, fw 2 35 ms, fw io 94 ms, fw old 29 ms, other 93 ms
+2022-04-19.10:26:35 Forward step, parentC=28
+2022-04-19.10:26:35 Processing layer c=28 phase 2
+2022-04-19.10:26:35 Total 2937 ms, bw work 0 ms, bw io 0 ms, fw 1 2682 ms, fw 2 36 ms, fw io 94 ms, fw old 29 ms, other 93 ms
+2022-04-19.10:26:35 Forward step, parentC=27
+2022-04-19.10:26:35 Processing layer c=27 phase 2
+2022-04-19.10:26:35 Total 2938 ms, bw work 0 ms, bw io 0 ms, fw 1 2682 ms, fw 2 38 ms, fw io 94 ms, fw old 29 ms, other 93 ms
+2022-04-19.10:26:35 Forward step, parentC=28
+2022-04-19.10:26:35 Processing layer c=28 phase 1
+2022-04-19.10:26:35 Total 2939 ms, bw work 0 ms, bw io 0 ms, fw 1 2682 ms, fw 2 38 ms, fw io 94 ms, fw old 29 ms, other 93 ms
+2022-04-19.10:26:35 Forward step, parentC=27
+2022-04-19.10:26:35 Processing layer c=27 phase 3
+2022-04-19.10:26:35 Total 2940 ms, bw work 0 ms, bw io 0 ms, fw 1 2682 ms, fw 2 39 ms, fw io 94 ms, fw old 29 ms, other 93 ms
+2022-04-19.10:26:35 Forward step, parentC=26
+2022-04-19.10:26:35 Processing layer c=26 phase 2
+2022-04-19.10:26:35 Total 2941 ms, bw work 0 ms, bw io 0 ms, fw 1 2682 ms, fw 2 40 ms, fw io 94 ms, fw old 29 ms, other 93 ms
+2022-04-19.10:26:35 Forward step, parentC=27
+2022-04-19.10:26:35 Processing layer c=27 phase 1
+2022-04-19.10:26:35 Total 2941 ms, bw work 0 ms, bw io 0 ms, fw 1 2682 ms, fw 2 40 ms, fw io 94 ms, fw old 29 ms, other 93 ms
+2022-04-19.10:26:35 Forward step, parentC=28
+2022-04-19.10:26:35 Processing layer c=28 phase 1
+2022-04-19.10:26:35 Total 2942 ms, bw work 0 ms, bw io 0 ms, fw 1 2682 ms, fw 2 40 ms, fw io 94 ms, fw old 29 ms, other 93 ms
+2022-04-19.10:26:35 Forward step, parentC=29
+2022-04-19.10:26:35 Processing layer c=29 phase 1
+2022-04-19.10:26:35 Total 2942 ms, bw work 0 ms, bw io 0 ms, fw 1 2682 ms, fw 2 40 ms, fw io 94 ms, fw old 29 ms, other 93 ms
+2022-04-19.10:26:35 Forward step, parentC=28
+2022-04-19.10:26:35 Processing layer c=28 phase 2
+2022-04-19.10:26:35 Total 2942 ms, bw work 0 ms, bw io 0 ms, fw 1 2682 ms, fw 2 40 ms, fw io 94 ms, fw old 29 ms, other 93 ms
+2022-04-19.10:26:35 Forward step, parentC=27
+2022-04-19.10:26:35 Processing layer c=27 phase 2
+2022-04-19.10:26:35 Total 2942 ms, bw work 0 ms, bw io 0 ms, fw 1 2682 ms, fw 2 40 ms, fw io 94 ms, fw old 29 ms, other 93 ms
+2022-04-19.10:26:35 Forward step, parentC=26
+2022-04-19.10:26:35 Processing layer c=26 phase 3
+2022-04-19.10:26:35 Total 2943 ms, bw work 0 ms, bw io 0 ms, fw 1 2682 ms, fw 2 42 ms, fw io 94 ms, fw old 30 ms, other 93 ms
+2022-04-19.10:26:35 Forward step, parentC=25
+2022-04-19.10:26:35 Processing layer c=25 phase 2
+2022-04-19.10:26:35 Total 2945 ms, bw work 0 ms, bw io 0 ms, fw 1 2682 ms, fw 2 43 ms, fw io 94 ms, fw old 30 ms, other 94 ms
+2022-04-19.10:26:35 Forward step, parentC=26
+2022-04-19.10:26:35 Processing layer c=26 phase 1
+2022-04-19.10:26:35 Total 2945 ms, bw work 0 ms, bw io 0 ms, fw 1 2682 ms, fw 2 43 ms, fw io 94 ms, fw old 30 ms, other 94 ms
+2022-04-19.10:26:35 Forward step, parentC=27
+2022-04-19.10:26:35 Processing layer c=27 phase 1
+2022-04-19.10:26:35 Total 2945 ms, bw work 0 ms, bw io 0 ms, fw 1 2683 ms, fw 2 43 ms, fw io 94 ms, fw old 30 ms, other 94 ms
+2022-04-19.10:26:35 Forward step, parentC=28
+2022-04-19.10:26:35 Processing layer c=28 phase 1
+2022-04-19.10:26:35 Total 2945 ms, bw work 0 ms, bw io 0 ms, fw 1 2683 ms, fw 2 43 ms, fw io 94 ms, fw old 30 ms, other 94 ms
+2022-04-19.10:26:35 Forward step, parentC=29
+2022-04-19.10:26:35 Processing layer c=29 phase 1
+2022-04-19.10:26:35 Total 2945 ms, bw work 0 ms, bw io 0 ms, fw 1 2683 ms, fw 2 43 ms, fw io 94 ms, fw old 30 ms, other 94 ms
+2022-04-19.10:26:35 Forward step, parentC=28
+2022-04-19.10:26:35 Processing layer c=28 phase 2
+2022-04-19.10:26:35 Total 2945 ms, bw work 0 ms, bw io 0 ms, fw 1 2683 ms, fw 2 43 ms, fw io 94 ms, fw old 30 ms, other 94 ms
+2022-04-19.10:26:35 Forward step, parentC=27
+2022-04-19.10:26:35 Processing layer c=27 phase 2
+2022-04-19.10:26:35 Total 2945 ms, bw work 0 ms, bw io 0 ms, fw 1 2683 ms, fw 2 43 ms, fw io 94 ms, fw old 30 ms, other 94 ms
+2022-04-19.10:26:35 Forward step, parentC=26
+2022-04-19.10:26:35 Processing layer c=26 phase 2
+2022-04-19.10:26:35 Total 2945 ms, bw work 0 ms, bw io 0 ms, fw 1 2683 ms, fw 2 43 ms, fw io 94 ms, fw old 30 ms, other 94 ms
+2022-04-19.10:26:35 Forward step, parentC=27
+2022-04-19.10:26:35 Processing layer c=27 phase 1
+2022-04-19.10:26:35 Total 2945 ms, bw work 0 ms, bw io 0 ms, fw 1 2683 ms, fw 2 43 ms, fw io 94 ms, fw old 30 ms, other 94 ms
+2022-04-19.10:26:35 Forward step, parentC=26
+2022-04-19.10:26:35 Processing layer c=26 phase 3
+2022-04-19.10:26:35 Total 2945 ms, bw work 0 ms, bw io 0 ms, fw 1 2683 ms, fw 2 43 ms, fw io 94 ms, fw old 30 ms, other 94 ms
+2022-04-19.10:26:35 Forward step, parentC=25
+2022-04-19.10:26:35 Processing layer c=25 phase 3
+2022-04-19.10:26:35 Total 2947 ms, bw work 0 ms, bw io 0 ms, fw 1 2683 ms, fw 2 45 ms, fw io 94 ms, fw old 30 ms, other 94 ms
+2022-04-19.10:26:35 Forward step, parentC=24
+2022-04-19.10:26:35 Processing layer c=24 phase 3
+2022-04-19.10:26:35 Total 2977 ms, bw work 0 ms, bw io 0 ms, fw 1 2683 ms, fw 2 46 ms, fw io 94 ms, fw old 58 ms, other 94 ms
+2022-04-19.10:26:35 Forward step, parentC=23
+2022-04-19.10:26:35 Processing layer c=23 phase 2
+2022-04-19.10:26:35 Total 2980 ms, bw work 0 ms, bw io 0 ms, fw 1 2683 ms, fw 2 49 ms, fw io 94 ms, fw old 58 ms, other 94 ms
+2022-04-19.10:26:35 Forward step, parentC=24
+2022-04-19.10:26:35 Processing layer c=24 phase 1
+2022-04-19.10:26:35 Total 2983 ms, bw work 0 ms, bw io 0 ms, fw 1 2686 ms, fw 2 49 ms, fw io 94 ms, fw old 58 ms, other 94 ms
+2022-04-19.10:26:35 Forward step, parentC=25
+2022-04-19.10:26:35 Processing layer c=25 phase 1
+2022-04-19.10:26:35 Total 2985 ms, bw work 0 ms, bw io 0 ms, fw 1 2688 ms, fw 2 49 ms, fw io 94 ms, fw old 58 ms, other 94 ms
+2022-04-19.10:26:35 Forward step, parentC=26
+2022-04-19.10:26:35 Processing layer c=26 phase 1
+2022-04-19.10:26:35 Total 2988 ms, bw work 0 ms, bw io 0 ms, fw 1 2691 ms, fw 2 49 ms, fw io 94 ms, fw old 58 ms, other 94 ms
+2022-04-19.10:26:35 Forward step, parentC=27
+2022-04-19.10:26:35 Processing layer c=27 phase 1
+2022-04-19.10:26:35 Total 2990 ms, bw work 0 ms, bw io 0 ms, fw 1 2693 ms, fw 2 49 ms, fw io 94 ms, fw old 58 ms, other 94 ms
+2022-04-19.10:26:35 Forward step, parentC=28
+2022-04-19.10:26:35 Processing layer c=28 phase 1
+2022-04-19.10:26:35 Total 2992 ms, bw work 0 ms, bw io 0 ms, fw 1 2695 ms, fw 2 49 ms, fw io 94 ms, fw old 58 ms, other 94 ms
+2022-04-19.10:26:35 Forward step, parentC=29
+2022-04-19.10:26:35 Processing layer c=29 phase 1
+2022-04-19.10:26:35 Total 2993 ms, bw work 0 ms, bw io 0 ms, fw 1 2695 ms, fw 2 49 ms, fw io 94 ms, fw old 58 ms, other 94 ms
+2022-04-19.10:26:35 Forward step, parentC=30
+2022-04-19.10:26:35 Processing layer c=30 phase 1
+2022-04-19.10:26:35 Total 2993 ms, bw work 0 ms, bw io 0 ms, fw 1 2695 ms, fw 2 49 ms, fw io 94 ms, fw old 58 ms, other 94 ms
+2022-04-19.10:26:35 Forward step, parentC=29
+2022-04-19.10:26:35 Processing layer c=29 phase 2
+2022-04-19.10:26:35 Total 2993 ms, bw work 0 ms, bw io 0 ms, fw 1 2695 ms, fw 2 49 ms, fw io 94 ms, fw old 58 ms, other 94 ms
+2022-04-19.10:26:35 Forward step, parentC=28
+2022-04-19.10:26:35 Processing layer c=28 phase 2
+2022-04-19.10:26:35 Total 2994 ms, bw work 0 ms, bw io 0 ms, fw 1 2695 ms, fw 2 51 ms, fw io 94 ms, fw old 58 ms, other 94 ms
+2022-04-19.10:26:35 Forward step, parentC=29
+2022-04-19.10:26:35 Processing layer c=29 phase 1
+2022-04-19.10:26:35 Total 2995 ms, bw work 0 ms, bw io 0 ms, fw 1 2695 ms, fw 2 51 ms, fw io 94 ms, fw old 58 ms, other 94 ms
+2022-04-19.10:26:35 Forward step, parentC=30
+2022-04-19.10:26:35 Processing layer c=30 phase 1
+2022-04-19.10:26:35 Total 2995 ms, bw work 0 ms, bw io 0 ms, fw 1 2695 ms, fw 2 51 ms, fw io 94 ms, fw old 58 ms, other 94 ms
+2022-04-19.10:26:35 Forward step, parentC=29
+2022-04-19.10:26:35 Processing layer c=29 phase 2
+2022-04-19.10:26:35 Total 2995 ms, bw work 0 ms, bw io 0 ms, fw 1 2695 ms, fw 2 51 ms, fw io 94 ms, fw old 58 ms, other 94 ms
+2022-04-19.10:26:35 Forward step, parentC=28
+2022-04-19.10:26:35 Processing layer c=28 phase 3
+2022-04-19.10:26:35 Total 2997 ms, bw work 0 ms, bw io 0 ms, fw 1 2695 ms, fw 2 52 ms, fw io 94 ms, fw old 58 ms, other 94 ms
+2022-04-19.10:26:35 Forward step, parentC=27
+2022-04-19.10:26:35 Processing layer c=27 phase 2
+2022-04-19.10:26:35 Total 2998 ms, bw work 0 ms, bw io 0 ms, fw 1 2695 ms, fw 2 54 ms, fw io 94 ms, fw old 58 ms, other 94 ms
+2022-04-19.10:26:35 Forward step, parentC=28
+2022-04-19.10:26:35 Processing layer c=28 phase 1
+2022-04-19.10:26:35 Total 2998 ms, bw work 0 ms, bw io 0 ms, fw 1 2696 ms, fw 2 54 ms, fw io 94 ms, fw old 58 ms, other 94 ms
+2022-04-19.10:26:35 Forward step, parentC=27
+2022-04-19.10:26:35 Processing layer c=27 phase 3
+2022-04-19.10:26:35 Total 3000 ms, bw work 0 ms, bw io 0 ms, fw 1 2696 ms, fw 2 55 ms, fw io 94 ms, fw old 58 ms, other 94 ms
+2022-04-19.10:26:35 Forward step, parentC=26
+2022-04-19.10:26:35 Processing layer c=26 phase 2
+2022-04-19.10:26:35 Total 3001 ms, bw work 0 ms, bw io 0 ms, fw 1 2696 ms, fw 2 57 ms, fw io 94 ms, fw old 58 ms, other 94 ms
+2022-04-19.10:26:35 Forward step, parentC=27
+2022-04-19.10:26:35 Processing layer c=27 phase 1
+2022-04-19.10:26:35 Total 3002 ms, bw work 0 ms, bw io 0 ms, fw 1 2696 ms, fw 2 57 ms, fw io 94 ms, fw old 58 ms, other 94 ms
+2022-04-19.10:26:35 Forward step, parentC=28
+2022-04-19.10:26:35 Processing layer c=28 phase 1
+2022-04-19.10:26:35 Total 3002 ms, bw work 0 ms, bw io 0 ms, fw 1 2696 ms, fw 2 57 ms, fw io 94 ms, fw old 58 ms, other 94 ms
+2022-04-19.10:26:35 Forward step, parentC=27
+2022-04-19.10:26:35 Processing layer c=27 phase 2
+2022-04-19.10:26:35 Total 3002 ms, bw work 0 ms, bw io 0 ms, fw 1 2696 ms, fw 2 57 ms, fw io 94 ms, fw old 58 ms, other 94 ms
+2022-04-19.10:26:35 Forward step, parentC=26
+2022-04-19.10:26:35 Processing layer c=26 phase 3
+2022-04-19.10:26:35 Total 3004 ms, bw work 0 ms, bw io 0 ms, fw 1 2696 ms, fw 2 58 ms, fw io 94 ms, fw old 59 ms, other 95 ms
+2022-04-19.10:26:35 Forward step, parentC=25
+2022-04-19.10:26:35 Processing layer c=25 phase 2
+2022-04-19.10:26:35 Total 3005 ms, bw work 0 ms, bw io 0 ms, fw 1 2696 ms, fw 2 60 ms, fw io 94 ms, fw old 59 ms, other 95 ms
+2022-04-19.10:26:35 Forward step, parentC=26
+2022-04-19.10:26:35 Processing layer c=26 phase 1
+2022-04-19.10:26:35 Total 3005 ms, bw work 0 ms, bw io 0 ms, fw 1 2696 ms, fw 2 60 ms, fw io 94 ms, fw old 59 ms, other 95 ms
+2022-04-19.10:26:35 Forward step, parentC=27
+2022-04-19.10:26:35 Processing layer c=27 phase 1
+2022-04-19.10:26:35 Total 3006 ms, bw work 0 ms, bw io 0 ms, fw 1 2697 ms, fw 2 60 ms, fw io 94 ms, fw old 59 ms, other 95 ms
+2022-04-19.10:26:35 Forward step, parentC=28
+2022-04-19.10:26:35 Processing layer c=28 phase 1
+2022-04-19.10:26:35 Total 3006 ms, bw work 0 ms, bw io 0 ms, fw 1 2697 ms, fw 2 60 ms, fw io 94 ms, fw old 59 ms, other 95 ms
+2022-04-19.10:26:35 Forward step, parentC=29
+2022-04-19.10:26:35 Processing layer c=29 phase 1
+2022-04-19.10:26:35 Total 3006 ms, bw work 0 ms, bw io 0 ms, fw 1 2697 ms, fw 2 60 ms, fw io 94 ms, fw old 59 ms, other 95 ms
+2022-04-19.10:26:35 Forward step, parentC=28
+2022-04-19.10:26:35 Processing layer c=28 phase 2
+2022-04-19.10:26:35 Total 3006 ms, bw work 0 ms, bw io 0 ms, fw 1 2697 ms, fw 2 60 ms, fw io 94 ms, fw old 59 ms, other 95 ms
+2022-04-19.10:26:35 Forward step, parentC=27
+2022-04-19.10:26:35 Processing layer c=27 phase 2
+2022-04-19.10:26:35 Total 3006 ms, bw work 0 ms, bw io 0 ms, fw 1 2697 ms, fw 2 60 ms, fw io 94 ms, fw old 59 ms, other 95 ms
+2022-04-19.10:26:35 Forward step, parentC=26
+2022-04-19.10:26:35 Processing layer c=26 phase 2
+2022-04-19.10:26:35 Total 3006 ms, bw work 0 ms, bw io 0 ms, fw 1 2697 ms, fw 2 60 ms, fw io 94 ms, fw old 59 ms, other 95 ms
+2022-04-19.10:26:35 Forward step, parentC=25
+2022-04-19.10:26:35 Processing layer c=25 phase 3
+2022-04-19.10:26:35 Total 3008 ms, bw work 0 ms, bw io 0 ms, fw 1 2697 ms, fw 2 61 ms, fw io 94 ms, fw old 59 ms, other 95 ms
+2022-04-19.10:26:35 Forward step, parentC=24
+2022-04-19.10:26:35 Processing layer c=24 phase 2
+2022-04-19.10:26:35 Total 3009 ms, bw work 0 ms, bw io 0 ms, fw 1 2697 ms, fw 2 62 ms, fw io 94 ms, fw old 59 ms, other 95 ms
+2022-04-19.10:26:35 Forward step, parentC=25
+2022-04-19.10:26:35 Processing layer c=25 phase 1
+2022-04-19.10:26:35 Total 3010 ms, bw work 0 ms, bw io 0 ms, fw 1 2697 ms, fw 2 62 ms, fw io 94 ms, fw old 59 ms, other 95 ms
+2022-04-19.10:26:35 Forward step, parentC=26
+2022-04-19.10:26:35 Processing layer c=26 phase 1
+2022-04-19.10:26:35 Total 3010 ms, bw work 0 ms, bw io 0 ms, fw 1 2698 ms, fw 2 62 ms, fw io 94 ms, fw old 59 ms, other 95 ms
+2022-04-19.10:26:35 Forward step, parentC=27
+2022-04-19.10:26:35 Processing layer c=27 phase 1
+2022-04-19.10:26:35 Total 3011 ms, bw work 0 ms, bw io 0 ms, fw 1 2698 ms, fw 2 62 ms, fw io 94 ms, fw old 59 ms, other 95 ms
+2022-04-19.10:26:35 Forward step, parentC=28
+2022-04-19.10:26:35 Processing layer c=28 phase 1
+2022-04-19.10:26:35 Total 3011 ms, bw work 0 ms, bw io 0 ms, fw 1 2698 ms, fw 2 62 ms, fw io 94 ms, fw old 59 ms, other 95 ms
+2022-04-19.10:26:35 Forward step, parentC=27
+2022-04-19.10:26:35 Processing layer c=27 phase 2
+2022-04-19.10:26:35 Total 3011 ms, bw work 0 ms, bw io 0 ms, fw 1 2698 ms, fw 2 62 ms, fw io 94 ms, fw old 59 ms, other 95 ms
+2022-04-19.10:26:35 Forward step, parentC=28
+2022-04-19.10:26:35 Processing layer c=28 phase 1
+2022-04-19.10:26:35 Total 3011 ms, bw work 0 ms, bw io 0 ms, fw 1 2698 ms, fw 2 62 ms, fw io 94 ms, fw old 59 ms, other 95 ms
+2022-04-19.10:26:35 Forward step, parentC=27
+2022-04-19.10:26:35 Processing layer c=27 phase 3
+2022-04-19.10:26:35 Total 3011 ms, bw work 0 ms, bw io 0 ms, fw 1 2698 ms, fw 2 62 ms, fw io 94 ms, fw old 59 ms, other 95 ms
+2022-04-19.10:26:35 Forward step, parentC=26
+2022-04-19.10:26:35 Processing layer c=26 phase 2
+2022-04-19.10:26:35 Total 3011 ms, bw work 0 ms, bw io 0 ms, fw 1 2698 ms, fw 2 62 ms, fw io 94 ms, fw old 59 ms, other 95 ms
+2022-04-19.10:26:35 Forward step, parentC=27
+2022-04-19.10:26:35 Processing layer c=27 phase 1
+2022-04-19.10:26:35 Total 3011 ms, bw work 0 ms, bw io 0 ms, fw 1 2698 ms, fw 2 62 ms, fw io 94 ms, fw old 59 ms, other 95 ms
+2022-04-19.10:26:35 Forward step, parentC=28
+2022-04-19.10:26:35 Processing layer c=28 phase 1
+2022-04-19.10:26:35 Total 3011 ms, bw work 0 ms, bw io 0 ms, fw 1 2699 ms, fw 2 62 ms, fw io 94 ms, fw old 59 ms, other 95 ms
+2022-04-19.10:26:35 Forward step, parentC=29
+2022-04-19.10:26:35 Processing layer c=29 phase 1
+2022-04-19.10:26:35 Total 3011 ms, bw work 0 ms, bw io 0 ms, fw 1 2699 ms, fw 2 62 ms, fw io 94 ms, fw old 59 ms, other 95 ms
+2022-04-19.10:26:35 Forward step, parentC=28
+2022-04-19.10:26:35 Processing layer c=28 phase 2
+2022-04-19.10:26:35 Total 3011 ms, bw work 0 ms, bw io 0 ms, fw 1 2699 ms, fw 2 62 ms, fw io 94 ms, fw old 59 ms, other 95 ms
+2022-04-19.10:26:35 Forward step, parentC=27
+2022-04-19.10:26:35 Processing layer c=27 phase 2
+2022-04-19.10:26:35 Total 3011 ms, bw work 0 ms, bw io 0 ms, fw 1 2699 ms, fw 2 63 ms, fw io 94 ms, fw old 59 ms, other 95 ms
+2022-04-19.10:26:35 Forward step, parentC=26
+2022-04-19.10:26:35 Processing layer c=26 phase 3
+2022-04-19.10:26:35 Total 3011 ms, bw work 0 ms, bw io 0 ms, fw 1 2699 ms, fw 2 63 ms, fw io 94 ms, fw old 59 ms, other 95 ms
+2022-04-19.10:26:35 Forward step, parentC=25
+2022-04-19.10:26:35 Processing layer c=25 phase 2
+2022-04-19.10:26:35 Total 3011 ms, bw work 0 ms, bw io 0 ms, fw 1 2699 ms, fw 2 63 ms, fw io 94 ms, fw old 59 ms, other 95 ms
+2022-04-19.10:26:35 Forward step, parentC=26
+2022-04-19.10:26:35 Processing layer c=26 phase 1
+2022-04-19.10:26:35 Total 3011 ms, bw work 0 ms, bw io 0 ms, fw 1 2699 ms, fw 2 63 ms, fw io 94 ms, fw old 59 ms, other 95 ms
+2022-04-19.10:26:35 Forward step, parentC=25
+2022-04-19.10:26:35 Processing layer c=25 phase 3
+2022-04-19.10:26:35 Total 3011 ms, bw work 0 ms, bw io 0 ms, fw 1 2699 ms, fw 2 63 ms, fw io 94 ms, fw old 59 ms, other 95 ms
+2022-04-19.10:26:35 Forward step, parentC=24
+2022-04-19.10:26:35 Processing layer c=24 phase 3
+2022-04-19.10:26:35 Total 3013 ms, bw work 0 ms, bw io 0 ms, fw 1 2699 ms, fw 2 64 ms, fw io 94 ms, fw old 59 ms, other 95 ms
+2022-04-19.10:26:35 Forward step, parentC=23
+2022-04-19.10:26:35 Processing layer c=23 phase 3
+2022-04-19.10:26:35 Total 3122 ms, bw work 0 ms, bw io 0 ms, fw 1 2699 ms, fw 2 66 ms, fw io 94 ms, fw old 166 ms, other 95 ms
+2022-04-19.10:26:35 Forward step, parentC=22
+2022-04-19.10:26:35 Processing layer c=22 phase 2
+2022-04-19.10:26:35 Total 3125 ms, bw work 0 ms, bw io 0 ms, fw 1 2699 ms, fw 2 69 ms, fw io 94 ms, fw old 166 ms, other 95 ms
+2022-04-19.10:26:35 Forward step, parentC=23
+2022-04-19.10:26:35 Processing layer c=23 phase 1
+2022-04-19.10:26:35 Total 3129 ms, bw work 0 ms, bw io 0 ms, fw 1 2702 ms, fw 2 69 ms, fw io 94 ms, fw old 166 ms, other 95 ms
+2022-04-19.10:26:35 Forward step, parentC=24
+2022-04-19.10:26:35 Processing layer c=24 phase 1
+2022-04-19.10:26:35 Total 3130 ms, bw work 0 ms, bw io 0 ms, fw 1 2704 ms, fw 2 69 ms, fw io 94 ms, fw old 166 ms, other 95 ms
+2022-04-19.10:26:35 Forward step, parentC=25
+2022-04-19.10:26:35 Processing layer c=25 phase 1
+2022-04-19.10:26:35 Total 3132 ms, bw work 0 ms, bw io 0 ms, fw 1 2706 ms, fw 2 69 ms, fw io 94 ms, fw old 166 ms, other 95 ms
+2022-04-19.10:26:35 Forward step, parentC=26
+2022-04-19.10:26:35 Processing layer c=26 phase 1
+2022-04-19.10:26:35 Total 3134 ms, bw work 0 ms, bw io 0 ms, fw 1 2708 ms, fw 2 69 ms, fw io 94 ms, fw old 166 ms, other 95 ms
+2022-04-19.10:26:35 Forward step, parentC=27
+2022-04-19.10:26:35 Processing layer c=27 phase 1
+2022-04-19.10:26:35 Total 3136 ms, bw work 0 ms, bw io 0 ms, fw 1 2709 ms, fw 2 69 ms, fw io 94 ms, fw old 166 ms, other 95 ms
+2022-04-19.10:26:35 Forward step, parentC=28
+2022-04-19.10:26:35 Processing layer c=28 phase 1
+2022-04-19.10:26:35 Total 3137 ms, bw work 0 ms, bw io 0 ms, fw 1 2711 ms, fw 2 69 ms, fw io 94 ms, fw old 166 ms, other 95 ms
+2022-04-19.10:26:35 Forward step, parentC=29
+2022-04-19.10:26:35 Processing layer c=29 phase 1
+2022-04-19.10:26:35 Total 3137 ms, bw work 0 ms, bw io 0 ms, fw 1 2711 ms, fw 2 69 ms, fw io 94 ms, fw old 166 ms, other 95 ms
+2022-04-19.10:26:35 Forward step, parentC=30
+2022-04-19.10:26:35 Processing layer c=30 phase 1
+2022-04-19.10:26:35 Total 3138 ms, bw work 0 ms, bw io 0 ms, fw 1 2711 ms, fw 2 69 ms, fw io 94 ms, fw old 166 ms, other 95 ms
+2022-04-19.10:26:35 Forward step, parentC=29
+2022-04-19.10:26:35 Processing layer c=29 phase 2
+2022-04-19.10:26:35 Total 3138 ms, bw work 0 ms, bw io 0 ms, fw 1 2711 ms, fw 2 69 ms, fw io 94 ms, fw old 166 ms, other 96 ms
+2022-04-19.10:26:35 Forward step, parentC=28
+2022-04-19.10:26:35 Processing layer c=28 phase 2
+2022-04-19.10:26:35 Total 3139 ms, bw work 0 ms, bw io 0 ms, fw 1 2711 ms, fw 2 71 ms, fw io 94 ms, fw old 166 ms, other 96 ms
+2022-04-19.10:26:35 Forward step, parentC=27
+2022-04-19.10:26:35 Processing layer c=27 phase 2
+2022-04-19.10:26:35 Total 3140 ms, bw work 0 ms, bw io 0 ms, fw 1 2711 ms, fw 2 72 ms, fw io 94 ms, fw old 166 ms, other 96 ms
+2022-04-19.10:26:35 Forward step, parentC=28
+2022-04-19.10:26:35 Processing layer c=28 phase 1
+2022-04-19.10:26:35 Total 3141 ms, bw work 0 ms, bw io 0 ms, fw 1 2711 ms, fw 2 72 ms, fw io 94 ms, fw old 166 ms, other 96 ms
+2022-04-19.10:26:35 Forward step, parentC=27
+2022-04-19.10:26:35 Processing layer c=27 phase 3
+2022-04-19.10:26:35 Total 3142 ms, bw work 0 ms, bw io 0 ms, fw 1 2711 ms, fw 2 73 ms, fw io 94 ms, fw old 166 ms, other 96 ms
+2022-04-19.10:26:35 Forward step, parentC=26
+2022-04-19.10:26:35 Processing layer c=26 phase 2
+2022-04-19.10:26:35 Total 3144 ms, bw work 0 ms, bw io 0 ms, fw 1 2711 ms, fw 2 75 ms, fw io 94 ms, fw old 166 ms, other 96 ms
+2022-04-19.10:26:35 Forward step, parentC=27
+2022-04-19.10:26:35 Processing layer c=27 phase 1
+2022-04-19.10:26:35 Total 3144 ms, bw work 0 ms, bw io 0 ms, fw 1 2711 ms, fw 2 75 ms, fw io 94 ms, fw old 166 ms, other 96 ms
+2022-04-19.10:26:35 Forward step, parentC=28
+2022-04-19.10:26:35 Processing layer c=28 phase 1
+2022-04-19.10:26:35 Total 3144 ms, bw work 0 ms, bw io 0 ms, fw 1 2711 ms, fw 2 75 ms, fw io 94 ms, fw old 166 ms, other 96 ms
+2022-04-19.10:26:35 Forward step, parentC=27
+2022-04-19.10:26:35 Processing layer c=27 phase 2
+2022-04-19.10:26:35 Total 3144 ms, bw work 0 ms, bw io 0 ms, fw 1 2711 ms, fw 2 75 ms, fw io 94 ms, fw old 166 ms, other 96 ms
+2022-04-19.10:26:35 Forward step, parentC=26
+2022-04-19.10:26:35 Processing layer c=26 phase 3
+2022-04-19.10:26:35 Total 3146 ms, bw work 0 ms, bw io 0 ms, fw 1 2711 ms, fw 2 76 ms, fw io 94 ms, fw old 166 ms, other 96 ms
+2022-04-19.10:26:35 Forward step, parentC=25
+2022-04-19.10:26:35 Processing layer c=25 phase 2
+2022-04-19.10:26:35 Total 3147 ms, bw work 0 ms, bw io 0 ms, fw 1 2711 ms, fw 2 78 ms, fw io 94 ms, fw old 166 ms, other 96 ms
+2022-04-19.10:26:35 Forward step, parentC=26
+2022-04-19.10:26:35 Processing layer c=26 phase 1
+2022-04-19.10:26:35 Total 3147 ms, bw work 0 ms, bw io 0 ms, fw 1 2712 ms, fw 2 78 ms, fw io 94 ms, fw old 166 ms, other 96 ms
+2022-04-19.10:26:35 Forward step, parentC=27
+2022-04-19.10:26:35 Processing layer c=27 phase 1
+2022-04-19.10:26:35 Total 3147 ms, bw work 0 ms, bw io 0 ms, fw 1 2712 ms, fw 2 78 ms, fw io 94 ms, fw old 166 ms, other 96 ms
+2022-04-19.10:26:35 Forward step, parentC=28
+2022-04-19.10:26:35 Processing layer c=28 phase 1
+2022-04-19.10:26:35 Total 3147 ms, bw work 0 ms, bw io 0 ms, fw 1 2712 ms, fw 2 78 ms, fw io 94 ms, fw old 166 ms, other 96 ms
+2022-04-19.10:26:35 Forward step, parentC=27
+2022-04-19.10:26:35 Processing layer c=27 phase 2
+2022-04-19.10:26:35 Total 3147 ms, bw work 0 ms, bw io 0 ms, fw 1 2712 ms, fw 2 78 ms, fw io 94 ms, fw old 166 ms, other 96 ms
+2022-04-19.10:26:35 Forward step, parentC=28
+2022-04-19.10:26:35 Processing layer c=28 phase 1
+2022-04-19.10:26:35 Total 3147 ms, bw work 0 ms, bw io 0 ms, fw 1 2712 ms, fw 2 78 ms, fw io 94 ms, fw old 166 ms, other 96 ms
+2022-04-19.10:26:35 Forward step, parentC=27
+2022-04-19.10:26:35 Processing layer c=27 phase 3
+2022-04-19.10:26:35 Total 3147 ms, bw work 0 ms, bw io 0 ms, fw 1 2712 ms, fw 2 78 ms, fw io 94 ms, fw old 166 ms, other 96 ms
+2022-04-19.10:26:35 Forward step, parentC=26
+2022-04-19.10:26:35 Processing layer c=26 phase 2
+2022-04-19.10:26:35 Total 3147 ms, bw work 0 ms, bw io 0 ms, fw 1 2712 ms, fw 2 78 ms, fw io 94 ms, fw old 166 ms, other 96 ms
+2022-04-19.10:26:35 Forward step, parentC=27
+2022-04-19.10:26:35 Processing layer c=27 phase 1
+2022-04-19.10:26:35 Total 3147 ms, bw work 0 ms, bw io 0 ms, fw 1 2712 ms, fw 2 78 ms, fw io 94 ms, fw old 166 ms, other 96 ms
+2022-04-19.10:26:35 Forward step, parentC=26
+2022-04-19.10:26:35 Processing layer c=26 phase 3
+2022-04-19.10:26:35 Total 3147 ms, bw work 0 ms, bw io 0 ms, fw 1 2712 ms, fw 2 78 ms, fw io 94 ms, fw old 166 ms, other 96 ms
+2022-04-19.10:26:35 Forward step, parentC=25
+2022-04-19.10:26:35 Processing layer c=25 phase 3
+2022-04-19.10:26:35 Total 3149 ms, bw work 0 ms, bw io 0 ms, fw 1 2712 ms, fw 2 79 ms, fw io 94 ms, fw old 166 ms, other 96 ms
+2022-04-19.10:26:35 Forward step, parentC=24
+2022-04-19.10:26:35 Processing layer c=24 phase 2
+2022-04-19.10:26:35 Total 3150 ms, bw work 0 ms, bw io 0 ms, fw 1 2712 ms, fw 2 80 ms, fw io 94 ms, fw old 166 ms, other 96 ms
+2022-04-19.10:26:35 Forward step, parentC=25
+2022-04-19.10:26:35 Processing layer c=25 phase 1
+2022-04-19.10:26:35 Total 3151 ms, bw work 0 ms, bw io 0 ms, fw 1 2712 ms, fw 2 80 ms, fw io 94 ms, fw old 166 ms, other 96 ms
+2022-04-19.10:26:35 Forward step, parentC=26
+2022-04-19.10:26:35 Processing layer c=26 phase 1
+2022-04-19.10:26:35 Total 3151 ms, bw work 0 ms, bw io 0 ms, fw 1 2712 ms, fw 2 80 ms, fw io 94 ms, fw old 166 ms, other 96 ms
+2022-04-19.10:26:35 Forward step, parentC=25
+2022-04-19.10:26:35 Processing layer c=25 phase 2
+2022-04-19.10:26:35 Total 3151 ms, bw work 0 ms, bw io 0 ms, fw 1 2712 ms, fw 2 80 ms, fw io 94 ms, fw old 166 ms, other 96 ms
+2022-04-19.10:26:35 Forward step, parentC=24
+2022-04-19.10:26:35 Processing layer c=24 phase 3
+2022-04-19.10:26:35 Total 3152 ms, bw work 0 ms, bw io 0 ms, fw 1 2712 ms, fw 2 82 ms, fw io 94 ms, fw old 166 ms, other 96 ms
+2022-04-19.10:26:35 Forward step, parentC=23
+2022-04-19.10:26:35 Processing layer c=23 phase 2
+2022-04-19.10:26:35 Total 3154 ms, bw work 0 ms, bw io 0 ms, fw 1 2712 ms, fw 2 83 ms, fw io 94 ms, fw old 166 ms, other 96 ms
+2022-04-19.10:26:35 Forward step, parentC=24
+2022-04-19.10:26:35 Processing layer c=24 phase 1
+2022-04-19.10:26:35 Total 3154 ms, bw work 0 ms, bw io 0 ms, fw 1 2712 ms, fw 2 83 ms, fw io 94 ms, fw old 166 ms, other 96 ms
+2022-04-19.10:26:35 Forward step, parentC=25
+2022-04-19.10:26:35 Processing layer c=25 phase 1
+2022-04-19.10:26:35 Total 3154 ms, bw work 0 ms, bw io 0 ms, fw 1 2712 ms, fw 2 83 ms, fw io 94 ms, fw old 166 ms, other 96 ms
+2022-04-19.10:26:35 Forward step, parentC=26
+2022-04-19.10:26:35 Processing layer c=26 phase 1
+2022-04-19.10:26:35 Total 3154 ms, bw work 0 ms, bw io 0 ms, fw 1 2713 ms, fw 2 83 ms, fw io 94 ms, fw old 166 ms, other 96 ms
+2022-04-19.10:26:35 Forward step, parentC=27
+2022-04-19.10:26:35 Processing layer c=27 phase 1
+2022-04-19.10:26:35 Total 3155 ms, bw work 0 ms, bw io 0 ms, fw 1 2713 ms, fw 2 83 ms, fw io 94 ms, fw old 166 ms, other 96 ms
+2022-04-19.10:26:35 Forward step, parentC=28
+2022-04-19.10:26:35 Processing layer c=28 phase 1
+2022-04-19.10:26:35 Total 3155 ms, bw work 0 ms, bw io 0 ms, fw 1 2713 ms, fw 2 83 ms, fw io 94 ms, fw old 166 ms, other 96 ms
+2022-04-19.10:26:35 Forward step, parentC=27
+2022-04-19.10:26:35 Processing layer c=27 phase 2
+2022-04-19.10:26:35 Total 3155 ms, bw work 0 ms, bw io 0 ms, fw 1 2713 ms, fw 2 83 ms, fw io 94 ms, fw old 166 ms, other 96 ms
+2022-04-19.10:26:35 Forward step, parentC=26
+2022-04-19.10:26:35 Processing layer c=26 phase 2
+2022-04-19.10:26:35 Total 3155 ms, bw work 0 ms, bw io 0 ms, fw 1 2713 ms, fw 2 83 ms, fw io 94 ms, fw old 166 ms, other 96 ms
+2022-04-19.10:26:35 Forward step, parentC=25
+2022-04-19.10:26:35 Processing layer c=25 phase 2
+2022-04-19.10:26:35 Total 3155 ms, bw work 0 ms, bw io 0 ms, fw 1 2713 ms, fw 2 83 ms, fw io 94 ms, fw old 166 ms, other 96 ms
+2022-04-19.10:26:35 Forward step, parentC=24
+2022-04-19.10:26:35 Processing layer c=24 phase 2
+2022-04-19.10:26:35 Total 3155 ms, bw work 0 ms, bw io 0 ms, fw 1 2713 ms, fw 2 83 ms, fw io 94 ms, fw old 166 ms, other 96 ms
+2022-04-19.10:26:35 Forward step, parentC=25
+2022-04-19.10:26:35 Processing layer c=25 phase 1
+2022-04-19.10:26:35 Total 3155 ms, bw work 0 ms, bw io 0 ms, fw 1 2713 ms, fw 2 83 ms, fw io 94 ms, fw old 166 ms, other 96 ms
+2022-04-19.10:26:35 Forward step, parentC=26
+2022-04-19.10:26:35 Processing layer c=26 phase 1
+2022-04-19.10:26:35 Total 3155 ms, bw work 0 ms, bw io 0 ms, fw 1 2713 ms, fw 2 83 ms, fw io 94 ms, fw old 166 ms, other 96 ms
+2022-04-19.10:26:35 Forward step, parentC=27
+2022-04-19.10:26:35 Processing layer c=27 phase 1
+2022-04-19.10:26:35 Total 3155 ms, bw work 0 ms, bw io 0 ms, fw 1 2713 ms, fw 2 83 ms, fw io 94 ms, fw old 166 ms, other 96 ms
+2022-04-19.10:26:35 Forward step, parentC=28
+2022-04-19.10:26:35 Processing layer c=28 phase 1
+2022-04-19.10:26:35 Total 3156 ms, bw work 0 ms, bw io 0 ms, fw 1 2714 ms, fw 2 83 ms, fw io 94 ms, fw old 166 ms, other 96 ms
+2022-04-19.10:26:35 Forward step, parentC=27
+2022-04-19.10:26:35 Processing layer c=27 phase 2
+2022-04-19.10:26:35 Total 3156 ms, bw work 0 ms, bw io 0 ms, fw 1 2714 ms, fw 2 83 ms, fw io 94 ms, fw old 166 ms, other 96 ms
+2022-04-19.10:26:35 Forward step, parentC=28
+2022-04-19.10:26:35 Processing layer c=28 phase 1
+2022-04-19.10:26:35 Total 3156 ms, bw work 0 ms, bw io 0 ms, fw 1 2714 ms, fw 2 83 ms, fw io 94 ms, fw old 166 ms, other 96 ms
+2022-04-19.10:26:35 Forward step, parentC=27
+2022-04-19.10:26:35 Processing layer c=27 phase 3
+2022-04-19.10:26:35 Total 3156 ms, bw work 0 ms, bw io 0 ms, fw 1 2714 ms, fw 2 83 ms, fw io 94 ms, fw old 166 ms, other 96 ms
+2022-04-19.10:26:35 Forward step, parentC=26
+2022-04-19.10:26:35 Processing layer c=26 phase 2
+2022-04-19.10:26:35 Total 3156 ms, bw work 0 ms, bw io 0 ms, fw 1 2714 ms, fw 2 83 ms, fw io 94 ms, fw old 166 ms, other 96 ms
+2022-04-19.10:26:35 Forward step, parentC=25
+2022-04-19.10:26:35 Processing layer c=25 phase 2
+2022-04-19.10:26:35 Total 3156 ms, bw work 0 ms, bw io 0 ms, fw 1 2714 ms, fw 2 83 ms, fw io 94 ms, fw old 166 ms, other 96 ms
+2022-04-19.10:26:35 Forward step, parentC=24
+2022-04-19.10:26:35 Processing layer c=24 phase 3
+2022-04-19.10:26:35 Total 3156 ms, bw work 0 ms, bw io 0 ms, fw 1 2714 ms, fw 2 83 ms, fw io 94 ms, fw old 166 ms, other 96 ms
+2022-04-19.10:26:35 Forward step, parentC=23
+2022-04-19.10:26:35 Processing layer c=23 phase 3
+2022-04-19.10:26:35 Total 3157 ms, bw work 0 ms, bw io 0 ms, fw 1 2714 ms, fw 2 85 ms, fw io 94 ms, fw old 166 ms, other 96 ms
+2022-04-19.10:26:35 Forward step, parentC=22
+2022-04-19.10:26:35 Processing layer c=22 phase 3
+2022-04-19.10:26:35 Total 3215 ms, bw work 0 ms, bw io 0 ms, fw 1 2714 ms, fw 2 87 ms, fw io 94 ms, fw old 222 ms, other 97 ms
+2022-04-19.10:26:35 Forward step, parentC=21
+2022-04-19.10:26:35 Processing layer c=21 phase 2
+2022-04-19.10:26:35 Total 3220 ms, bw work 0 ms, bw io 0 ms, fw 1 2714 ms, fw 2 91 ms, fw io 94 ms, fw old 222 ms, other 97 ms
+2022-04-19.10:26:35 Forward step, parentC=22
+2022-04-19.10:26:35 Processing layer c=22 phase 1
+2022-04-19.10:26:35 Total 3225 ms, bw work 0 ms, bw io 0 ms, fw 1 2719 ms, fw 2 91 ms, fw io 94 ms, fw old 222 ms, other 97 ms
+2022-04-19.10:26:35 Forward step, parentC=23
+2022-04-19.10:26:35 Processing layer c=23 phase 1
+2022-04-19.10:26:35 Total 3227 ms, bw work 0 ms, bw io 0 ms, fw 1 2721 ms, fw 2 91 ms, fw io 94 ms, fw old 222 ms, other 97 ms
+2022-04-19.10:26:35 Forward step, parentC=24
+2022-04-19.10:26:35 Processing layer c=24 phase 1
+2022-04-19.10:26:35 Total 3228 ms, bw work 0 ms, bw io 0 ms, fw 1 2722 ms, fw 2 91 ms, fw io 94 ms, fw old 222 ms, other 97 ms
+2022-04-19.10:26:35 Forward step, parentC=25
+2022-04-19.10:26:35 Processing layer c=25 phase 1
+2022-04-19.10:26:35 Total 3230 ms, bw work 0 ms, bw io 0 ms, fw 1 2724 ms, fw 2 91 ms, fw io 94 ms, fw old 222 ms, other 97 ms
+2022-04-19.10:26:35 Forward step, parentC=26
+2022-04-19.10:26:35 Processing layer c=26 phase 1
+2022-04-19.10:26:35 Total 3232 ms, bw work 0 ms, bw io 0 ms, fw 1 2726 ms, fw 2 91 ms, fw io 94 ms, fw old 222 ms, other 97 ms
+2022-04-19.10:26:35 Forward step, parentC=27
+2022-04-19.10:26:35 Processing layer c=27 phase 1
+2022-04-19.10:26:35 Total 3234 ms, bw work 0 ms, bw io 0 ms, fw 1 2728 ms, fw 2 91 ms, fw io 94 ms, fw old 222 ms, other 97 ms
+2022-04-19.10:26:35 Forward step, parentC=28
+2022-04-19.10:26:35 Processing layer c=28 phase 1
+2022-04-19.10:26:35 Total 3236 ms, bw work 0 ms, bw io 0 ms, fw 1 2730 ms, fw 2 91 ms, fw io 94 ms, fw old 222 ms, other 97 ms
+2022-04-19.10:26:35 Forward step, parentC=29
+2022-04-19.10:26:35 Processing layer c=29 phase 1
+2022-04-19.10:26:35 Total 3236 ms, bw work 0 ms, bw io 0 ms, fw 1 2730 ms, fw 2 91 ms, fw io 94 ms, fw old 222 ms, other 97 ms
+2022-04-19.10:26:35 Forward step, parentC=30
+2022-04-19.10:26:35 Processing layer c=30 phase 1
+2022-04-19.10:26:35 Total 3236 ms, bw work 0 ms, bw io 0 ms, fw 1 2730 ms, fw 2 91 ms, fw io 94 ms, fw old 222 ms, other 97 ms
+2022-04-19.10:26:35 Forward step, parentC=29
+2022-04-19.10:26:35 Processing layer c=29 phase 2
+2022-04-19.10:26:35 Total 3236 ms, bw work 0 ms, bw io 0 ms, fw 1 2730 ms, fw 2 91 ms, fw io 94 ms, fw old 222 ms, other 97 ms
+2022-04-19.10:26:35 Forward step, parentC=28
+2022-04-19.10:26:35 Processing layer c=28 phase 2
+2022-04-19.10:26:35 Total 3237 ms, bw work 0 ms, bw io 0 ms, fw 1 2730 ms, fw 2 92 ms, fw io 94 ms, fw old 222 ms, other 97 ms
+2022-04-19.10:26:35 Forward step, parentC=27
+2022-04-19.10:26:35 Processing layer c=27 phase 2
+2022-04-19.10:26:35 Total 3239 ms, bw work 0 ms, bw io 0 ms, fw 1 2730 ms, fw 2 94 ms, fw io 94 ms, fw old 222 ms, other 97 ms
+2022-04-19.10:26:35 Forward step, parentC=28
+2022-04-19.10:26:35 Processing layer c=28 phase 1
+2022-04-19.10:26:35 Total 3239 ms, bw work 0 ms, bw io 0 ms, fw 1 2730 ms, fw 2 94 ms, fw io 94 ms, fw old 222 ms, other 97 ms
+2022-04-19.10:26:35 Forward step, parentC=29
+2022-04-19.10:26:35 Processing layer c=29 phase 1
+2022-04-19.10:26:35 Total 3239 ms, bw work 0 ms, bw io 0 ms, fw 1 2730 ms, fw 2 94 ms, fw io 94 ms, fw old 222 ms, other 97 ms
+2022-04-19.10:26:35 Forward step, parentC=28
+2022-04-19.10:26:35 Processing layer c=28 phase 2
+2022-04-19.10:26:35 Total 3239 ms, bw work 0 ms, bw io 0 ms, fw 1 2730 ms, fw 2 94 ms, fw io 94 ms, fw old 222 ms, other 97 ms
+2022-04-19.10:26:35 Forward step, parentC=27
+2022-04-19.10:26:35 Processing layer c=27 phase 3
+2022-04-19.10:26:35 Total 3241 ms, bw work 0 ms, bw io 0 ms, fw 1 2730 ms, fw 2 95 ms, fw io 94 ms, fw old 222 ms, other 97 ms
+2022-04-19.10:26:35 Forward step, parentC=26
+2022-04-19.10:26:35 Processing layer c=26 phase 2
+2022-04-19.10:26:35 Total 3242 ms, bw work 0 ms, bw io 0 ms, fw 1 2730 ms, fw 2 97 ms, fw io 94 ms, fw old 222 ms, other 97 ms
+2022-04-19.10:26:35 Forward step, parentC=27
+2022-04-19.10:26:35 Processing layer c=27 phase 1
+2022-04-19.10:26:35 Total 3243 ms, bw work 0 ms, bw io 0 ms, fw 1 2730 ms, fw 2 97 ms, fw io 94 ms, fw old 222 ms, other 97 ms
+2022-04-19.10:26:35 Forward step, parentC=28
+2022-04-19.10:26:35 Processing layer c=28 phase 1
+2022-04-19.10:26:35 Total 3243 ms, bw work 0 ms, bw io 0 ms, fw 1 2730 ms, fw 2 97 ms, fw io 94 ms, fw old 222 ms, other 97 ms
+2022-04-19.10:26:35 Forward step, parentC=29
+2022-04-19.10:26:35 Processing layer c=29 phase 1
+2022-04-19.10:26:35 Total 3243 ms, bw work 0 ms, bw io 0 ms, fw 1 2731 ms, fw 2 97 ms, fw io 94 ms, fw old 222 ms, other 97 ms
+2022-04-19.10:26:35 Forward step, parentC=30
+2022-04-19.10:26:35 Processing layer c=30 phase 1
+2022-04-19.10:26:35 Total 3243 ms, bw work 0 ms, bw io 0 ms, fw 1 2731 ms, fw 2 97 ms, fw io 94 ms, fw old 222 ms, other 97 ms
+2022-04-19.10:26:35 Forward step, parentC=29
+2022-04-19.10:26:35 Processing layer c=29 phase 2
+2022-04-19.10:26:35 Total 3243 ms, bw work 0 ms, bw io 0 ms, fw 1 2731 ms, fw 2 97 ms, fw io 94 ms, fw old 222 ms, other 97 ms
+2022-04-19.10:26:35 Forward step, parentC=28
+2022-04-19.10:26:35 Processing layer c=28 phase 2
+2022-04-19.10:26:35 Total 3243 ms, bw work 0 ms, bw io 0 ms, fw 1 2731 ms, fw 2 97 ms, fw io 94 ms, fw old 222 ms, other 97 ms
+2022-04-19.10:26:35 Forward step, parentC=27
+2022-04-19.10:26:35 Processing layer c=27 phase 2
+2022-04-19.10:26:35 Total 3243 ms, bw work 0 ms, bw io 0 ms, fw 1 2731 ms, fw 2 97 ms, fw io 94 ms, fw old 222 ms, other 97 ms
+2022-04-19.10:26:35 Forward step, parentC=26
+2022-04-19.10:26:35 Processing layer c=26 phase 3
+2022-04-19.10:26:35 Total 3245 ms, bw work 0 ms, bw io 0 ms, fw 1 2731 ms, fw 2 98 ms, fw io 94 ms, fw old 222 ms, other 97 ms
+2022-04-19.10:26:35 Forward step, parentC=25
+2022-04-19.10:26:35 Processing layer c=25 phase 2
+2022-04-19.10:26:35 Total 3246 ms, bw work 0 ms, bw io 0 ms, fw 1 2731 ms, fw 2 100 ms, fw io 94 ms, fw old 222 ms, other 97 ms
+2022-04-19.10:26:35 Forward step, parentC=26
+2022-04-19.10:26:35 Processing layer c=26 phase 1
+2022-04-19.10:26:35 Total 3248 ms, bw work 0 ms, bw io 0 ms, fw 1 2732 ms, fw 2 100 ms, fw io 94 ms, fw old 222 ms, other 97 ms
+2022-04-19.10:26:35 Forward step, parentC=27
+2022-04-19.10:26:35 Processing layer c=27 phase 1
+2022-04-19.10:26:35 Total 3248 ms, bw work 0 ms, bw io 0 ms, fw 1 2732 ms, fw 2 100 ms, fw io 94 ms, fw old 222 ms, other 97 ms
+2022-04-19.10:26:35 Forward step, parentC=28
+2022-04-19.10:26:35 Processing layer c=28 phase 1
+2022-04-19.10:26:35 Total 3248 ms, bw work 0 ms, bw io 0 ms, fw 1 2732 ms, fw 2 100 ms, fw io 94 ms, fw old 222 ms, other 97 ms
+2022-04-19.10:26:35 Forward step, parentC=27
+2022-04-19.10:26:35 Processing layer c=27 phase 2
+2022-04-19.10:26:35 Total 3248 ms, bw work 0 ms, bw io 0 ms, fw 1 2732 ms, fw 2 100 ms, fw io 94 ms, fw old 222 ms, other 97 ms
+2022-04-19.10:26:35 Forward step, parentC=26
+2022-04-19.10:26:35 Processing layer c=26 phase 2
+2022-04-19.10:26:35 Total 3250 ms, bw work 0 ms, bw io 0 ms, fw 1 2732 ms, fw 2 101 ms, fw io 94 ms, fw old 223 ms, other 97 ms
+2022-04-19.10:26:35 Forward step, parentC=25
+2022-04-19.10:26:35 Processing layer c=25 phase 3
+2022-04-19.10:26:35 Total 3251 ms, bw work 0 ms, bw io 0 ms, fw 1 2732 ms, fw 2 103 ms, fw io 94 ms, fw old 223 ms, other 97 ms
+2022-04-19.10:26:35 Forward step, parentC=24
+2022-04-19.10:26:35 Processing layer c=24 phase 2
+2022-04-19.10:26:35 Total 3256 ms, bw work 0 ms, bw io 0 ms, fw 1 2732 ms, fw 2 107 ms, fw io 94 ms, fw old 223 ms, other 98 ms
+2022-04-19.10:26:35 Forward step, parentC=25
+2022-04-19.10:26:35 Processing layer c=25 phase 1
+2022-04-19.10:26:35 Total 3257 ms, bw work 0 ms, bw io 0 ms, fw 1 2733 ms, fw 2 107 ms, fw io 94 ms, fw old 223 ms, other 98 ms
+2022-04-19.10:26:35 Forward step, parentC=26
+2022-04-19.10:26:35 Processing layer c=26 phase 1
+2022-04-19.10:26:35 Total 3259 ms, bw work 0 ms, bw io 0 ms, fw 1 2735 ms, fw 2 107 ms, fw io 94 ms, fw old 223 ms, other 98 ms
+2022-04-19.10:26:35 Forward step, parentC=27
+2022-04-19.10:26:35 Processing layer c=27 phase 1
+2022-04-19.10:26:35 Total 3260 ms, bw work 0 ms, bw io 0 ms, fw 1 2736 ms, fw 2 107 ms, fw io 94 ms, fw old 223 ms, other 98 ms
+2022-04-19.10:26:35 Forward step, parentC=28
+2022-04-19.10:26:35 Processing layer c=28 phase 1
+2022-04-19.10:26:35 Total 3260 ms, bw work 0 ms, bw io 0 ms, fw 1 2736 ms, fw 2 107 ms, fw io 94 ms, fw old 223 ms, other 98 ms
+2022-04-19.10:26:35 Forward step, parentC=27
+2022-04-19.10:26:35 Processing layer c=27 phase 2
+2022-04-19.10:26:35 Total 3262 ms, bw work 0 ms, bw io 0 ms, fw 1 2736 ms, fw 2 109 ms, fw io 94 ms, fw old 223 ms, other 98 ms
+2022-04-19.10:26:35 Forward step, parentC=26
+2022-04-19.10:26:35 Processing layer c=26 phase 2
+2022-04-19.10:26:35 Total 3264 ms, bw work 0 ms, bw io 0 ms, fw 1 2736 ms, fw 2 111 ms, fw io 94 ms, fw old 223 ms, other 98 ms
+2022-04-19.10:26:35 Forward step, parentC=25
+2022-04-19.10:26:35 Processing layer c=25 phase 2
+2022-04-19.10:26:35 Total 3264 ms, bw work 0 ms, bw io 0 ms, fw 1 2736 ms, fw 2 111 ms, fw io 94 ms, fw old 223 ms, other 98 ms
+2022-04-19.10:26:35 Forward step, parentC=24
+2022-04-19.10:26:35 Processing layer c=24 phase 3
+2022-04-19.10:26:35 Total 3267 ms, bw work 0 ms, bw io 0 ms, fw 1 2736 ms, fw 2 113 ms, fw io 94 ms, fw old 224 ms, other 98 ms
+2022-04-19.10:26:35 Forward step, parentC=23
+2022-04-19.10:26:35 Processing layer c=23 phase 2
+2022-04-19.10:26:35 Total 3268 ms, bw work 0 ms, bw io 0 ms, fw 1 2736 ms, fw 2 114 ms, fw io 94 ms, fw old 224 ms, other 98 ms
+2022-04-19.10:26:35 Forward step, parentC=24
+2022-04-19.10:26:35 Processing layer c=24 phase 1
+2022-04-19.10:26:35 Total 3269 ms, bw work 0 ms, bw io 0 ms, fw 1 2737 ms, fw 2 114 ms, fw io 94 ms, fw old 224 ms, other 98 ms
+2022-04-19.10:26:35 Forward step, parentC=25
+2022-04-19.10:26:35 Processing layer c=25 phase 1
+2022-04-19.10:26:35 Total 3269 ms, bw work 0 ms, bw io 0 ms, fw 1 2737 ms, fw 2 114 ms, fw io 94 ms, fw old 224 ms, other 98 ms
+2022-04-19.10:26:35 Forward step, parentC=26
+2022-04-19.10:26:35 Processing layer c=26 phase 1
+2022-04-19.10:26:35 Total 3270 ms, bw work 0 ms, bw io 0 ms, fw 1 2738 ms, fw 2 114 ms, fw io 94 ms, fw old 224 ms, other 98 ms
+2022-04-19.10:26:35 Forward step, parentC=27
+2022-04-19.10:26:35 Processing layer c=27 phase 1
+2022-04-19.10:26:35 Total 3270 ms, bw work 0 ms, bw io 0 ms, fw 1 2738 ms, fw 2 114 ms, fw io 94 ms, fw old 224 ms, other 98 ms
+2022-04-19.10:26:35 Forward step, parentC=28
+2022-04-19.10:26:35 Processing layer c=28 phase 1
+2022-04-19.10:26:35 Total 3270 ms, bw work 0 ms, bw io 0 ms, fw 1 2738 ms, fw 2 114 ms, fw io 94 ms, fw old 224 ms, other 98 ms
+2022-04-19.10:26:35 Forward step, parentC=27
+2022-04-19.10:26:35 Processing layer c=27 phase 2
+2022-04-19.10:26:35 Total 3270 ms, bw work 0 ms, bw io 0 ms, fw 1 2738 ms, fw 2 114 ms, fw io 94 ms, fw old 224 ms, other 98 ms
+2022-04-19.10:26:35 Forward step, parentC=26
+2022-04-19.10:26:35 Processing layer c=26 phase 2
+2022-04-19.10:26:35 Total 3270 ms, bw work 0 ms, bw io 0 ms, fw 1 2738 ms, fw 2 114 ms, fw io 94 ms, fw old 224 ms, other 98 ms
+2022-04-19.10:26:35 Forward step, parentC=27
+2022-04-19.10:26:35 Processing layer c=27 phase 1
+2022-04-19.10:26:35 Total 3270 ms, bw work 0 ms, bw io 0 ms, fw 1 2738 ms, fw 2 114 ms, fw io 94 ms, fw old 224 ms, other 98 ms
+2022-04-19.10:26:35 Forward step, parentC=26
+2022-04-19.10:26:35 Processing layer c=26 phase 3
+2022-04-19.10:26:35 Total 3270 ms, bw work 0 ms, bw io 0 ms, fw 1 2738 ms, fw 2 114 ms, fw io 94 ms, fw old 224 ms, other 98 ms
+2022-04-19.10:26:35 Forward step, parentC=25
+2022-04-19.10:26:35 Processing layer c=25 phase 2
+2022-04-19.10:26:35 Total 3270 ms, bw work 0 ms, bw io 0 ms, fw 1 2738 ms, fw 2 114 ms, fw io 94 ms, fw old 224 ms, other 98 ms
+2022-04-19.10:26:35 Forward step, parentC=24
+2022-04-19.10:26:35 Processing layer c=24 phase 2
+2022-04-19.10:26:35 Total 3270 ms, bw work 0 ms, bw io 0 ms, fw 1 2738 ms, fw 2 114 ms, fw io 94 ms, fw old 224 ms, other 98 ms
+2022-04-19.10:26:35 Forward step, parentC=23
+2022-04-19.10:26:35 Processing layer c=23 phase 3
+2022-04-19.10:26:35 Total 3273 ms, bw work 0 ms, bw io 0 ms, fw 1 2738 ms, fw 2 115 ms, fw io 94 ms, fw old 224 ms, other 98 ms
+2022-04-19.10:26:35 Forward step, parentC=22
+2022-04-19.10:26:35 Processing layer c=22 phase 2
+2022-04-19.10:26:35 Total 3274 ms, bw work 0 ms, bw io 0 ms, fw 1 2738 ms, fw 2 117 ms, fw io 94 ms, fw old 224 ms, other 98 ms
+2022-04-19.10:26:35 Forward step, parentC=23
+2022-04-19.10:26:35 Processing layer c=23 phase 1
+2022-04-19.10:26:35 Total 3275 ms, bw work 0 ms, bw io 0 ms, fw 1 2739 ms, fw 2 117 ms, fw io 94 ms, fw old 224 ms, other 98 ms
+2022-04-19.10:26:35 Forward step, parentC=24
+2022-04-19.10:26:35 Processing layer c=24 phase 1
+2022-04-19.10:26:35 Total 3276 ms, bw work 0 ms, bw io 0 ms, fw 1 2740 ms, fw 2 117 ms, fw io 94 ms, fw old 224 ms, other 98 ms
+2022-04-19.10:26:35 Forward step, parentC=25
+2022-04-19.10:26:35 Processing layer c=25 phase 1
+2022-04-19.10:26:35 Total 3278 ms, bw work 0 ms, bw io 0 ms, fw 1 2742 ms, fw 2 117 ms, fw io 94 ms, fw old 224 ms, other 98 ms
+2022-04-19.10:26:35 Forward step, parentC=26
+2022-04-19.10:26:35 Processing layer c=26 phase 1
+2022-04-19.10:26:35 Total 3279 ms, bw work 0 ms, bw io 0 ms, fw 1 2744 ms, fw 2 117 ms, fw io 94 ms, fw old 224 ms, other 98 ms
+2022-04-19.10:26:35 Forward step, parentC=27
+2022-04-19.10:26:35 Processing layer c=27 phase 1
+2022-04-19.10:26:35 Total 3281 ms, bw work 0 ms, bw io 0 ms, fw 1 2745 ms, fw 2 117 ms, fw io 94 ms, fw old 224 ms, other 98 ms
+2022-04-19.10:26:35 Forward step, parentC=28
+2022-04-19.10:26:35 Processing layer c=28 phase 1
+2022-04-19.10:26:35 Total 3282 ms, bw work 0 ms, bw io 0 ms, fw 1 2747 ms, fw 2 117 ms, fw io 94 ms, fw old 224 ms, other 98 ms
+2022-04-19.10:26:35 Forward step, parentC=29
+2022-04-19.10:26:35 Processing layer c=29 phase 1
+2022-04-19.10:26:35 Total 3282 ms, bw work 0 ms, bw io 0 ms, fw 1 2747 ms, fw 2 117 ms, fw io 94 ms, fw old 224 ms, other 98 ms
+2022-04-19.10:26:35 Forward step, parentC=28
+2022-04-19.10:26:35 Processing layer c=28 phase 2
+2022-04-19.10:26:35 Total 3284 ms, bw work 0 ms, bw io 0 ms, fw 1 2747 ms, fw 2 118 ms, fw io 94 ms, fw old 224 ms, other 98 ms
+2022-04-19.10:26:35 Forward step, parentC=27
+2022-04-19.10:26:35 Processing layer c=27 phase 2
+2022-04-19.10:26:35 Total 3285 ms, bw work 0 ms, bw io 0 ms, fw 1 2747 ms, fw 2 119 ms, fw io 94 ms, fw old 224 ms, other 99 ms
+2022-04-19.10:26:35 Forward step, parentC=28
+2022-04-19.10:26:35 Processing layer c=28 phase 1
+2022-04-19.10:26:35 Total 3285 ms, bw work 0 ms, bw io 0 ms, fw 1 2747 ms, fw 2 119 ms, fw io 94 ms, fw old 224 ms, other 99 ms
+2022-04-19.10:26:35 Forward step, parentC=29
+2022-04-19.10:26:35 Processing layer c=29 phase 1
+2022-04-19.10:26:35 Total 3285 ms, bw work 0 ms, bw io 0 ms, fw 1 2747 ms, fw 2 119 ms, fw io 94 ms, fw old 224 ms, other 99 ms
+2022-04-19.10:26:35 Forward step, parentC=28
+2022-04-19.10:26:35 Processing layer c=28 phase 2
+2022-04-19.10:26:35 Total 3285 ms, bw work 0 ms, bw io 0 ms, fw 1 2747 ms, fw 2 119 ms, fw io 94 ms, fw old 224 ms, other 99 ms
+2022-04-19.10:26:35 Forward step, parentC=27
+2022-04-19.10:26:35 Processing layer c=27 phase 3
+2022-04-19.10:26:35 Total 3287 ms, bw work 0 ms, bw io 0 ms, fw 1 2747 ms, fw 2 121 ms, fw io 94 ms, fw old 224 ms, other 99 ms
+2022-04-19.10:26:35 Forward step, parentC=26
+2022-04-19.10:26:35 Processing layer c=26 phase 2
+2022-04-19.10:26:35 Total 3288 ms, bw work 0 ms, bw io 0 ms, fw 1 2747 ms, fw 2 122 ms, fw io 94 ms, fw old 224 ms, other 99 ms
+2022-04-19.10:26:35 Forward step, parentC=27
+2022-04-19.10:26:35 Processing layer c=27 phase 1
+2022-04-19.10:26:35 Total 3288 ms, bw work 0 ms, bw io 0 ms, fw 1 2747 ms, fw 2 122 ms, fw io 94 ms, fw old 224 ms, other 99 ms
+2022-04-19.10:26:35 Forward step, parentC=28
+2022-04-19.10:26:35 Processing layer c=28 phase 1
+2022-04-19.10:26:35 Total 3289 ms, bw work 0 ms, bw io 0 ms, fw 1 2747 ms, fw 2 122 ms, fw io 94 ms, fw old 224 ms, other 99 ms
+2022-04-19.10:26:35 Forward step, parentC=29
+2022-04-19.10:26:35 Processing layer c=29 phase 1
+2022-04-19.10:26:35 Total 3289 ms, bw work 0 ms, bw io 0 ms, fw 1 2747 ms, fw 2 122 ms, fw io 94 ms, fw old 224 ms, other 99 ms
+2022-04-19.10:26:35 Forward step, parentC=28
+2022-04-19.10:26:35 Processing layer c=28 phase 2
+2022-04-19.10:26:35 Total 3289 ms, bw work 0 ms, bw io 0 ms, fw 1 2747 ms, fw 2 122 ms, fw io 94 ms, fw old 224 ms, other 99 ms
+2022-04-19.10:26:35 Forward step, parentC=27
+2022-04-19.10:26:35 Processing layer c=27 phase 2
+2022-04-19.10:26:35 Total 3289 ms, bw work 0 ms, bw io 0 ms, fw 1 2747 ms, fw 2 122 ms, fw io 94 ms, fw old 224 ms, other 99 ms
+2022-04-19.10:26:35 Forward step, parentC=26
+2022-04-19.10:26:35 Processing layer c=26 phase 3
+2022-04-19.10:26:35 Total 3290 ms, bw work 0 ms, bw io 0 ms, fw 1 2747 ms, fw 2 124 ms, fw io 94 ms, fw old 225 ms, other 99 ms
+2022-04-19.10:26:35 Forward step, parentC=25
+2022-04-19.10:26:35 Processing layer c=25 phase 2
+2022-04-19.10:26:35 Total 3291 ms, bw work 0 ms, bw io 0 ms, fw 1 2747 ms, fw 2 125 ms, fw io 94 ms, fw old 225 ms, other 99 ms
+2022-04-19.10:26:35 Forward step, parentC=26
+2022-04-19.10:26:35 Processing layer c=26 phase 1
+2022-04-19.10:26:35 Total 3292 ms, bw work 0 ms, bw io 0 ms, fw 1 2748 ms, fw 2 125 ms, fw io 94 ms, fw old 225 ms, other 99 ms
+2022-04-19.10:26:35 Forward step, parentC=27
+2022-04-19.10:26:35 Processing layer c=27 phase 1
+2022-04-19.10:26:35 Total 3293 ms, bw work 0 ms, bw io 0 ms, fw 1 2748 ms, fw 2 125 ms, fw io 94 ms, fw old 225 ms, other 99 ms
+2022-04-19.10:26:35 Forward step, parentC=28
+2022-04-19.10:26:35 Processing layer c=28 phase 1
+2022-04-19.10:26:35 Total 3293 ms, bw work 0 ms, bw io 0 ms, fw 1 2748 ms, fw 2 125 ms, fw io 94 ms, fw old 225 ms, other 99 ms
+2022-04-19.10:26:35 Forward step, parentC=27
+2022-04-19.10:26:35 Processing layer c=27 phase 2
+2022-04-19.10:26:35 Total 3293 ms, bw work 0 ms, bw io 0 ms, fw 1 2748 ms, fw 2 125 ms, fw io 94 ms, fw old 225 ms, other 99 ms
+2022-04-19.10:26:35 Forward step, parentC=28
+2022-04-19.10:26:35 Processing layer c=28 phase 1
+2022-04-19.10:26:35 Total 3293 ms, bw work 0 ms, bw io 0 ms, fw 1 2748 ms, fw 2 125 ms, fw io 94 ms, fw old 225 ms, other 99 ms
+2022-04-19.10:26:35 Forward step, parentC=27
+2022-04-19.10:26:35 Processing layer c=27 phase 3
+2022-04-19.10:26:35 Total 3293 ms, bw work 0 ms, bw io 0 ms, fw 1 2748 ms, fw 2 125 ms, fw io 94 ms, fw old 225 ms, other 99 ms
+2022-04-19.10:26:35 Forward step, parentC=26
+2022-04-19.10:26:35 Processing layer c=26 phase 2
+2022-04-19.10:26:35 Total 3293 ms, bw work 0 ms, bw io 0 ms, fw 1 2748 ms, fw 2 125 ms, fw io 94 ms, fw old 225 ms, other 99 ms
+2022-04-19.10:26:35 Forward step, parentC=27
+2022-04-19.10:26:35 Processing layer c=27 phase 1
+2022-04-19.10:26:35 Total 3293 ms, bw work 0 ms, bw io 0 ms, fw 1 2748 ms, fw 2 125 ms, fw io 94 ms, fw old 225 ms, other 99 ms
+2022-04-19.10:26:35 Forward step, parentC=26
+2022-04-19.10:26:35 Processing layer c=26 phase 3
+2022-04-19.10:26:35 Total 3293 ms, bw work 0 ms, bw io 0 ms, fw 1 2748 ms, fw 2 125 ms, fw io 94 ms, fw old 225 ms, other 99 ms
+2022-04-19.10:26:35 Forward step, parentC=25
+2022-04-19.10:26:35 Processing layer c=25 phase 3
+2022-04-19.10:26:35 Total 3294 ms, bw work 0 ms, bw io 0 ms, fw 1 2748 ms, fw 2 126 ms, fw io 94 ms, fw old 225 ms, other 99 ms
+2022-04-19.10:26:35 Forward step, parentC=24
+2022-04-19.10:26:35 Processing layer c=24 phase 2
+2022-04-19.10:26:35 Total 3294 ms, bw work 0 ms, bw io 0 ms, fw 1 2748 ms, fw 2 126 ms, fw io 94 ms, fw old 225 ms, other 99 ms
+2022-04-19.10:26:35 Forward step, parentC=25
+2022-04-19.10:26:35 Processing layer c=25 phase 1
+2022-04-19.10:26:35 Total 3295 ms, bw work 0 ms, bw io 0 ms, fw 1 2749 ms, fw 2 126 ms, fw io 94 ms, fw old 225 ms, other 99 ms
+2022-04-19.10:26:35 Forward step, parentC=26
+2022-04-19.10:26:35 Processing layer c=26 phase 1
+2022-04-19.10:26:35 Total 3295 ms, bw work 0 ms, bw io 0 ms, fw 1 2749 ms, fw 2 126 ms, fw io 94 ms, fw old 225 ms, other 99 ms
+2022-04-19.10:26:35 Forward step, parentC=27
+2022-04-19.10:26:35 Processing layer c=27 phase 1
+2022-04-19.10:26:35 Total 3295 ms, bw work 0 ms, bw io 0 ms, fw 1 2749 ms, fw 2 126 ms, fw io 94 ms, fw old 225 ms, other 99 ms
+2022-04-19.10:26:35 Forward step, parentC=28
+2022-04-19.10:26:35 Processing layer c=28 phase 1
+2022-04-19.10:26:35 Total 3295 ms, bw work 0 ms, bw io 0 ms, fw 1 2749 ms, fw 2 126 ms, fw io 94 ms, fw old 225 ms, other 99 ms
+2022-04-19.10:26:35 Forward step, parentC=29
+2022-04-19.10:26:35 Processing layer c=29 phase 1
+2022-04-19.10:26:35 Total 3296 ms, bw work 0 ms, bw io 0 ms, fw 1 2749 ms, fw 2 126 ms, fw io 94 ms, fw old 225 ms, other 99 ms
+2022-04-19.10:26:35 Forward step, parentC=28
+2022-04-19.10:26:35 Processing layer c=28 phase 2
+2022-04-19.10:26:35 Total 3296 ms, bw work 0 ms, bw io 0 ms, fw 1 2749 ms, fw 2 126 ms, fw io 94 ms, fw old 225 ms, other 99 ms
+2022-04-19.10:26:35 Forward step, parentC=27
+2022-04-19.10:26:35 Processing layer c=27 phase 2
+2022-04-19.10:26:35 Total 3296 ms, bw work 0 ms, bw io 0 ms, fw 1 2749 ms, fw 2 126 ms, fw io 94 ms, fw old 225 ms, other 99 ms
+2022-04-19.10:26:35 Forward step, parentC=26
+2022-04-19.10:26:35 Processing layer c=26 phase 2
+2022-04-19.10:26:35 Total 3296 ms, bw work 0 ms, bw io 0 ms, fw 1 2749 ms, fw 2 126 ms, fw io 94 ms, fw old 225 ms, other 99 ms
+2022-04-19.10:26:35 Forward step, parentC=27
+2022-04-19.10:26:35 Processing layer c=27 phase 1
+2022-04-19.10:26:35 Total 3296 ms, bw work 0 ms, bw io 0 ms, fw 1 2750 ms, fw 2 126 ms, fw io 94 ms, fw old 225 ms, other 99 ms
+2022-04-19.10:26:35 Forward step, parentC=26
+2022-04-19.10:26:35 Processing layer c=26 phase 3
+2022-04-19.10:26:35 Total 3296 ms, bw work 0 ms, bw io 0 ms, fw 1 2750 ms, fw 2 126 ms, fw io 94 ms, fw old 225 ms, other 99 ms
+2022-04-19.10:26:35 Forward step, parentC=25
+2022-04-19.10:26:35 Processing layer c=25 phase 2
+2022-04-19.10:26:35 Total 3296 ms, bw work 0 ms, bw io 0 ms, fw 1 2750 ms, fw 2 126 ms, fw io 94 ms, fw old 225 ms, other 99 ms
+2022-04-19.10:26:35 Forward step, parentC=24
+2022-04-19.10:26:35 Processing layer c=24 phase 3
+2022-04-19.10:26:35 Total 3296 ms, bw work 0 ms, bw io 0 ms, fw 1 2750 ms, fw 2 126 ms, fw io 94 ms, fw old 225 ms, other 99 ms
+2022-04-19.10:26:35 Forward step, parentC=23
+2022-04-19.10:26:35 Processing layer c=23 phase 2
+2022-04-19.10:26:35 Total 3296 ms, bw work 0 ms, bw io 0 ms, fw 1 2750 ms, fw 2 126 ms, fw io 94 ms, fw old 225 ms, other 99 ms
+2022-04-19.10:26:35 Forward step, parentC=24
+2022-04-19.10:26:35 Processing layer c=24 phase 1
+2022-04-19.10:26:35 Total 3296 ms, bw work 0 ms, bw io 0 ms, fw 1 2750 ms, fw 2 126 ms, fw io 94 ms, fw old 225 ms, other 99 ms
+2022-04-19.10:26:35 Forward step, parentC=25
+2022-04-19.10:26:35 Processing layer c=25 phase 1
+2022-04-19.10:26:35 Total 3296 ms, bw work 0 ms, bw io 0 ms, fw 1 2750 ms, fw 2 126 ms, fw io 94 ms, fw old 225 ms, other 99 ms
+2022-04-19.10:26:35 Forward step, parentC=26
+2022-04-19.10:26:35 Processing layer c=26 phase 1
+2022-04-19.10:26:35 Total 3297 ms, bw work 0 ms, bw io 0 ms, fw 1 2750 ms, fw 2 126 ms, fw io 94 ms, fw old 225 ms, other 99 ms
+2022-04-19.10:26:35 Forward step, parentC=27
+2022-04-19.10:26:35 Processing layer c=27 phase 1
+2022-04-19.10:26:35 Total 3297 ms, bw work 0 ms, bw io 0 ms, fw 1 2750 ms, fw 2 126 ms, fw io 94 ms, fw old 225 ms, other 99 ms
+2022-04-19.10:26:35 Forward step, parentC=28
+2022-04-19.10:26:35 Processing layer c=28 phase 1
+2022-04-19.10:26:35 Total 3297 ms, bw work 0 ms, bw io 0 ms, fw 1 2750 ms, fw 2 126 ms, fw io 94 ms, fw old 225 ms, other 99 ms
+2022-04-19.10:26:35 Forward step, parentC=27
+2022-04-19.10:26:35 Processing layer c=27 phase 2
+2022-04-19.10:26:35 Total 3297 ms, bw work 0 ms, bw io 0 ms, fw 1 2750 ms, fw 2 126 ms, fw io 94 ms, fw old 225 ms, other 99 ms
+2022-04-19.10:26:35 Forward step, parentC=26
+2022-04-19.10:26:35 Processing layer c=26 phase 2
+2022-04-19.10:26:35 Total 3297 ms, bw work 0 ms, bw io 0 ms, fw 1 2750 ms, fw 2 126 ms, fw io 94 ms, fw old 225 ms, other 99 ms
+2022-04-19.10:26:35 Forward step, parentC=25
+2022-04-19.10:26:35 Processing layer c=25 phase 2
+2022-04-19.10:26:35 Total 3297 ms, bw work 0 ms, bw io 0 ms, fw 1 2750 ms, fw 2 126 ms, fw io 94 ms, fw old 225 ms, other 99 ms
+2022-04-19.10:26:35 Forward step, parentC=26
+2022-04-19.10:26:35 Processing layer c=26 phase 1
+2022-04-19.10:26:35 Total 3297 ms, bw work 0 ms, bw io 0 ms, fw 1 2750 ms, fw 2 126 ms, fw io 94 ms, fw old 225 ms, other 99 ms
+2022-04-19.10:26:35 Forward step, parentC=27
+2022-04-19.10:26:35 Processing layer c=27 phase 1
+2022-04-19.10:26:35 Total 3297 ms, bw work 0 ms, bw io 0 ms, fw 1 2750 ms, fw 2 126 ms, fw io 94 ms, fw old 225 ms, other 99 ms
+2022-04-19.10:26:35 Forward step, parentC=26
+2022-04-19.10:26:35 Processing layer c=26 phase 2
+2022-04-19.10:26:35 Total 3297 ms, bw work 0 ms, bw io 0 ms, fw 1 2750 ms, fw 2 126 ms, fw io 94 ms, fw old 225 ms, other 99 ms
+2022-04-19.10:26:35 Forward step, parentC=25
+2022-04-19.10:26:35 Processing layer c=25 phase 3
+2022-04-19.10:26:35 Total 3297 ms, bw work 0 ms, bw io 0 ms, fw 1 2750 ms, fw 2 126 ms, fw io 94 ms, fw old 225 ms, other 99 ms
+2022-04-19.10:26:35 Forward step, parentC=24
+2022-04-19.10:26:35 Processing layer c=24 phase 2
+2022-04-19.10:26:35 Total 3297 ms, bw work 0 ms, bw io 0 ms, fw 1 2750 ms, fw 2 126 ms, fw io 94 ms, fw old 225 ms, other 99 ms
+2022-04-19.10:26:35 Forward step, parentC=25
+2022-04-19.10:26:35 Processing layer c=25 phase 1
+2022-04-19.10:26:35 Total 3297 ms, bw work 0 ms, bw io 0 ms, fw 1 2750 ms, fw 2 126 ms, fw io 94 ms, fw old 225 ms, other 99 ms
+2022-04-19.10:26:35 Forward step, parentC=26
+2022-04-19.10:26:35 Processing layer c=26 phase 1
+2022-04-19.10:26:35 Total 3297 ms, bw work 0 ms, bw io 0 ms, fw 1 2751 ms, fw 2 126 ms, fw io 94 ms, fw old 225 ms, other 100 ms
+2022-04-19.10:26:35 Forward step, parentC=27
+2022-04-19.10:26:35 Processing layer c=27 phase 1
+2022-04-19.10:26:35 Total 3297 ms, bw work 0 ms, bw io 0 ms, fw 1 2751 ms, fw 2 126 ms, fw io 94 ms, fw old 225 ms, other 100 ms
+2022-04-19.10:26:35 Forward step, parentC=28
+2022-04-19.10:26:35 Processing layer c=28 phase 1
+2022-04-19.10:26:35 Total 3297 ms, bw work 0 ms, bw io 0 ms, fw 1 2751 ms, fw 2 126 ms, fw io 94 ms, fw old 225 ms, other 100 ms
+2022-04-19.10:26:35 Forward step, parentC=27
+2022-04-19.10:26:35 Processing layer c=27 phase 2
+2022-04-19.10:26:35 Total 3297 ms, bw work 0 ms, bw io 0 ms, fw 1 2751 ms, fw 2 126 ms, fw io 94 ms, fw old 225 ms, other 100 ms
+2022-04-19.10:26:35 Forward step, parentC=26
+2022-04-19.10:26:35 Processing layer c=26 phase 2
+2022-04-19.10:26:35 Total 3297 ms, bw work 0 ms, bw io 0 ms, fw 1 2751 ms, fw 2 126 ms, fw io 94 ms, fw old 225 ms, other 100 ms
+2022-04-19.10:26:35 Forward step, parentC=27
+2022-04-19.10:26:35 Processing layer c=27 phase 1
+2022-04-19.10:26:35 Total 3298 ms, bw work 0 ms, bw io 0 ms, fw 1 2751 ms, fw 2 126 ms, fw io 94 ms, fw old 225 ms, other 100 ms
+2022-04-19.10:26:35 Forward step, parentC=26
+2022-04-19.10:26:35 Processing layer c=26 phase 3
+2022-04-19.10:26:35 Total 3298 ms, bw work 0 ms, bw io 0 ms, fw 1 2751 ms, fw 2 126 ms, fw io 94 ms, fw old 225 ms, other 100 ms
+2022-04-19.10:26:35 Forward step, parentC=25
+2022-04-19.10:26:35 Processing layer c=25 phase 2
+2022-04-19.10:26:35 Total 3298 ms, bw work 0 ms, bw io 0 ms, fw 1 2751 ms, fw 2 126 ms, fw io 94 ms, fw old 225 ms, other 100 ms
+2022-04-19.10:26:35 Forward step, parentC=26
+2022-04-19.10:26:35 Processing layer c=26 phase 1
+2022-04-19.10:26:35 Total 3298 ms, bw work 0 ms, bw io 0 ms, fw 1 2751 ms, fw 2 126 ms, fw io 94 ms, fw old 225 ms, other 100 ms
+2022-04-19.10:26:35 Forward step, parentC=27
+2022-04-19.10:26:35 Processing layer c=27 phase 1
+2022-04-19.10:26:35 Total 3298 ms, bw work 0 ms, bw io 0 ms, fw 1 2751 ms, fw 2 126 ms, fw io 94 ms, fw old 225 ms, other 100 ms
+2022-04-19.10:26:35 Forward step, parentC=28
+2022-04-19.10:26:35 Processing layer c=28 phase 1
+2022-04-19.10:26:35 Total 3298 ms, bw work 0 ms, bw io 0 ms, fw 1 2751 ms, fw 2 126 ms, fw io 94 ms, fw old 225 ms, other 100 ms
+2022-04-19.10:26:35 Forward step, parentC=29
+2022-04-19.10:26:35 Processing layer c=29 phase 1
+2022-04-19.10:26:35 Total 3298 ms, bw work 0 ms, bw io 0 ms, fw 1 2751 ms, fw 2 126 ms, fw io 94 ms, fw old 225 ms, other 100 ms
+2022-04-19.10:26:35 Forward step, parentC=28
+2022-04-19.10:26:35 Processing layer c=28 phase 2
+2022-04-19.10:26:35 Total 3298 ms, bw work 0 ms, bw io 0 ms, fw 1 2751 ms, fw 2 126 ms, fw io 94 ms, fw old 225 ms, other 100 ms
+2022-04-19.10:26:35 Forward step, parentC=27
+2022-04-19.10:26:35 Processing layer c=27 phase 2
+2022-04-19.10:26:35 Total 3298 ms, bw work 0 ms, bw io 0 ms, fw 1 2751 ms, fw 2 126 ms, fw io 94 ms, fw old 225 ms, other 100 ms
+2022-04-19.10:26:35 Forward step, parentC=26
+2022-04-19.10:26:35 Processing layer c=26 phase 2
+2022-04-19.10:26:35 Total 3298 ms, bw work 0 ms, bw io 0 ms, fw 1 2751 ms, fw 2 126 ms, fw io 94 ms, fw old 225 ms, other 100 ms
+2022-04-19.10:26:35 Forward step, parentC=25
+2022-04-19.10:26:35 Processing layer c=25 phase 3
+2022-04-19.10:26:35 Total 3298 ms, bw work 0 ms, bw io 0 ms, fw 1 2751 ms, fw 2 126 ms, fw io 94 ms, fw old 225 ms, other 100 ms
+2022-04-19.10:26:35 Forward step, parentC=24
+2022-04-19.10:26:35 Processing layer c=24 phase 3
+2022-04-19.10:26:35 Total 3298 ms, bw work 0 ms, bw io 0 ms, fw 1 2751 ms, fw 2 126 ms, fw io 94 ms, fw old 225 ms, other 100 ms
+2022-04-19.10:26:35 Forward step, parentC=23
+2022-04-19.10:26:35 Processing layer c=23 phase 3
+2022-04-19.10:26:35 Total 3298 ms, bw work 0 ms, bw io 0 ms, fw 1 2751 ms, fw 2 126 ms, fw io 94 ms, fw old 225 ms, other 100 ms
+2022-04-19.10:26:35 Forward step, parentC=22
+2022-04-19.10:26:35 Processing layer c=22 phase 3
+2022-04-19.10:26:35 Total 3300 ms, bw work 0 ms, bw io 0 ms, fw 1 2751 ms, fw 2 128 ms, fw io 94 ms, fw old 225 ms, other 100 ms
+2022-04-19.10:26:35 Forward step, parentC=21
+2022-04-19.10:26:35 Processing layer c=21 phase 3
+2022-04-19.10:26:35 Total 3383 ms, bw work 0 ms, bw io 0 ms, fw 1 2751 ms, fw 2 131 ms, fw io 94 ms, fw old 305 ms, other 100 ms
+2022-04-19.10:26:35 Forward step, parentC=20
+2022-04-19.10:26:35 Processing layer c=20 phase 2
+2022-04-19.10:26:35 Total 3388 ms, bw work 0 ms, bw io 0 ms, fw 1 2751 ms, fw 2 135 ms, fw io 94 ms, fw old 305 ms, other 100 ms
+2022-04-19.10:26:35 Forward step, parentC=21
+2022-04-19.10:26:35 Processing layer c=21 phase 1
+2022-04-19.10:26:35 Total 3396 ms, bw work 0 ms, bw io 0 ms, fw 1 2759 ms, fw 2 135 ms, fw io 94 ms, fw old 305 ms, other 100 ms
+2022-04-19.10:26:35 Forward step, parentC=22
+2022-04-19.10:26:35 Processing layer c=22 phase 1
+2022-04-19.10:26:35 Total 3398 ms, bw work 0 ms, bw io 0 ms, fw 1 2761 ms, fw 2 135 ms, fw io 94 ms, fw old 305 ms, other 100 ms
+2022-04-19.10:26:35 Forward step, parentC=23
+2022-04-19.10:26:35 Processing layer c=23 phase 1
+2022-04-19.10:26:35 Total 3400 ms, bw work 0 ms, bw io 0 ms, fw 1 2763 ms, fw 2 135 ms, fw io 94 ms, fw old 305 ms, other 100 ms
+2022-04-19.10:26:35 Forward step, parentC=24
+2022-04-19.10:26:35 Processing layer c=24 phase 1
+2022-04-19.10:26:35 Total 3401 ms, bw work 0 ms, bw io 0 ms, fw 1 2765 ms, fw 2 135 ms, fw io 94 ms, fw old 305 ms, other 100 ms
+2022-04-19.10:26:35 Forward step, parentC=25
+2022-04-19.10:26:35 Processing layer c=25 phase 1
+2022-04-19.10:26:35 Total 3402 ms, bw work 0 ms, bw io 0 ms, fw 1 2765 ms, fw 2 135 ms, fw io 94 ms, fw old 305 ms, other 100 ms
+2022-04-19.10:26:35 Forward step, parentC=26
+2022-04-19.10:26:35 Processing layer c=26 phase 1
+2022-04-19.10:26:35 Total 3402 ms, bw work 0 ms, bw io 0 ms, fw 1 2765 ms, fw 2 135 ms, fw io 94 ms, fw old 305 ms, other 100 ms
+2022-04-19.10:26:35 Forward step, parentC=27
+2022-04-19.10:26:35 Processing layer c=27 phase 1
+2022-04-19.10:26:35 Total 3402 ms, bw work 0 ms, bw io 0 ms, fw 1 2765 ms, fw 2 135 ms, fw io 94 ms, fw old 305 ms, other 100 ms
+2022-04-19.10:26:35 Forward step, parentC=28
+2022-04-19.10:26:35 Processing layer c=28 phase 1
+2022-04-19.10:26:35 Total 3402 ms, bw work 0 ms, bw io 0 ms, fw 1 2765 ms, fw 2 135 ms, fw io 94 ms, fw old 305 ms, other 100 ms
+2022-04-19.10:26:35 Forward step, parentC=27
+2022-04-19.10:26:35 Processing layer c=27 phase 2
+2022-04-19.10:26:35 Total 3402 ms, bw work 0 ms, bw io 0 ms, fw 1 2765 ms, fw 2 135 ms, fw io 94 ms, fw old 305 ms, other 100 ms
+2022-04-19.10:26:35 Forward step, parentC=26
+2022-04-19.10:26:35 Processing layer c=26 phase 2
+2022-04-19.10:26:35 Total 3402 ms, bw work 0 ms, bw io 0 ms, fw 1 2765 ms, fw 2 135 ms, fw io 94 ms, fw old 305 ms, other 100 ms
+2022-04-19.10:26:35 Forward step, parentC=25
+2022-04-19.10:26:35 Processing layer c=25 phase 2
+2022-04-19.10:26:35 Total 3402 ms, bw work 0 ms, bw io 0 ms, fw 1 2765 ms, fw 2 135 ms, fw io 94 ms, fw old 305 ms, other 100 ms
+2022-04-19.10:26:35 Forward step, parentC=24
+2022-04-19.10:26:35 Processing layer c=24 phase 2
+2022-04-19.10:26:35 Total 3404 ms, bw work 0 ms, bw io 0 ms, fw 1 2765 ms, fw 2 137 ms, fw io 94 ms, fw old 305 ms, other 100 ms
+2022-04-19.10:26:35 Forward step, parentC=23
+2022-04-19.10:26:35 Processing layer c=23 phase 2
+2022-04-19.10:26:35 Total 3405 ms, bw work 0 ms, bw io 0 ms, fw 1 2765 ms, fw 2 138 ms, fw io 94 ms, fw old 305 ms, other 100 ms
+2022-04-19.10:26:35 Forward step, parentC=22
+2022-04-19.10:26:35 Processing layer c=22 phase 2
+2022-04-19.10:26:35 Total 3406 ms, bw work 0 ms, bw io 0 ms, fw 1 2765 ms, fw 2 139 ms, fw io 94 ms, fw old 305 ms, other 100 ms
+2022-04-19.10:26:35 Forward step, parentC=21
+2022-04-19.10:26:35 Processing layer c=21 phase 2
+2022-04-19.10:26:35 Total 3408 ms, bw work 0 ms, bw io 0 ms, fw 1 2765 ms, fw 2 141 ms, fw io 94 ms, fw old 305 ms, other 100 ms
+2022-04-19.10:26:35 Forward step, parentC=22
+2022-04-19.10:26:35 Processing layer c=22 phase 1
+2022-04-19.10:26:35 Total 3408 ms, bw work 0 ms, bw io 0 ms, fw 1 2766 ms, fw 2 141 ms, fw io 94 ms, fw old 305 ms, other 100 ms
+2022-04-19.10:26:35 Forward step, parentC=23
+2022-04-19.10:26:35 Processing layer c=23 phase 1
+2022-04-19.10:26:35 Total 3408 ms, bw work 0 ms, bw io 0 ms, fw 1 2766 ms, fw 2 141 ms, fw io 94 ms, fw old 305 ms, other 100 ms
+2022-04-19.10:26:35 Forward step, parentC=24
+2022-04-19.10:26:35 Processing layer c=24 phase 1
+2022-04-19.10:26:35 Total 3408 ms, bw work 0 ms, bw io 0 ms, fw 1 2766 ms, fw 2 141 ms, fw io 94 ms, fw old 305 ms, other 101 ms
+2022-04-19.10:26:35 Forward step, parentC=25
+2022-04-19.10:26:35 Processing layer c=25 phase 1
+2022-04-19.10:26:35 Total 3408 ms, bw work 0 ms, bw io 0 ms, fw 1 2766 ms, fw 2 141 ms, fw io 94 ms, fw old 305 ms, other 101 ms
+2022-04-19.10:26:35 Forward step, parentC=26
+2022-04-19.10:26:35 Processing layer c=26 phase 1
+2022-04-19.10:26:35 Total 3408 ms, bw work 0 ms, bw io 0 ms, fw 1 2766 ms, fw 2 141 ms, fw io 94 ms, fw old 305 ms, other 101 ms
+2022-04-19.10:26:35 Forward step, parentC=27
+2022-04-19.10:26:35 Processing layer c=27 phase 1
+2022-04-19.10:26:35 Total 3408 ms, bw work 0 ms, bw io 0 ms, fw 1 2766 ms, fw 2 141 ms, fw io 94 ms, fw old 305 ms, other 101 ms
+2022-04-19.10:26:35 Forward step, parentC=26
+2022-04-19.10:26:35 Processing layer c=26 phase 2
+2022-04-19.10:26:35 Total 3408 ms, bw work 0 ms, bw io 0 ms, fw 1 2766 ms, fw 2 141 ms, fw io 94 ms, fw old 305 ms, other 101 ms
+2022-04-19.10:26:35 Forward step, parentC=25
+2022-04-19.10:26:35 Processing layer c=25 phase 2
+2022-04-19.10:26:35 Total 3408 ms, bw work 0 ms, bw io 0 ms, fw 1 2766 ms, fw 2 141 ms, fw io 94 ms, fw old 305 ms, other 101 ms
+2022-04-19.10:26:35 Forward step, parentC=24
+2022-04-19.10:26:35 Processing layer c=24 phase 2
+2022-04-19.10:26:35 Total 3408 ms, bw work 0 ms, bw io 0 ms, fw 1 2766 ms, fw 2 141 ms, fw io 94 ms, fw old 305 ms, other 101 ms
+2022-04-19.10:26:35 Forward step, parentC=23
+2022-04-19.10:26:35 Processing layer c=23 phase 2
+2022-04-19.10:26:35 Total 3408 ms, bw work 0 ms, bw io 0 ms, fw 1 2766 ms, fw 2 141 ms, fw io 94 ms, fw old 305 ms, other 101 ms
+2022-04-19.10:26:35 Forward step, parentC=22
+2022-04-19.10:26:35 Processing layer c=22 phase 2
+2022-04-19.10:26:35 Total 3408 ms, bw work 0 ms, bw io 0 ms, fw 1 2766 ms, fw 2 141 ms, fw io 94 ms, fw old 305 ms, other 101 ms
+2022-04-19.10:26:35 Forward step, parentC=21
+2022-04-19.10:26:35 Processing layer c=21 phase 3
+2022-04-19.10:26:35 Total 3410 ms, bw work 0 ms, bw io 0 ms, fw 1 2766 ms, fw 2 142 ms, fw io 94 ms, fw old 305 ms, other 101 ms
+2022-04-19.10:26:35 Forward step, parentC=20
+2022-04-19.10:26:35 Processing layer c=20 phase 3
+2022-04-19.10:26:35 Total 3513 ms, bw work 0 ms, bw io 0 ms, fw 1 2766 ms, fw 2 145 ms, fw io 94 ms, fw old 405 ms, other 101 ms
+2022-04-19.10:26:35 Forward step, parentC=19
+2022-04-19.10:26:35 Processing layer c=19 phase 2
+2022-04-19.10:26:35 Total 3519 ms, bw work 0 ms, bw io 0 ms, fw 1 2766 ms, fw 2 151 ms, fw io 94 ms, fw old 405 ms, other 101 ms
+2022-04-19.10:26:35 Forward step, parentC=20
+2022-04-19.10:26:35 Processing layer c=20 phase 1
+2022-04-19.10:26:35 Total 3528 ms, bw work 0 ms, bw io 0 ms, fw 1 2775 ms, fw 2 151 ms, fw io 94 ms, fw old 405 ms, other 101 ms
+2022-04-19.10:26:35 Forward step, parentC=21
+2022-04-19.10:26:35 Processing layer c=21 phase 1
+2022-04-19.10:26:35 Total 3531 ms, bw work 0 ms, bw io 0 ms, fw 1 2777 ms, fw 2 151 ms, fw io 94 ms, fw old 405 ms, other 101 ms
+2022-04-19.10:26:35 Forward step, parentC=22
+2022-04-19.10:26:35 Processing layer c=22 phase 1
+2022-04-19.10:26:35 Total 3534 ms, bw work 0 ms, bw io 0 ms, fw 1 2781 ms, fw 2 151 ms, fw io 94 ms, fw old 405 ms, other 101 ms
+2022-04-19.10:26:35 Forward step, parentC=23
+2022-04-19.10:26:35 Processing layer c=23 phase 1
+2022-04-19.10:26:35 Total 3539 ms, bw work 0 ms, bw io 0 ms, fw 1 2785 ms, fw 2 151 ms, fw io 94 ms, fw old 405 ms, other 101 ms
+2022-04-19.10:26:35 Forward step, parentC=24
+2022-04-19.10:26:35 Processing layer c=24 phase 1
+2022-04-19.10:26:35 Total 3544 ms, bw work 0 ms, bw io 0 ms, fw 1 2790 ms, fw 2 151 ms, fw io 94 ms, fw old 405 ms, other 101 ms
+2022-04-19.10:26:35 Forward step, parentC=25
+2022-04-19.10:26:35 Processing layer c=25 phase 1
+2022-04-19.10:26:35 Total 3549 ms, bw work 0 ms, bw io 0 ms, fw 1 2795 ms, fw 2 151 ms, fw io 94 ms, fw old 405 ms, other 101 ms
+2022-04-19.10:26:35 Forward step, parentC=26
+2022-04-19.10:26:35 Processing layer c=26 phase 1
+2022-04-19.10:26:35 Total 3555 ms, bw work 0 ms, bw io 0 ms, fw 1 2802 ms, fw 2 151 ms, fw io 94 ms, fw old 405 ms, other 101 ms
+2022-04-19.10:26:35 Forward step, parentC=27
+2022-04-19.10:26:35 Processing layer c=27 phase 1
+2022-04-19.10:26:35 Total 3560 ms, bw work 0 ms, bw io 0 ms, fw 1 2807 ms, fw 2 151 ms, fw io 94 ms, fw old 405 ms, other 101 ms
+2022-04-19.10:26:35 Forward step, parentC=28
+2022-04-19.10:26:35 Processing layer c=28 phase 1
+2022-04-19.10:26:35 Total 3562 ms, bw work 0 ms, bw io 0 ms, fw 1 2809 ms, fw 2 151 ms, fw io 94 ms, fw old 405 ms, other 101 ms
+2022-04-19.10:26:35 Forward step, parentC=29
+2022-04-19.10:26:35 Processing layer c=29 phase 1
+2022-04-19.10:26:35 Total 3564 ms, bw work 0 ms, bw io 0 ms, fw 1 2810 ms, fw 2 151 ms, fw io 94 ms, fw old 405 ms, other 101 ms
+2022-04-19.10:26:35 Forward step, parentC=30
+2022-04-19.10:26:35 Processing layer c=30 phase 1
+2022-04-19.10:26:35 Total 3564 ms, bw work 0 ms, bw io 0 ms, fw 1 2810 ms, fw 2 151 ms, fw io 94 ms, fw old 405 ms, other 101 ms
+2022-04-19.10:26:35 Forward step, parentC=29
+2022-04-19.10:26:35 Processing layer c=29 phase 2
+2022-04-19.10:26:35 Total 3565 ms, bw work 0 ms, bw io 0 ms, fw 1 2810 ms, fw 2 153 ms, fw io 94 ms, fw old 405 ms, other 101 ms
+2022-04-19.10:26:35 Forward step, parentC=28
+2022-04-19.10:26:35 Processing layer c=28 phase 2
+2022-04-19.10:26:35 Total 3567 ms, bw work 0 ms, bw io 0 ms, fw 1 2810 ms, fw 2 154 ms, fw io 94 ms, fw old 405 ms, other 101 ms
+2022-04-19.10:26:35 Forward step, parentC=27
+2022-04-19.10:26:35 Processing layer c=27 phase 2
+2022-04-19.10:26:35 Total 3569 ms, bw work 0 ms, bw io 0 ms, fw 1 2810 ms, fw 2 156 ms, fw io 94 ms, fw old 405 ms, other 101 ms
+2022-04-19.10:26:35 Forward step, parentC=28
+2022-04-19.10:26:35 Processing layer c=28 phase 1
+2022-04-19.10:26:35 Total 3570 ms, bw work 0 ms, bw io 0 ms, fw 1 2812 ms, fw 2 156 ms, fw io 94 ms, fw old 405 ms, other 101 ms
+2022-04-19.10:26:35 Forward step, parentC=27
+2022-04-19.10:26:35 Processing layer c=27 phase 3
+2022-04-19.10:26:35 Total 3572 ms, bw work 0 ms, bw io 0 ms, fw 1 2812 ms, fw 2 157 ms, fw io 94 ms, fw old 406 ms, other 101 ms
+2022-04-19.10:26:35 Forward step, parentC=26
+2022-04-19.10:26:35 Processing layer c=26 phase 2
+2022-04-19.10:26:35 Total 3576 ms, bw work 0 ms, bw io 0 ms, fw 1 2812 ms, fw 2 160 ms, fw io 94 ms, fw old 406 ms, other 102 ms
+2022-04-19.10:26:35 Forward step, parentC=27
+2022-04-19.10:26:35 Processing layer c=27 phase 1
+2022-04-19.10:26:35 Total 3577 ms, bw work 0 ms, bw io 0 ms, fw 1 2813 ms, fw 2 160 ms, fw io 94 ms, fw old 406 ms, other 102 ms
+2022-04-19.10:26:35 Forward step, parentC=28
+2022-04-19.10:26:35 Processing layer c=28 phase 1
+2022-04-19.10:26:35 Total 3578 ms, bw work 0 ms, bw io 0 ms, fw 1 2814 ms, fw 2 160 ms, fw io 94 ms, fw old 406 ms, other 102 ms
+2022-04-19.10:26:35 Forward step, parentC=27
+2022-04-19.10:26:35 Processing layer c=27 phase 2
+2022-04-19.10:26:35 Total 3579 ms, bw work 0 ms, bw io 0 ms, fw 1 2814 ms, fw 2 162 ms, fw io 94 ms, fw old 406 ms, other 102 ms
+2022-04-19.10:26:35 Forward step, parentC=26
+2022-04-19.10:26:35 Processing layer c=26 phase 3
+2022-04-19.10:26:35 Total 3581 ms, bw work 0 ms, bw io 0 ms, fw 1 2814 ms, fw 2 163 ms, fw io 94 ms, fw old 407 ms, other 102 ms
+2022-04-19.10:26:35 Forward step, parentC=25
+2022-04-19.10:26:35 Processing layer c=25 phase 2
+2022-04-19.10:26:35 Total 3584 ms, bw work 0 ms, bw io 0 ms, fw 1 2814 ms, fw 2 166 ms, fw io 94 ms, fw old 407 ms, other 102 ms
+2022-04-19.10:26:35 Forward step, parentC=26
+2022-04-19.10:26:35 Processing layer c=26 phase 1
+2022-04-19.10:26:35 Total 3586 ms, bw work 0 ms, bw io 0 ms, fw 1 2815 ms, fw 2 166 ms, fw io 94 ms, fw old 407 ms, other 102 ms
+2022-04-19.10:26:35 Forward step, parentC=27
+2022-04-19.10:26:35 Processing layer c=27 phase 1
+2022-04-19.10:26:35 Total 3588 ms, bw work 0 ms, bw io 0 ms, fw 1 2817 ms, fw 2 166 ms, fw io 94 ms, fw old 407 ms, other 102 ms
+2022-04-19.10:26:35 Forward step, parentC=28
+2022-04-19.10:26:35 Processing layer c=28 phase 1
+2022-04-19.10:26:35 Total 3588 ms, bw work 0 ms, bw io 0 ms, fw 1 2817 ms, fw 2 166 ms, fw io 94 ms, fw old 407 ms, other 102 ms
+2022-04-19.10:26:35 Forward step, parentC=27
+2022-04-19.10:26:35 Processing layer c=27 phase 2
+2022-04-19.10:26:35 Total 3590 ms, bw work 0 ms, bw io 0 ms, fw 1 2817 ms, fw 2 167 ms, fw io 94 ms, fw old 407 ms, other 102 ms
+2022-04-19.10:26:35 Forward step, parentC=26
+2022-04-19.10:26:35 Processing layer c=26 phase 2
+2022-04-19.10:26:35 Total 3591 ms, bw work 0 ms, bw io 0 ms, fw 1 2817 ms, fw 2 169 ms, fw io 94 ms, fw old 407 ms, other 102 ms
+2022-04-19.10:26:35 Forward step, parentC=27
+2022-04-19.10:26:35 Processing layer c=27 phase 1
+2022-04-19.10:26:35 Total 3592 ms, bw work 0 ms, bw io 0 ms, fw 1 2817 ms, fw 2 169 ms, fw io 94 ms, fw old 407 ms, other 102 ms
+2022-04-19.10:26:35 Forward step, parentC=26
+2022-04-19.10:26:35 Processing layer c=26 phase 3
+2022-04-19.10:26:35 Total 3593 ms, bw work 0 ms, bw io 0 ms, fw 1 2817 ms, fw 2 170 ms, fw io 94 ms, fw old 407 ms, other 102 ms
+2022-04-19.10:26:35 Forward step, parentC=25
+2022-04-19.10:26:35 Processing layer c=25 phase 3
+2022-04-19.10:26:35 Total 3595 ms, bw work 0 ms, bw io 0 ms, fw 1 2817 ms, fw 2 172 ms, fw io 94 ms, fw old 408 ms, other 102 ms
+2022-04-19.10:26:35 Forward step, parentC=24
+2022-04-19.10:26:35 Processing layer c=24 phase 2
+2022-04-19.10:26:35 Total 3597 ms, bw work 0 ms, bw io 0 ms, fw 1 2817 ms, fw 2 173 ms, fw io 94 ms, fw old 408 ms, other 102 ms
+2022-04-19.10:26:35 Forward step, parentC=25
+2022-04-19.10:26:35 Processing layer c=25 phase 1
+2022-04-19.10:26:35 Total 3599 ms, bw work 0 ms, bw io 0 ms, fw 1 2819 ms, fw 2 173 ms, fw io 94 ms, fw old 408 ms, other 102 ms
+2022-04-19.10:26:35 Forward step, parentC=26
+2022-04-19.10:26:35 Processing layer c=26 phase 1
+2022-04-19.10:26:35 Total 3601 ms, bw work 0 ms, bw io 0 ms, fw 1 2822 ms, fw 2 173 ms, fw io 94 ms, fw old 408 ms, other 102 ms
+2022-04-19.10:26:35 Forward step, parentC=27
+2022-04-19.10:26:35 Processing layer c=27 phase 1
+2022-04-19.10:26:35 Total 3603 ms, bw work 0 ms, bw io 0 ms, fw 1 2824 ms, fw 2 173 ms, fw io 94 ms, fw old 408 ms, other 102 ms
+2022-04-19.10:26:35 Forward step, parentC=28
+2022-04-19.10:26:35 Processing layer c=28 phase 1
+2022-04-19.10:26:35 Total 3605 ms, bw work 0 ms, bw io 0 ms, fw 1 2825 ms, fw 2 173 ms, fw io 94 ms, fw old 408 ms, other 102 ms
+2022-04-19.10:26:35 Forward step, parentC=27
+2022-04-19.10:26:35 Processing layer c=27 phase 2
+2022-04-19.10:26:35 Total 3606 ms, bw work 0 ms, bw io 0 ms, fw 1 2825 ms, fw 2 175 ms, fw io 94 ms, fw old 408 ms, other 102 ms
+2022-04-19.10:26:35 Forward step, parentC=26
+2022-04-19.10:26:35 Processing layer c=26 phase 2
+2022-04-19.10:26:35 Total 3608 ms, bw work 0 ms, bw io 0 ms, fw 1 2825 ms, fw 2 176 ms, fw io 94 ms, fw old 408 ms, other 102 ms
+2022-04-19.10:26:35 Forward step, parentC=27
+2022-04-19.10:26:35 Processing layer c=27 phase 1
+2022-04-19.10:26:35 Total 3608 ms, bw work 0 ms, bw io 0 ms, fw 1 2826 ms, fw 2 176 ms, fw io 94 ms, fw old 408 ms, other 102 ms
+2022-04-19.10:26:35 Forward step, parentC=28
+2022-04-19.10:26:35 Processing layer c=28 phase 1
+2022-04-19.10:26:35 Total 3608 ms, bw work 0 ms, bw io 0 ms, fw 1 2826 ms, fw 2 176 ms, fw io 94 ms, fw old 408 ms, other 102 ms
+2022-04-19.10:26:35 Forward step, parentC=27
+2022-04-19.10:26:35 Processing layer c=27 phase 2
+2022-04-19.10:26:35 Total 3608 ms, bw work 0 ms, bw io 0 ms, fw 1 2826 ms, fw 2 176 ms, fw io 94 ms, fw old 408 ms, other 102 ms
+2022-04-19.10:26:35 Forward step, parentC=26
+2022-04-19.10:26:35 Processing layer c=26 phase 3
+2022-04-19.10:26:35 Total 3610 ms, bw work 0 ms, bw io 0 ms, fw 1 2826 ms, fw 2 177 ms, fw io 94 ms, fw old 409 ms, other 102 ms
+2022-04-19.10:26:35 Forward step, parentC=25
+2022-04-19.10:26:35 Processing layer c=25 phase 2
+2022-04-19.10:26:35 Total 3612 ms, bw work 0 ms, bw io 0 ms, fw 1 2826 ms, fw 2 179 ms, fw io 94 ms, fw old 409 ms, other 102 ms
+2022-04-19.10:26:35 Forward step, parentC=26
+2022-04-19.10:26:35 Processing layer c=26 phase 1
+2022-04-19.10:26:35 Total 3612 ms, bw work 0 ms, bw io 0 ms, fw 1 2826 ms, fw 2 179 ms, fw io 94 ms, fw old 409 ms, other 102 ms
+2022-04-19.10:26:35 Forward step, parentC=27
+2022-04-19.10:26:35 Processing layer c=27 phase 1
+2022-04-19.10:26:35 Total 3612 ms, bw work 0 ms, bw io 0 ms, fw 1 2826 ms, fw 2 179 ms, fw io 94 ms, fw old 409 ms, other 102 ms
+2022-04-19.10:26:35 Forward step, parentC=28
+2022-04-19.10:26:35 Processing layer c=28 phase 1
+2022-04-19.10:26:35 Total 3612 ms, bw work 0 ms, bw io 0 ms, fw 1 2826 ms, fw 2 179 ms, fw io 94 ms, fw old 409 ms, other 102 ms
+2022-04-19.10:26:35 Forward step, parentC=27
+2022-04-19.10:26:35 Processing layer c=27 phase 2
+2022-04-19.10:26:35 Total 3612 ms, bw work 0 ms, bw io 0 ms, fw 1 2826 ms, fw 2 179 ms, fw io 94 ms, fw old 409 ms, other 102 ms
+2022-04-19.10:26:35 Forward step, parentC=26
+2022-04-19.10:26:35 Processing layer c=26 phase 2
+2022-04-19.10:26:35 Total 3612 ms, bw work 0 ms, bw io 0 ms, fw 1 2826 ms, fw 2 179 ms, fw io 94 ms, fw old 409 ms, other 102 ms
+2022-04-19.10:26:35 Forward step, parentC=25
+2022-04-19.10:26:35 Processing layer c=25 phase 3
+2022-04-19.10:26:35 Total 3614 ms, bw work 0 ms, bw io 0 ms, fw 1 2826 ms, fw 2 180 ms, fw io 94 ms, fw old 409 ms, other 102 ms
+2022-04-19.10:26:35 Forward step, parentC=24
+2022-04-19.10:26:35 Processing layer c=24 phase 3
+2022-04-19.10:26:35 Total 3616 ms, bw work 0 ms, bw io 0 ms, fw 1 2826 ms, fw 2 182 ms, fw io 94 ms, fw old 409 ms, other 103 ms
+2022-04-19.10:26:35 Forward step, parentC=23
+2022-04-19.10:26:35 Processing layer c=23 phase 2
+2022-04-19.10:26:35 Total 3617 ms, bw work 0 ms, bw io 0 ms, fw 1 2826 ms, fw 2 183 ms, fw io 94 ms, fw old 409 ms, other 103 ms
+2022-04-19.10:26:35 Forward step, parentC=24
+2022-04-19.10:26:35 Processing layer c=24 phase 1
+2022-04-19.10:26:35 Total 3619 ms, bw work 0 ms, bw io 0 ms, fw 1 2828 ms, fw 2 183 ms, fw io 94 ms, fw old 409 ms, other 103 ms
+2022-04-19.10:26:35 Forward step, parentC=25
+2022-04-19.10:26:35 Processing layer c=25 phase 1
+2022-04-19.10:26:35 Total 3621 ms, bw work 0 ms, bw io 0 ms, fw 1 2830 ms, fw 2 183 ms, fw io 94 ms, fw old 409 ms, other 103 ms
+2022-04-19.10:26:35 Forward step, parentC=26
+2022-04-19.10:26:35 Processing layer c=26 phase 1
+2022-04-19.10:26:35 Total 3623 ms, bw work 0 ms, bw io 0 ms, fw 1 2832 ms, fw 2 183 ms, fw io 94 ms, fw old 409 ms, other 103 ms
+2022-04-19.10:26:35 Forward step, parentC=27
+2022-04-19.10:26:35 Processing layer c=27 phase 1
+2022-04-19.10:26:35 Total 3624 ms, bw work 0 ms, bw io 0 ms, fw 1 2833 ms, fw 2 183 ms, fw io 94 ms, fw old 409 ms, other 103 ms
+2022-04-19.10:26:35 Forward step, parentC=28
+2022-04-19.10:26:35 Processing layer c=28 phase 1
+2022-04-19.10:26:35 Total 3624 ms, bw work 0 ms, bw io 0 ms, fw 1 2833 ms, fw 2 183 ms, fw io 94 ms, fw old 409 ms, other 103 ms
+2022-04-19.10:26:35 Forward step, parentC=27
+2022-04-19.10:26:35 Processing layer c=27 phase 2
+2022-04-19.10:26:35 Total 3626 ms, bw work 0 ms, bw io 0 ms, fw 1 2833 ms, fw 2 185 ms, fw io 94 ms, fw old 409 ms, other 103 ms
+2022-04-19.10:26:35 Forward step, parentC=28
+2022-04-19.10:26:35 Processing layer c=28 phase 1
+2022-04-19.10:26:35 Total 3626 ms, bw work 0 ms, bw io 0 ms, fw 1 2833 ms, fw 2 185 ms, fw io 94 ms, fw old 409 ms, other 103 ms
+2022-04-19.10:26:35 Forward step, parentC=27
+2022-04-19.10:26:35 Processing layer c=27 phase 3
+2022-04-19.10:26:35 Total 3627 ms, bw work 0 ms, bw io 0 ms, fw 1 2833 ms, fw 2 186 ms, fw io 94 ms, fw old 409 ms, other 103 ms
+2022-04-19.10:26:35 Forward step, parentC=26
+2022-04-19.10:26:35 Processing layer c=26 phase 2
+2022-04-19.10:26:35 Total 3629 ms, bw work 0 ms, bw io 0 ms, fw 1 2833 ms, fw 2 187 ms, fw io 94 ms, fw old 409 ms, other 103 ms
+2022-04-19.10:26:35 Forward step, parentC=27
+2022-04-19.10:26:35 Processing layer c=27 phase 1
+2022-04-19.10:26:35 Total 3629 ms, bw work 0 ms, bw io 0 ms, fw 1 2834 ms, fw 2 187 ms, fw io 94 ms, fw old 409 ms, other 103 ms
+2022-04-19.10:26:35 Forward step, parentC=28
+2022-04-19.10:26:35 Processing layer c=28 phase 1
+2022-04-19.10:26:35 Total 3629 ms, bw work 0 ms, bw io 0 ms, fw 1 2834 ms, fw 2 187 ms, fw io 94 ms, fw old 409 ms, other 103 ms
+2022-04-19.10:26:35 Forward step, parentC=27
+2022-04-19.10:26:35 Processing layer c=27 phase 2
+2022-04-19.10:26:35 Total 3629 ms, bw work 0 ms, bw io 0 ms, fw 1 2834 ms, fw 2 187 ms, fw io 94 ms, fw old 409 ms, other 103 ms
+2022-04-19.10:26:35 Forward step, parentC=26
+2022-04-19.10:26:35 Processing layer c=26 phase 3
+2022-04-19.10:26:35 Total 3631 ms, bw work 0 ms, bw io 0 ms, fw 1 2834 ms, fw 2 189 ms, fw io 94 ms, fw old 409 ms, other 103 ms
+2022-04-19.10:26:35 Forward step, parentC=25
+2022-04-19.10:26:35 Processing layer c=25 phase 2
+2022-04-19.10:26:35 Total 3632 ms, bw work 0 ms, bw io 0 ms, fw 1 2834 ms, fw 2 190 ms, fw io 94 ms, fw old 409 ms, other 103 ms
+2022-04-19.10:26:35 Forward step, parentC=26
+2022-04-19.10:26:35 Processing layer c=26 phase 1
+2022-04-19.10:26:35 Total 3632 ms, bw work 0 ms, bw io 0 ms, fw 1 2834 ms, fw 2 190 ms, fw io 94 ms, fw old 409 ms, other 103 ms
+2022-04-19.10:26:35 Forward step, parentC=27
+2022-04-19.10:26:35 Processing layer c=27 phase 1
+2022-04-19.10:26:35 Total 3632 ms, bw work 0 ms, bw io 0 ms, fw 1 2834 ms, fw 2 190 ms, fw io 94 ms, fw old 409 ms, other 103 ms
+2022-04-19.10:26:35 Forward step, parentC=26
+2022-04-19.10:26:35 Processing layer c=26 phase 2
+2022-04-19.10:26:35 Total 3632 ms, bw work 0 ms, bw io 0 ms, fw 1 2834 ms, fw 2 190 ms, fw io 94 ms, fw old 409 ms, other 103 ms
+2022-04-19.10:26:35 Forward step, parentC=27
+2022-04-19.10:26:35 Processing layer c=27 phase 1
+2022-04-19.10:26:35 Total 3632 ms, bw work 0 ms, bw io 0 ms, fw 1 2834 ms, fw 2 190 ms, fw io 94 ms, fw old 409 ms, other 103 ms
+2022-04-19.10:26:35 Forward step, parentC=26
+2022-04-19.10:26:35 Processing layer c=26 phase 3
+2022-04-19.10:26:35 Total 3632 ms, bw work 0 ms, bw io 0 ms, fw 1 2834 ms, fw 2 190 ms, fw io 94 ms, fw old 409 ms, other 103 ms
+2022-04-19.10:26:35 Forward step, parentC=25
+2022-04-19.10:26:35 Processing layer c=25 phase 3
+2022-04-19.10:26:35 Total 3634 ms, bw work 0 ms, bw io 0 ms, fw 1 2834 ms, fw 2 191 ms, fw io 94 ms, fw old 409 ms, other 103 ms
+2022-04-19.10:26:35 Forward step, parentC=24
+2022-04-19.10:26:35 Processing layer c=24 phase 2
+2022-04-19.10:26:35 Total 3635 ms, bw work 0 ms, bw io 0 ms, fw 1 2834 ms, fw 2 193 ms, fw io 94 ms, fw old 409 ms, other 103 ms
+2022-04-19.10:26:35 Forward step, parentC=25
+2022-04-19.10:26:35 Processing layer c=25 phase 1
+2022-04-19.10:26:35 Total 3636 ms, bw work 0 ms, bw io 0 ms, fw 1 2834 ms, fw 2 193 ms, fw io 94 ms, fw old 409 ms, other 103 ms
+2022-04-19.10:26:35 Forward step, parentC=26
+2022-04-19.10:26:35 Processing layer c=26 phase 1
+2022-04-19.10:26:35 Total 3636 ms, bw work 0 ms, bw io 0 ms, fw 1 2834 ms, fw 2 193 ms, fw io 94 ms, fw old 409 ms, other 103 ms
+2022-04-19.10:26:35 Forward step, parentC=25
+2022-04-19.10:26:35 Processing layer c=25 phase 2
+2022-04-19.10:26:35 Total 3636 ms, bw work 0 ms, bw io 0 ms, fw 1 2834 ms, fw 2 193 ms, fw io 94 ms, fw old 409 ms, other 103 ms
+2022-04-19.10:26:35 Forward step, parentC=24
+2022-04-19.10:26:35 Processing layer c=24 phase 3
+2022-04-19.10:26:35 Total 3637 ms, bw work 0 ms, bw io 0 ms, fw 1 2834 ms, fw 2 194 ms, fw io 94 ms, fw old 409 ms, other 103 ms
+2022-04-19.10:26:35 Forward step, parentC=23
+2022-04-19.10:26:35 Processing layer c=23 phase 3
+2022-04-19.10:26:35 Total 3639 ms, bw work 0 ms, bw io 0 ms, fw 1 2834 ms, fw 2 196 ms, fw io 94 ms, fw old 410 ms, other 103 ms
+2022-04-19.10:26:35 Forward step, parentC=22
+2022-04-19.10:26:35 Processing layer c=22 phase 2
+2022-04-19.10:26:35 Total 3640 ms, bw work 0 ms, bw io 0 ms, fw 1 2834 ms, fw 2 197 ms, fw io 94 ms, fw old 410 ms, other 103 ms
+2022-04-19.10:26:35 Forward step, parentC=23
+2022-04-19.10:26:35 Processing layer c=23 phase 1
+2022-04-19.10:26:35 Total 3641 ms, bw work 0 ms, bw io 0 ms, fw 1 2835 ms, fw 2 197 ms, fw io 94 ms, fw old 410 ms, other 103 ms
+2022-04-19.10:26:35 Forward step, parentC=24
+2022-04-19.10:26:35 Processing layer c=24 phase 1
+2022-04-19.10:26:35 Total 3643 ms, bw work 0 ms, bw io 0 ms, fw 1 2837 ms, fw 2 197 ms, fw io 94 ms, fw old 410 ms, other 103 ms
+2022-04-19.10:26:35 Forward step, parentC=25
+2022-04-19.10:26:35 Processing layer c=25 phase 1
+2022-04-19.10:26:35 Total 3645 ms, bw work 0 ms, bw io 0 ms, fw 1 2839 ms, fw 2 197 ms, fw io 94 ms, fw old 410 ms, other 103 ms
+2022-04-19.10:26:35 Forward step, parentC=26
+2022-04-19.10:26:35 Processing layer c=26 phase 1
+2022-04-19.10:26:35 Total 3647 ms, bw work 0 ms, bw io 0 ms, fw 1 2840 ms, fw 2 197 ms, fw io 94 ms, fw old 410 ms, other 103 ms
+2022-04-19.10:26:35 Forward step, parentC=27
+2022-04-19.10:26:35 Processing layer c=27 phase 1
+2022-04-19.10:26:35 Total 3648 ms, bw work 0 ms, bw io 0 ms, fw 1 2842 ms, fw 2 197 ms, fw io 94 ms, fw old 410 ms, other 103 ms
+2022-04-19.10:26:35 Forward step, parentC=28
+2022-04-19.10:26:35 Processing layer c=28 phase 1
+2022-04-19.10:26:35 Total 3649 ms, bw work 0 ms, bw io 0 ms, fw 1 2842 ms, fw 2 197 ms, fw io 94 ms, fw old 410 ms, other 103 ms
+2022-04-19.10:26:35 Forward step, parentC=27
+2022-04-19.10:26:35 Processing layer c=27 phase 2
+2022-04-19.10:26:35 Total 3650 ms, bw work 0 ms, bw io 0 ms, fw 1 2842 ms, fw 2 199 ms, fw io 94 ms, fw old 410 ms, other 103 ms
+2022-04-19.10:26:35 Forward step, parentC=28
+2022-04-19.10:26:35 Processing layer c=28 phase 1
+2022-04-19.10:26:35 Total 3650 ms, bw work 0 ms, bw io 0 ms, fw 1 2842 ms, fw 2 199 ms, fw io 94 ms, fw old 410 ms, other 103 ms
+2022-04-19.10:26:35 Forward step, parentC=27
+2022-04-19.10:26:35 Processing layer c=27 phase 3
+2022-04-19.10:26:35 Total 3652 ms, bw work 0 ms, bw io 0 ms, fw 1 2842 ms, fw 2 200 ms, fw io 94 ms, fw old 410 ms, other 104 ms
+2022-04-19.10:26:35 Forward step, parentC=26
+2022-04-19.10:26:35 Processing layer c=26 phase 2
+2022-04-19.10:26:35 Total 3653 ms, bw work 0 ms, bw io 0 ms, fw 1 2842 ms, fw 2 201 ms, fw io 94 ms, fw old 410 ms, other 104 ms
+2022-04-19.10:26:35 Forward step, parentC=27
+2022-04-19.10:26:35 Processing layer c=27 phase 1
+2022-04-19.10:26:35 Total 3653 ms, bw work 0 ms, bw io 0 ms, fw 1 2842 ms, fw 2 201 ms, fw io 94 ms, fw old 410 ms, other 104 ms
+2022-04-19.10:26:35 Forward step, parentC=28
+2022-04-19.10:26:35 Processing layer c=28 phase 1
+2022-04-19.10:26:35 Total 3653 ms, bw work 0 ms, bw io 0 ms, fw 1 2842 ms, fw 2 201 ms, fw io 94 ms, fw old 410 ms, other 104 ms
+2022-04-19.10:26:35 Forward step, parentC=27
+2022-04-19.10:26:35 Processing layer c=27 phase 2
+2022-04-19.10:26:35 Total 3653 ms, bw work 0 ms, bw io 0 ms, fw 1 2842 ms, fw 2 201 ms, fw io 94 ms, fw old 410 ms, other 104 ms
+2022-04-19.10:26:35 Forward step, parentC=26
+2022-04-19.10:26:35 Processing layer c=26 phase 3
+2022-04-19.10:26:35 Total 3655 ms, bw work 0 ms, bw io 0 ms, fw 1 2842 ms, fw 2 203 ms, fw io 94 ms, fw old 410 ms, other 104 ms
+2022-04-19.10:26:35 Forward step, parentC=25
+2022-04-19.10:26:35 Processing layer c=25 phase 2
+2022-04-19.10:26:35 Total 3656 ms, bw work 0 ms, bw io 0 ms, fw 1 2842 ms, fw 2 204 ms, fw io 94 ms, fw old 410 ms, other 104 ms
+2022-04-19.10:26:35 Forward step, parentC=26
+2022-04-19.10:26:35 Processing layer c=26 phase 1
+2022-04-19.10:26:35 Total 3657 ms, bw work 0 ms, bw io 0 ms, fw 1 2843 ms, fw 2 204 ms, fw io 94 ms, fw old 410 ms, other 104 ms
+2022-04-19.10:26:35 Forward step, parentC=27
+2022-04-19.10:26:35 Processing layer c=27 phase 1
+2022-04-19.10:26:35 Total 3658 ms, bw work 0 ms, bw io 0 ms, fw 1 2844 ms, fw 2 204 ms, fw io 94 ms, fw old 410 ms, other 104 ms
+2022-04-19.10:26:35 Forward step, parentC=28
+2022-04-19.10:26:35 Processing layer c=28 phase 1
+2022-04-19.10:26:35 Total 3659 ms, bw work 0 ms, bw io 0 ms, fw 1 2845 ms, fw 2 204 ms, fw io 94 ms, fw old 410 ms, other 104 ms
+2022-04-19.10:26:35 Forward step, parentC=27
+2022-04-19.10:26:35 Processing layer c=27 phase 2
+2022-04-19.10:26:35 Total 3660 ms, bw work 0 ms, bw io 0 ms, fw 1 2845 ms, fw 2 206 ms, fw io 94 ms, fw old 410 ms, other 104 ms
+2022-04-19.10:26:35 Forward step, parentC=28
+2022-04-19.10:26:35 Processing layer c=28 phase 1
+2022-04-19.10:26:35 Total 3660 ms, bw work 0 ms, bw io 0 ms, fw 1 2845 ms, fw 2 206 ms, fw io 94 ms, fw old 410 ms, other 104 ms
+2022-04-19.10:26:35 Forward step, parentC=27
+2022-04-19.10:26:35 Processing layer c=27 phase 3
+2022-04-19.10:26:35 Total 3661 ms, bw work 0 ms, bw io 0 ms, fw 1 2845 ms, fw 2 207 ms, fw io 94 ms, fw old 410 ms, other 104 ms
+2022-04-19.10:26:35 Forward step, parentC=26
+2022-04-19.10:26:35 Processing layer c=26 phase 2
+2022-04-19.10:26:35 Total 3661 ms, bw work 0 ms, bw io 0 ms, fw 1 2845 ms, fw 2 207 ms, fw io 94 ms, fw old 410 ms, other 104 ms
+2022-04-19.10:26:35 Forward step, parentC=25
+2022-04-19.10:26:35 Processing layer c=25 phase 3
+2022-04-19.10:26:35 Total 3663 ms, bw work 0 ms, bw io 0 ms, fw 1 2845 ms, fw 2 208 ms, fw io 94 ms, fw old 410 ms, other 104 ms
+2022-04-19.10:26:35 Forward step, parentC=24
+2022-04-19.10:26:35 Processing layer c=24 phase 2
+2022-04-19.10:26:35 Total 3664 ms, bw work 0 ms, bw io 0 ms, fw 1 2845 ms, fw 2 210 ms, fw io 94 ms, fw old 410 ms, other 104 ms
+2022-04-19.10:26:35 Forward step, parentC=25
+2022-04-19.10:26:35 Processing layer c=25 phase 1
+2022-04-19.10:26:35 Total 3665 ms, bw work 0 ms, bw io 0 ms, fw 1 2845 ms, fw 2 210 ms, fw io 94 ms, fw old 410 ms, other 104 ms
+2022-04-19.10:26:35 Forward step, parentC=26
+2022-04-19.10:26:35 Processing layer c=26 phase 1
+2022-04-19.10:26:35 Total 3667 ms, bw work 0 ms, bw io 0 ms, fw 1 2847 ms, fw 2 210 ms, fw io 94 ms, fw old 410 ms, other 104 ms
+2022-04-19.10:26:35 Forward step, parentC=27
+2022-04-19.10:26:35 Processing layer c=27 phase 1
+2022-04-19.10:26:35 Total 3667 ms, bw work 0 ms, bw io 0 ms, fw 1 2847 ms, fw 2 210 ms, fw io 94 ms, fw old 410 ms, other 104 ms
+2022-04-19.10:26:35 Forward step, parentC=28
+2022-04-19.10:26:35 Processing layer c=28 phase 1
+2022-04-19.10:26:35 Total 3667 ms, bw work 0 ms, bw io 0 ms, fw 1 2847 ms, fw 2 210 ms, fw io 94 ms, fw old 410 ms, other 104 ms
+2022-04-19.10:26:35 Forward step, parentC=27
+2022-04-19.10:26:35 Processing layer c=27 phase 2
+2022-04-19.10:26:35 Total 3667 ms, bw work 0 ms, bw io 0 ms, fw 1 2847 ms, fw 2 210 ms, fw io 94 ms, fw old 410 ms, other 104 ms
+2022-04-19.10:26:35 Forward step, parentC=26
+2022-04-19.10:26:35 Processing layer c=26 phase 2
+2022-04-19.10:26:35 Total 3668 ms, bw work 0 ms, bw io 0 ms, fw 1 2847 ms, fw 2 211 ms, fw io 94 ms, fw old 410 ms, other 104 ms
+2022-04-19.10:26:35 Forward step, parentC=25
+2022-04-19.10:26:35 Processing layer c=25 phase 2
+2022-04-19.10:26:35 Total 3669 ms, bw work 0 ms, bw io 0 ms, fw 1 2847 ms, fw 2 211 ms, fw io 94 ms, fw old 410 ms, other 104 ms
+2022-04-19.10:26:35 Forward step, parentC=24
+2022-04-19.10:26:35 Processing layer c=24 phase 3
+2022-04-19.10:26:35 Total 3670 ms, bw work 0 ms, bw io 0 ms, fw 1 2847 ms, fw 2 213 ms, fw io 94 ms, fw old 410 ms, other 104 ms
+2022-04-19.10:26:35 Forward step, parentC=23
+2022-04-19.10:26:35 Processing layer c=23 phase 2
+2022-04-19.10:26:35 Total 3670 ms, bw work 0 ms, bw io 0 ms, fw 1 2847 ms, fw 2 213 ms, fw io 94 ms, fw old 410 ms, other 104 ms
+2022-04-19.10:26:35 Forward step, parentC=24
+2022-04-19.10:26:35 Processing layer c=24 phase 1
+2022-04-19.10:26:35 Total 3670 ms, bw work 0 ms, bw io 0 ms, fw 1 2847 ms, fw 2 213 ms, fw io 94 ms, fw old 410 ms, other 104 ms
+2022-04-19.10:26:35 Forward step, parentC=25
+2022-04-19.10:26:35 Processing layer c=25 phase 1
+2022-04-19.10:26:35 Total 3670 ms, bw work 0 ms, bw io 0 ms, fw 1 2847 ms, fw 2 213 ms, fw io 94 ms, fw old 410 ms, other 104 ms
+2022-04-19.10:26:35 Forward step, parentC=26
+2022-04-19.10:26:35 Processing layer c=26 phase 1
+2022-04-19.10:26:35 Total 3671 ms, bw work 0 ms, bw io 0 ms, fw 1 2847 ms, fw 2 213 ms, fw io 94 ms, fw old 410 ms, other 104 ms
+2022-04-19.10:26:35 Forward step, parentC=27
+2022-04-19.10:26:35 Processing layer c=27 phase 1
+2022-04-19.10:26:35 Total 3671 ms, bw work 0 ms, bw io 0 ms, fw 1 2847 ms, fw 2 213 ms, fw io 94 ms, fw old 410 ms, other 104 ms
+2022-04-19.10:26:35 Forward step, parentC=26
+2022-04-19.10:26:35 Processing layer c=26 phase 2
+2022-04-19.10:26:35 Total 3671 ms, bw work 0 ms, bw io 0 ms, fw 1 2847 ms, fw 2 213 ms, fw io 94 ms, fw old 410 ms, other 104 ms
+2022-04-19.10:26:35 Forward step, parentC=25
+2022-04-19.10:26:35 Processing layer c=25 phase 2
+2022-04-19.10:26:35 Total 3671 ms, bw work 0 ms, bw io 0 ms, fw 1 2847 ms, fw 2 213 ms, fw io 94 ms, fw old 410 ms, other 104 ms
+2022-04-19.10:26:35 Forward step, parentC=24
+2022-04-19.10:26:35 Processing layer c=24 phase 2
+2022-04-19.10:26:35 Total 3671 ms, bw work 0 ms, bw io 0 ms, fw 1 2847 ms, fw 2 213 ms, fw io 94 ms, fw old 410 ms, other 104 ms
+2022-04-19.10:26:35 Forward step, parentC=25
+2022-04-19.10:26:35 Processing layer c=25 phase 1
+2022-04-19.10:26:35 Total 3671 ms, bw work 0 ms, bw io 0 ms, fw 1 2848 ms, fw 2 213 ms, fw io 94 ms, fw old 410 ms, other 104 ms
+2022-04-19.10:26:35 Forward step, parentC=24
+2022-04-19.10:26:35 Processing layer c=24 phase 3
+2022-04-19.10:26:35 Total 3671 ms, bw work 0 ms, bw io 0 ms, fw 1 2848 ms, fw 2 213 ms, fw io 94 ms, fw old 410 ms, other 104 ms
+2022-04-19.10:26:35 Forward step, parentC=23
+2022-04-19.10:26:35 Processing layer c=23 phase 3
+2022-04-19.10:26:35 Total 3671 ms, bw work 0 ms, bw io 0 ms, fw 1 2848 ms, fw 2 213 ms, fw io 94 ms, fw old 410 ms, other 104 ms
+2022-04-19.10:26:35 Forward step, parentC=22
+2022-04-19.10:26:35 Processing layer c=22 phase 3
+2022-04-19.10:26:35 Total 3672 ms, bw work 0 ms, bw io 0 ms, fw 1 2848 ms, fw 2 214 ms, fw io 94 ms, fw old 410 ms, other 104 ms
+2022-04-19.10:26:35 Forward step, parentC=21
+2022-04-19.10:26:35 Processing layer c=21 phase 2
+2022-04-19.10:26:35 Total 3674 ms, bw work 0 ms, bw io 0 ms, fw 1 2848 ms, fw 2 216 ms, fw io 94 ms, fw old 410 ms, other 104 ms
+2022-04-19.10:26:35 Forward step, parentC=22
+2022-04-19.10:26:35 Processing layer c=22 phase 1
+2022-04-19.10:26:35 Total 3674 ms, bw work 0 ms, bw io 0 ms, fw 1 2848 ms, fw 2 216 ms, fw io 94 ms, fw old 410 ms, other 104 ms
+2022-04-19.10:26:35 Forward step, parentC=23
+2022-04-19.10:26:35 Processing layer c=23 phase 1
+2022-04-19.10:26:35 Total 3674 ms, bw work 0 ms, bw io 0 ms, fw 1 2848 ms, fw 2 216 ms, fw io 94 ms, fw old 410 ms, other 104 ms
+2022-04-19.10:26:35 Forward step, parentC=24
+2022-04-19.10:26:35 Processing layer c=24 phase 1
+2022-04-19.10:26:35 Total 3674 ms, bw work 0 ms, bw io 0 ms, fw 1 2848 ms, fw 2 216 ms, fw io 94 ms, fw old 410 ms, other 104 ms
+2022-04-19.10:26:35 Forward step, parentC=25
+2022-04-19.10:26:35 Processing layer c=25 phase 1
+2022-04-19.10:26:35 Total 3674 ms, bw work 0 ms, bw io 0 ms, fw 1 2848 ms, fw 2 216 ms, fw io 94 ms, fw old 410 ms, other 104 ms
+2022-04-19.10:26:35 Forward step, parentC=26
+2022-04-19.10:26:35 Processing layer c=26 phase 1
+2022-04-19.10:26:35 Total 3674 ms, bw work 0 ms, bw io 0 ms, fw 1 2848 ms, fw 2 216 ms, fw io 94 ms, fw old 410 ms, other 104 ms
+2022-04-19.10:26:35 Forward step, parentC=25
+2022-04-19.10:26:35 Processing layer c=25 phase 2
+2022-04-19.10:26:35 Total 3674 ms, bw work 0 ms, bw io 0 ms, fw 1 2848 ms, fw 2 216 ms, fw io 94 ms, fw old 410 ms, other 105 ms
+2022-04-19.10:26:35 Forward step, parentC=24
+2022-04-19.10:26:35 Processing layer c=24 phase 2
+2022-04-19.10:26:35 Total 3674 ms, bw work 0 ms, bw io 0 ms, fw 1 2848 ms, fw 2 216 ms, fw io 94 ms, fw old 410 ms, other 105 ms
+2022-04-19.10:26:35 Forward step, parentC=23
+2022-04-19.10:26:35 Processing layer c=23 phase 2
+2022-04-19.10:26:35 Total 3674 ms, bw work 0 ms, bw io 0 ms, fw 1 2848 ms, fw 2 216 ms, fw io 94 ms, fw old 410 ms, other 105 ms
+2022-04-19.10:26:35 Forward step, parentC=22
+2022-04-19.10:26:35 Processing layer c=22 phase 2
+2022-04-19.10:26:35 Total 3674 ms, bw work 0 ms, bw io 0 ms, fw 1 2848 ms, fw 2 216 ms, fw io 94 ms, fw old 410 ms, other 105 ms
+2022-04-19.10:26:35 Forward step, parentC=21
+2022-04-19.10:26:35 Processing layer c=21 phase 3
+2022-04-19.10:26:35 Total 3676 ms, bw work 0 ms, bw io 0 ms, fw 1 2848 ms, fw 2 217 ms, fw io 94 ms, fw old 410 ms, other 105 ms
+2022-04-19.10:26:35 Forward step, parentC=20
+2022-04-19.10:26:35 Processing layer c=20 phase 2
+2022-04-19.10:26:35 Total 3676 ms, bw work 0 ms, bw io 0 ms, fw 1 2848 ms, fw 2 217 ms, fw io 94 ms, fw old 410 ms, other 105 ms
+2022-04-19.10:26:35 Forward step, parentC=19
+2022-04-19.10:26:35 Processing layer c=19 phase 3
+2022-04-19.10:26:35 Total 3880 ms, bw work 0 ms, bw io 0 ms, fw 1 2848 ms, fw 2 221 ms, fw io 94 ms, fw old 610 ms, other 105 ms
+2022-04-19.10:26:35 Forward step, parentC=18
+2022-04-19.10:26:35 Processing layer c=18 phase 2
+2022-04-19.10:26:36 Total 3929 ms, bw work 0 ms, bw io 0 ms, fw 1 2848 ms, fw 2 266 ms, fw io 99 ms, fw old 610 ms, other 105 ms
+2022-04-19.10:26:36 Forward step, parentC=19
+2022-04-19.10:26:36 Processing layer c=19 phase 1
+2022-04-19.10:26:36 Total 3939 ms, bw work 0 ms, bw io 0 ms, fw 1 2858 ms, fw 2 266 ms, fw io 99 ms, fw old 610 ms, other 105 ms
+2022-04-19.10:26:36 Forward step, parentC=20
+2022-04-19.10:26:36 Processing layer c=20 phase 1
+2022-04-19.10:26:36 Total 3941 ms, bw work 0 ms, bw io 0 ms, fw 1 2860 ms, fw 2 266 ms, fw io 99 ms, fw old 610 ms, other 105 ms
+2022-04-19.10:26:36 Forward step, parentC=21
+2022-04-19.10:26:36 Processing layer c=21 phase 1
+2022-04-19.10:26:36 Total 3944 ms, bw work 0 ms, bw io 0 ms, fw 1 2862 ms, fw 2 266 ms, fw io 99 ms, fw old 610 ms, other 105 ms
+2022-04-19.10:26:36 Forward step, parentC=22
+2022-04-19.10:26:36 Processing layer c=22 phase 1
+2022-04-19.10:26:36 Total 3946 ms, bw work 0 ms, bw io 0 ms, fw 1 2865 ms, fw 2 266 ms, fw io 99 ms, fw old 610 ms, other 105 ms
+2022-04-19.10:26:36 Forward step, parentC=23
+2022-04-19.10:26:36 Processing layer c=23 phase 1
+2022-04-19.10:26:36 Total 3948 ms, bw work 0 ms, bw io 0 ms, fw 1 2866 ms, fw 2 266 ms, fw io 99 ms, fw old 610 ms, other 105 ms
+2022-04-19.10:26:36 Forward step, parentC=24
+2022-04-19.10:26:36 Processing layer c=24 phase 1
+2022-04-19.10:26:36 Total 3950 ms, bw work 0 ms, bw io 0 ms, fw 1 2868 ms, fw 2 266 ms, fw io 99 ms, fw old 610 ms, other 105 ms
+2022-04-19.10:26:36 Forward step, parentC=25
+2022-04-19.10:26:36 Processing layer c=25 phase 1
+2022-04-19.10:26:36 Total 3950 ms, bw work 0 ms, bw io 0 ms, fw 1 2868 ms, fw 2 266 ms, fw io 99 ms, fw old 610 ms, other 105 ms
+2022-04-19.10:26:36 Forward step, parentC=26
+2022-04-19.10:26:36 Processing layer c=26 phase 1
+2022-04-19.10:26:36 Total 3950 ms, bw work 0 ms, bw io 0 ms, fw 1 2868 ms, fw 2 266 ms, fw io 99 ms, fw old 610 ms, other 105 ms
+2022-04-19.10:26:36 Forward step, parentC=27
+2022-04-19.10:26:36 Processing layer c=27 phase 1
+2022-04-19.10:26:36 Total 3950 ms, bw work 0 ms, bw io 0 ms, fw 1 2868 ms, fw 2 266 ms, fw io 99 ms, fw old 610 ms, other 105 ms
+2022-04-19.10:26:36 Forward step, parentC=28
+2022-04-19.10:26:36 Processing layer c=28 phase 1
+2022-04-19.10:26:36 Total 3950 ms, bw work 0 ms, bw io 0 ms, fw 1 2869 ms, fw 2 266 ms, fw io 99 ms, fw old 610 ms, other 105 ms
+2022-04-19.10:26:36 Forward step, parentC=27
+2022-04-19.10:26:36 Processing layer c=27 phase 2
+2022-04-19.10:26:36 Total 3950 ms, bw work 0 ms, bw io 0 ms, fw 1 2869 ms, fw 2 266 ms, fw io 99 ms, fw old 610 ms, other 105 ms
+2022-04-19.10:26:36 Forward step, parentC=26
+2022-04-19.10:26:36 Processing layer c=26 phase 2
+2022-04-19.10:26:36 Total 3950 ms, bw work 0 ms, bw io 0 ms, fw 1 2869 ms, fw 2 266 ms, fw io 99 ms, fw old 610 ms, other 105 ms
+2022-04-19.10:26:36 Forward step, parentC=25
+2022-04-19.10:26:36 Processing layer c=25 phase 2
+2022-04-19.10:26:36 Total 3950 ms, bw work 0 ms, bw io 0 ms, fw 1 2869 ms, fw 2 266 ms, fw io 99 ms, fw old 610 ms, other 105 ms
+2022-04-19.10:26:36 Forward step, parentC=24
+2022-04-19.10:26:36 Processing layer c=24 phase 2
+2022-04-19.10:26:36 Total 3952 ms, bw work 0 ms, bw io 0 ms, fw 1 2869 ms, fw 2 267 ms, fw io 99 ms, fw old 610 ms, other 105 ms
+2022-04-19.10:26:36 Forward step, parentC=23
+2022-04-19.10:26:36 Processing layer c=23 phase 2
+2022-04-19.10:26:36 Total 3953 ms, bw work 0 ms, bw io 0 ms, fw 1 2869 ms, fw 2 268 ms, fw io 99 ms, fw old 610 ms, other 105 ms
+2022-04-19.10:26:36 Forward step, parentC=24
+2022-04-19.10:26:36 Processing layer c=24 phase 1
+2022-04-19.10:26:36 Total 3953 ms, bw work 0 ms, bw io 0 ms, fw 1 2869 ms, fw 2 268 ms, fw io 99 ms, fw old 610 ms, other 105 ms
+2022-04-19.10:26:36 Forward step, parentC=23
+2022-04-19.10:26:36 Processing layer c=23 phase 3
+2022-04-19.10:26:36 Total 3955 ms, bw work 0 ms, bw io 0 ms, fw 1 2869 ms, fw 2 270 ms, fw io 99 ms, fw old 610 ms, other 105 ms
+2022-04-19.10:26:36 Forward step, parentC=22
+2022-04-19.10:26:36 Processing layer c=22 phase 2
+2022-04-19.10:26:36 Total 3956 ms, bw work 0 ms, bw io 0 ms, fw 1 2869 ms, fw 2 271 ms, fw io 99 ms, fw old 610 ms, other 105 ms
+2022-04-19.10:26:36 Forward step, parentC=23
+2022-04-19.10:26:36 Processing layer c=23 phase 1
+2022-04-19.10:26:36 Total 3956 ms, bw work 0 ms, bw io 0 ms, fw 1 2869 ms, fw 2 271 ms, fw io 99 ms, fw old 610 ms, other 105 ms
+2022-04-19.10:26:36 Forward step, parentC=24
+2022-04-19.10:26:36 Processing layer c=24 phase 1
+2022-04-19.10:26:36 Total 3956 ms, bw work 0 ms, bw io 0 ms, fw 1 2869 ms, fw 2 271 ms, fw io 99 ms, fw old 610 ms, other 105 ms
+2022-04-19.10:26:36 Forward step, parentC=23
+2022-04-19.10:26:36 Processing layer c=23 phase 2
+2022-04-19.10:26:36 Total 3956 ms, bw work 0 ms, bw io 0 ms, fw 1 2869 ms, fw 2 271 ms, fw io 99 ms, fw old 610 ms, other 105 ms
+2022-04-19.10:26:36 Forward step, parentC=22
+2022-04-19.10:26:36 Processing layer c=22 phase 3
+2022-04-19.10:26:36 Total 3958 ms, bw work 0 ms, bw io 0 ms, fw 1 2869 ms, fw 2 272 ms, fw io 99 ms, fw old 610 ms, other 105 ms
+2022-04-19.10:26:36 Forward step, parentC=21
+2022-04-19.10:26:36 Processing layer c=21 phase 2
+2022-04-19.10:26:36 Total 3959 ms, bw work 0 ms, bw io 0 ms, fw 1 2869 ms, fw 2 274 ms, fw io 99 ms, fw old 611 ms, other 105 ms
+2022-04-19.10:26:36 Forward step, parentC=20
+2022-04-19.10:26:36 Processing layer c=20 phase 2
+2022-04-19.10:26:36 Total 3961 ms, bw work 0 ms, bw io 0 ms, fw 1 2869 ms, fw 2 275 ms, fw io 99 ms, fw old 611 ms, other 105 ms
+2022-04-19.10:26:36 Forward step, parentC=19
+2022-04-19.10:26:36 Processing layer c=19 phase 2
+2022-04-19.10:26:36 Total 3961 ms, bw work 0 ms, bw io 0 ms, fw 1 2869 ms, fw 2 275 ms, fw io 99 ms, fw old 611 ms, other 106 ms
+2022-04-19.10:26:36 Forward step, parentC=18
+2022-04-19.10:26:36 Processing layer c=18 phase 3
+2022-04-19.10:26:36 Processing layer c=18 phase 1
+2022-04-19.10:26:36 Total 4019 ms, bw work 0 ms, bw io 0 ms, fw 1 2924 ms, fw 2 278 ms, fw io 99 ms, fw old 611 ms, other 106 ms
+2022-04-19.10:26:36 Forward step, parentC=19
+2022-04-19.10:26:36 Processing layer c=19 phase 1
+2022-04-19.10:26:36 Total 4034 ms, bw work 0 ms, bw io 0 ms, fw 1 2939 ms, fw 2 278 ms, fw io 99 ms, fw old 611 ms, other 106 ms
+2022-04-19.10:26:36 Forward step, parentC=20
+2022-04-19.10:26:36 Processing layer c=20 phase 1
+2022-04-19.10:26:36 Total 4039 ms, bw work 0 ms, bw io 0 ms, fw 1 2943 ms, fw 2 278 ms, fw io 99 ms, fw old 611 ms, other 106 ms
+2022-04-19.10:26:36 Forward step, parentC=21
+2022-04-19.10:26:36 Processing layer c=21 phase 1
+2022-04-19.10:26:36 Total 4041 ms, bw work 0 ms, bw io 0 ms, fw 1 2946 ms, fw 2 278 ms, fw io 99 ms, fw old 611 ms, other 106 ms
+2022-04-19.10:26:36 Forward step, parentC=22
+2022-04-19.10:26:36 Processing layer c=22 phase 1
+2022-04-19.10:26:36 Total 4043 ms, bw work 0 ms, bw io 0 ms, fw 1 2947 ms, fw 2 278 ms, fw io 99 ms, fw old 611 ms, other 106 ms
+2022-04-19.10:26:36 Forward step, parentC=23
+2022-04-19.10:26:36 Processing layer c=23 phase 1
+2022-04-19.10:26:36 Total 4043 ms, bw work 0 ms, bw io 0 ms, fw 1 2947 ms, fw 2 278 ms, fw io 99 ms, fw old 611 ms, other 106 ms
+2022-04-19.10:26:36 Forward step, parentC=24
+2022-04-19.10:26:36 Processing layer c=24 phase 1
+2022-04-19.10:26:36 Total 4043 ms, bw work 0 ms, bw io 0 ms, fw 1 2947 ms, fw 2 278 ms, fw io 99 ms, fw old 611 ms, other 106 ms
+2022-04-19.10:26:36 Forward step, parentC=23
+2022-04-19.10:26:36 Processing layer c=23 phase 2
+2022-04-19.10:26:36 Total 4043 ms, bw work 0 ms, bw io 0 ms, fw 1 2947 ms, fw 2 278 ms, fw io 99 ms, fw old 611 ms, other 106 ms
+2022-04-19.10:26:36 Forward step, parentC=22
+2022-04-19.10:26:36 Processing layer c=22 phase 2
+2022-04-19.10:26:36 Total 4044 ms, bw work 0 ms, bw io 0 ms, fw 1 2947 ms, fw 2 280 ms, fw io 99 ms, fw old 611 ms, other 106 ms
+2022-04-19.10:26:36 Forward step, parentC=21
+2022-04-19.10:26:36 Processing layer c=21 phase 2
+2022-04-19.10:26:36 Total 4046 ms, bw work 0 ms, bw io 0 ms, fw 1 2947 ms, fw 2 281 ms, fw io 99 ms, fw old 611 ms, other 106 ms
+2022-04-19.10:26:36 Forward step, parentC=20
+2022-04-19.10:26:36 Processing layer c=20 phase 2
+2022-04-19.10:26:36 Total 4049 ms, bw work 0 ms, bw io 0 ms, fw 1 2947 ms, fw 2 282 ms, fw io 99 ms, fw old 612 ms, other 106 ms
+2022-04-19.10:26:36 Forward step, parentC=19
+2022-04-19.10:26:36 Processing layer c=19 phase 2
+2022-04-19.10:26:36 Total 4057 ms, bw work 0 ms, bw io 0 ms, fw 1 2947 ms, fw 2 285 ms, fw io 99 ms, fw old 617 ms, other 106 ms
+2022-04-19.10:26:36 Forward step, parentC=18
+2022-04-19.10:26:36 Processing layer c=18 phase 2
+2022-04-19.10:26:36 Total 4160 ms, bw work 0 ms, bw io 0 ms, fw 1 2947 ms, fw 2 287 ms, fw io 99 ms, fw old 718 ms, other 106 ms
+2022-04-19.10:26:36 Forward step, parentC=17
+2022-04-19.10:26:36 Processing layer c=17 phase 2
+2022-04-19.10:26:36 Total 4211 ms, bw work 0 ms, bw io 0 ms, fw 1 2947 ms, fw 2 331 ms, fw io 106 ms, fw old 718 ms, other 106 ms
+2022-04-19.10:26:36 Forward step, parentC=18
+2022-04-19.10:26:36 Processing layer c=18 phase 1
+2022-04-19.10:26:36 Total 4221 ms, bw work 0 ms, bw io 0 ms, fw 1 2958 ms, fw 2 331 ms, fw io 106 ms, fw old 718 ms, other 106 ms
+2022-04-19.10:26:36 Forward step, parentC=19
+2022-04-19.10:26:36 Processing layer c=19 phase 1
+2022-04-19.10:26:36 Total 4223 ms, bw work 0 ms, bw io 0 ms, fw 1 2959 ms, fw 2 331 ms, fw io 106 ms, fw old 718 ms, other 106 ms
+2022-04-19.10:26:36 Forward step, parentC=20
+2022-04-19.10:26:36 Processing layer c=20 phase 1
+2022-04-19.10:26:36 Total 4224 ms, bw work 0 ms, bw io 0 ms, fw 1 2961 ms, fw 2 331 ms, fw io 106 ms, fw old 718 ms, other 106 ms
+2022-04-19.10:26:36 Forward step, parentC=21
+2022-04-19.10:26:36 Processing layer c=21 phase 1
+2022-04-19.10:26:36 Total 4226 ms, bw work 0 ms, bw io 0 ms, fw 1 2963 ms, fw 2 331 ms, fw io 106 ms, fw old 718 ms, other 106 ms
+2022-04-19.10:26:36 Forward step, parentC=22
+2022-04-19.10:26:36 Processing layer c=22 phase 1
+2022-04-19.10:26:36 Total 4228 ms, bw work 0 ms, bw io 0 ms, fw 1 2965 ms, fw 2 331 ms, fw io 106 ms, fw old 718 ms, other 106 ms
+2022-04-19.10:26:36 Forward step, parentC=23
+2022-04-19.10:26:36 Processing layer c=23 phase 1
+2022-04-19.10:26:36 Total 4230 ms, bw work 0 ms, bw io 0 ms, fw 1 2967 ms, fw 2 331 ms, fw io 106 ms, fw old 718 ms, other 106 ms
+2022-04-19.10:26:36 Forward step, parentC=24
+2022-04-19.10:26:36 Processing layer c=24 phase 1
+2022-04-19.10:26:36 Total 4232 ms, bw work 0 ms, bw io 0 ms, fw 1 2968 ms, fw 2 331 ms, fw io 106 ms, fw old 718 ms, other 106 ms
+2022-04-19.10:26:36 Forward step, parentC=25
+2022-04-19.10:26:36 Processing layer c=25 phase 1
+2022-04-19.10:26:36 Total 4234 ms, bw work 0 ms, bw io 0 ms, fw 1 2970 ms, fw 2 331 ms, fw io 106 ms, fw old 718 ms, other 106 ms
+2022-04-19.10:26:36 Forward step, parentC=26
+2022-04-19.10:26:36 Processing layer c=26 phase 1
+2022-04-19.10:26:36 Total 4235 ms, bw work 0 ms, bw io 0 ms, fw 1 2972 ms, fw 2 331 ms, fw io 106 ms, fw old 718 ms, other 106 ms
+2022-04-19.10:26:36 Forward step, parentC=27
+2022-04-19.10:26:36 Processing layer c=27 phase 1
+2022-04-19.10:26:36 Total 4236 ms, bw work 0 ms, bw io 0 ms, fw 1 2972 ms, fw 2 331 ms, fw io 106 ms, fw old 718 ms, other 106 ms
+2022-04-19.10:26:36 Forward step, parentC=28
+2022-04-19.10:26:36 Processing layer c=28 phase 1
+2022-04-19.10:26:36 Total 4236 ms, bw work 0 ms, bw io 0 ms, fw 1 2972 ms, fw 2 331 ms, fw io 106 ms, fw old 718 ms, other 106 ms
+2022-04-19.10:26:36 Forward step, parentC=27
+2022-04-19.10:26:36 Processing layer c=27 phase 2
+2022-04-19.10:26:36 Total 4236 ms, bw work 0 ms, bw io 0 ms, fw 1 2972 ms, fw 2 331 ms, fw io 106 ms, fw old 718 ms, other 106 ms
+2022-04-19.10:26:36 Forward step, parentC=26
+2022-04-19.10:26:36 Processing layer c=26 phase 2
+2022-04-19.10:26:36 Total 4237 ms, bw work 0 ms, bw io 0 ms, fw 1 2972 ms, fw 2 333 ms, fw io 106 ms, fw old 718 ms, other 107 ms
+2022-04-19.10:26:36 Forward step, parentC=25
+2022-04-19.10:26:36 Processing layer c=25 phase 2
+2022-04-19.10:26:36 Total 4239 ms, bw work 0 ms, bw io 0 ms, fw 1 2972 ms, fw 2 335 ms, fw io 106 ms, fw old 718 ms, other 107 ms
+2022-04-19.10:26:36 Forward step, parentC=24
+2022-04-19.10:26:36 Processing layer c=24 phase 2
+2022-04-19.10:26:36 Total 4241 ms, bw work 0 ms, bw io 0 ms, fw 1 2972 ms, fw 2 336 ms, fw io 106 ms, fw old 718 ms, other 107 ms
+2022-04-19.10:26:36 Forward step, parentC=23
+2022-04-19.10:26:36 Processing layer c=23 phase 2
+2022-04-19.10:26:36 Total 4243 ms, bw work 0 ms, bw io 0 ms, fw 1 2972 ms, fw 2 338 ms, fw io 106 ms, fw old 719 ms, other 107 ms
+2022-04-19.10:26:36 Forward step, parentC=22
+2022-04-19.10:26:36 Processing layer c=22 phase 2
+2022-04-19.10:26:36 Total 4244 ms, bw work 0 ms, bw io 0 ms, fw 1 2972 ms, fw 2 339 ms, fw io 106 ms, fw old 719 ms, other 107 ms
+2022-04-19.10:26:36 Forward step, parentC=23
+2022-04-19.10:26:36 Processing layer c=23 phase 1
+2022-04-19.10:26:36 Total 4244 ms, bw work 0 ms, bw io 0 ms, fw 1 2972 ms, fw 2 339 ms, fw io 106 ms, fw old 719 ms, other 107 ms
+2022-04-19.10:26:36 Forward step, parentC=24
+2022-04-19.10:26:36 Processing layer c=24 phase 1
+2022-04-19.10:26:36 Total 4244 ms, bw work 0 ms, bw io 0 ms, fw 1 2972 ms, fw 2 339 ms, fw io 106 ms, fw old 719 ms, other 107 ms
+2022-04-19.10:26:36 Forward step, parentC=23
+2022-04-19.10:26:36 Processing layer c=23 phase 2
+2022-04-19.10:26:36 Total 4245 ms, bw work 0 ms, bw io 0 ms, fw 1 2972 ms, fw 2 339 ms, fw io 106 ms, fw old 719 ms, other 107 ms
+2022-04-19.10:26:36 Forward step, parentC=22
+2022-04-19.10:26:36 Processing layer c=22 phase 3
+2022-04-19.10:26:36 Total 4246 ms, bw work 0 ms, bw io 0 ms, fw 1 2972 ms, fw 2 341 ms, fw io 106 ms, fw old 719 ms, other 107 ms
+2022-04-19.10:26:36 Forward step, parentC=21
+2022-04-19.10:26:36 Processing layer c=21 phase 2
+2022-04-19.10:26:36 Total 4248 ms, bw work 0 ms, bw io 0 ms, fw 1 2972 ms, fw 2 342 ms, fw io 106 ms, fw old 719 ms, other 107 ms
+2022-04-19.10:26:36 Forward step, parentC=22
+2022-04-19.10:26:36 Processing layer c=22 phase 1
+2022-04-19.10:26:36 Total 4248 ms, bw work 0 ms, bw io 0 ms, fw 1 2972 ms, fw 2 342 ms, fw io 106 ms, fw old 719 ms, other 107 ms
+2022-04-19.10:26:36 Forward step, parentC=23
+2022-04-19.10:26:36 Processing layer c=23 phase 1
+2022-04-19.10:26:36 Total 4248 ms, bw work 0 ms, bw io 0 ms, fw 1 2972 ms, fw 2 342 ms, fw io 106 ms, fw old 719 ms, other 107 ms
+2022-04-19.10:26:36 Forward step, parentC=22
+2022-04-19.10:26:36 Processing layer c=22 phase 2
+2022-04-19.10:26:36 Total 4248 ms, bw work 0 ms, bw io 0 ms, fw 1 2972 ms, fw 2 343 ms, fw io 106 ms, fw old 719 ms, other 107 ms
+2022-04-19.10:26:36 Forward step, parentC=21
+2022-04-19.10:26:36 Processing layer c=21 phase 3
+2022-04-19.10:26:36 Total 4250 ms, bw work 0 ms, bw io 0 ms, fw 1 2972 ms, fw 2 344 ms, fw io 106 ms, fw old 719 ms, other 107 ms
+2022-04-19.10:26:36 Forward step, parentC=20
+2022-04-19.10:26:36 Processing layer c=20 phase 2
+2022-04-19.10:26:36 Total 4251 ms, bw work 0 ms, bw io 0 ms, fw 1 2972 ms, fw 2 346 ms, fw io 106 ms, fw old 719 ms, other 107 ms
+2022-04-19.10:26:36 Forward step, parentC=19
+2022-04-19.10:26:36 Processing layer c=19 phase 2
+2022-04-19.10:26:36 Total 4253 ms, bw work 0 ms, bw io 0 ms, fw 1 2972 ms, fw 2 347 ms, fw io 106 ms, fw old 719 ms, other 107 ms
+2022-04-19.10:26:36 Forward step, parentC=18
+2022-04-19.10:26:36 Processing layer c=18 phase 2
+2022-04-19.10:26:36 Total 4253 ms, bw work 0 ms, bw io 0 ms, fw 1 2972 ms, fw 2 347 ms, fw io 106 ms, fw old 719 ms, other 107 ms
+2022-04-19.10:26:36 Forward step, parentC=17
+2022-04-19.10:26:36 Processing layer c=17 phase 3
+2022-04-19.10:26:36 Total 4343 ms, bw work 0 ms, bw io 0 ms, fw 1 2972 ms, fw 2 350 ms, fw io 106 ms, fw old 805 ms, other 107 ms
+2022-04-19.10:26:36 Forward step, parentC=16
+2022-04-19.10:26:36 Processing layer c=16 phase 2
+2022-04-19.10:26:36 Total 4379 ms, bw work 0 ms, bw io 0 ms, fw 1 2972 ms, fw 2 382 ms, fw io 110 ms, fw old 805 ms, other 107 ms
+2022-04-19.10:26:36 Forward step, parentC=17
+2022-04-19.10:26:36 Processing layer c=17 phase 1
+2022-04-19.10:26:36 Total 4387 ms, bw work 0 ms, bw io 0 ms, fw 1 2980 ms, fw 2 382 ms, fw io 110 ms, fw old 805 ms, other 107 ms
+2022-04-19.10:26:36 Forward step, parentC=18
+2022-04-19.10:26:36 Processing layer c=18 phase 1
+2022-04-19.10:26:36 Total 4388 ms, bw work 0 ms, bw io 0 ms, fw 1 2981 ms, fw 2 382 ms, fw io 110 ms, fw old 805 ms, other 107 ms
+2022-04-19.10:26:36 Forward step, parentC=19
+2022-04-19.10:26:36 Processing layer c=19 phase 1
+2022-04-19.10:26:36 Total 4390 ms, bw work 0 ms, bw io 0 ms, fw 1 2983 ms, fw 2 382 ms, fw io 110 ms, fw old 805 ms, other 107 ms
+2022-04-19.10:26:36 Forward step, parentC=20
+2022-04-19.10:26:36 Processing layer c=20 phase 1
+2022-04-19.10:26:36 Total 4392 ms, bw work 0 ms, bw io 0 ms, fw 1 2985 ms, fw 2 382 ms, fw io 110 ms, fw old 805 ms, other 107 ms
+2022-04-19.10:26:36 Forward step, parentC=21
+2022-04-19.10:26:36 Processing layer c=21 phase 1
+2022-04-19.10:26:36 Total 4393 ms, bw work 0 ms, bw io 0 ms, fw 1 2986 ms, fw 2 382 ms, fw io 110 ms, fw old 805 ms, other 107 ms
+2022-04-19.10:26:36 Forward step, parentC=22
+2022-04-19.10:26:36 Processing layer c=22 phase 1
+2022-04-19.10:26:36 Total 4395 ms, bw work 0 ms, bw io 0 ms, fw 1 2988 ms, fw 2 382 ms, fw io 110 ms, fw old 805 ms, other 107 ms
+2022-04-19.10:26:36 Forward step, parentC=23
+2022-04-19.10:26:36 Processing layer c=23 phase 1
+2022-04-19.10:26:36 Total 4397 ms, bw work 0 ms, bw io 0 ms, fw 1 2990 ms, fw 2 382 ms, fw io 110 ms, fw old 805 ms, other 107 ms
+2022-04-19.10:26:36 Forward step, parentC=24
+2022-04-19.10:26:36 Processing layer c=24 phase 1
+2022-04-19.10:26:36 Total 4397 ms, bw work 0 ms, bw io 0 ms, fw 1 2990 ms, fw 2 382 ms, fw io 110 ms, fw old 805 ms, other 107 ms
+2022-04-19.10:26:36 Forward step, parentC=25
+2022-04-19.10:26:36 Processing layer c=25 phase 1
+2022-04-19.10:26:36 Total 4397 ms, bw work 0 ms, bw io 0 ms, fw 1 2990 ms, fw 2 382 ms, fw io 110 ms, fw old 805 ms, other 107 ms
+2022-04-19.10:26:36 Forward step, parentC=26
+2022-04-19.10:26:36 Processing layer c=26 phase 1
+2022-04-19.10:26:36 Total 4397 ms, bw work 0 ms, bw io 0 ms, fw 1 2990 ms, fw 2 382 ms, fw io 110 ms, fw old 805 ms, other 107 ms
+2022-04-19.10:26:36 Forward step, parentC=27
+2022-04-19.10:26:36 Processing layer c=27 phase 1
+2022-04-19.10:26:36 Total 4397 ms, bw work 0 ms, bw io 0 ms, fw 1 2990 ms, fw 2 382 ms, fw io 110 ms, fw old 805 ms, other 108 ms
+2022-04-19.10:26:36 Forward step, parentC=26
+2022-04-19.10:26:36 Processing layer c=26 phase 2
+2022-04-19.10:26:36 Total 4397 ms, bw work 0 ms, bw io 0 ms, fw 1 2990 ms, fw 2 382 ms, fw io 110 ms, fw old 805 ms, other 108 ms
+2022-04-19.10:26:36 Forward step, parentC=25
+2022-04-19.10:26:36 Processing layer c=25 phase 2
+2022-04-19.10:26:36 Total 4397 ms, bw work 0 ms, bw io 0 ms, fw 1 2990 ms, fw 2 382 ms, fw io 110 ms, fw old 805 ms, other 108 ms
+2022-04-19.10:26:36 Forward step, parentC=24
+2022-04-19.10:26:36 Processing layer c=24 phase 2
+2022-04-19.10:26:36 Total 4398 ms, bw work 0 ms, bw io 0 ms, fw 1 2990 ms, fw 2 382 ms, fw io 110 ms, fw old 805 ms, other 108 ms
+2022-04-19.10:26:36 Forward step, parentC=23
+2022-04-19.10:26:36 Processing layer c=23 phase 2
+2022-04-19.10:26:36 Total 4399 ms, bw work 0 ms, bw io 0 ms, fw 1 2990 ms, fw 2 384 ms, fw io 110 ms, fw old 805 ms, other 108 ms
+2022-04-19.10:26:36 Forward step, parentC=22
+2022-04-19.10:26:36 Processing layer c=22 phase 2
+2022-04-19.10:26:36 Total 4401 ms, bw work 0 ms, bw io 0 ms, fw 1 2990 ms, fw 2 385 ms, fw io 110 ms, fw old 806 ms, other 108 ms
+2022-04-19.10:26:36 Forward step, parentC=21
+2022-04-19.10:26:36 Processing layer c=21 phase 2
+2022-04-19.10:26:36 Total 4403 ms, bw work 0 ms, bw io 0 ms, fw 1 2990 ms, fw 2 387 ms, fw io 110 ms, fw old 806 ms, other 108 ms
+2022-04-19.10:26:36 Forward step, parentC=20
+2022-04-19.10:26:36 Processing layer c=20 phase 2
+2022-04-19.10:26:36 Total 4404 ms, bw work 0 ms, bw io 0 ms, fw 1 2990 ms, fw 2 389 ms, fw io 110 ms, fw old 806 ms, other 108 ms
+2022-04-19.10:26:36 Forward step, parentC=19
+2022-04-19.10:26:36 Processing layer c=19 phase 2
+2022-04-19.10:26:36 Total 4406 ms, bw work 0 ms, bw io 0 ms, fw 1 2990 ms, fw 2 390 ms, fw io 110 ms, fw old 806 ms, other 108 ms
+2022-04-19.10:26:36 Forward step, parentC=18
+2022-04-19.10:26:36 Processing layer c=18 phase 2
+2022-04-19.10:26:36 Total 4406 ms, bw work 0 ms, bw io 0 ms, fw 1 2990 ms, fw 2 390 ms, fw io 110 ms, fw old 806 ms, other 108 ms
+2022-04-19.10:26:36 Forward step, parentC=17
+2022-04-19.10:26:36 Processing layer c=17 phase 2
+2022-04-19.10:26:36 Total 4406 ms, bw work 0 ms, bw io 0 ms, fw 1 2990 ms, fw 2 390 ms, fw io 110 ms, fw old 806 ms, other 108 ms
+2022-04-19.10:26:36 Forward step, parentC=16
+2022-04-19.10:26:36 Processing layer c=16 phase 3
+2022-04-19.10:26:36 Total 4470 ms, bw work 0 ms, bw io 0 ms, fw 1 2990 ms, fw 2 393 ms, fw io 110 ms, fw old 867 ms, other 108 ms
+2022-04-19.10:26:36 Forward step, parentC=15
+2022-04-19.10:26:36 Processing layer c=15 phase 2
+2022-04-19.10:26:36 Total 4493 ms, bw work 0 ms, bw io 0 ms, fw 1 2990 ms, fw 2 413 ms, fw io 113 ms, fw old 867 ms, other 108 ms
+2022-04-19.10:26:36 Forward step, parentC=16
+2022-04-19.10:26:36 Processing layer c=16 phase 1
+2022-04-19.10:26:36 Total 4498 ms, bw work 0 ms, bw io 0 ms, fw 1 2995 ms, fw 2 413 ms, fw io 113 ms, fw old 867 ms, other 108 ms
+2022-04-19.10:26:36 Forward step, parentC=17
+2022-04-19.10:26:36 Processing layer c=17 phase 1
+2022-04-19.10:26:36 Total 4498 ms, bw work 0 ms, bw io 0 ms, fw 1 2996 ms, fw 2 413 ms, fw io 113 ms, fw old 867 ms, other 108 ms
+2022-04-19.10:26:36 Forward step, parentC=18
+2022-04-19.10:26:36 Processing layer c=18 phase 1
+2022-04-19.10:26:36 Total 4499 ms, bw work 0 ms, bw io 0 ms, fw 1 2996 ms, fw 2 413 ms, fw io 113 ms, fw old 867 ms, other 108 ms
+2022-04-19.10:26:36 Forward step, parentC=19
+2022-04-19.10:26:36 Processing layer c=19 phase 1
+2022-04-19.10:26:36 Total 4499 ms, bw work 0 ms, bw io 0 ms, fw 1 2997 ms, fw 2 413 ms, fw io 113 ms, fw old 867 ms, other 108 ms
+2022-04-19.10:26:36 Forward step, parentC=20
+2022-04-19.10:26:36 Processing layer c=20 phase 1
+2022-04-19.10:26:36 Total 4500 ms, bw work 0 ms, bw io 0 ms, fw 1 2997 ms, fw 2 413 ms, fw io 113 ms, fw old 867 ms, other 108 ms
+2022-04-19.10:26:36 Forward step, parentC=21
+2022-04-19.10:26:36 Processing layer c=21 phase 1
+2022-04-19.10:26:36 Total 4500 ms, bw work 0 ms, bw io 0 ms, fw 1 2997 ms, fw 2 413 ms, fw io 113 ms, fw old 867 ms, other 108 ms
+2022-04-19.10:26:36 Forward step, parentC=22
+2022-04-19.10:26:36 Processing layer c=22 phase 1
+2022-04-19.10:26:36 Total 4500 ms, bw work 0 ms, bw io 0 ms, fw 1 2998 ms, fw 2 413 ms, fw io 113 ms, fw old 867 ms, other 108 ms
+2022-04-19.10:26:36 Forward step, parentC=23
+2022-04-19.10:26:36 Processing layer c=23 phase 1
+2022-04-19.10:26:36 Total 4500 ms, bw work 0 ms, bw io 0 ms, fw 1 2998 ms, fw 2 413 ms, fw io 113 ms, fw old 867 ms, other 108 ms
+2022-04-19.10:26:36 Forward step, parentC=24
+2022-04-19.10:26:36 Processing layer c=24 phase 1
+2022-04-19.10:26:36 Total 4500 ms, bw work 0 ms, bw io 0 ms, fw 1 2998 ms, fw 2 413 ms, fw io 113 ms, fw old 867 ms, other 108 ms
+2022-04-19.10:26:36 Forward step, parentC=25
+2022-04-19.10:26:36 Processing layer c=25 phase 1
+2022-04-19.10:26:36 Total 4501 ms, bw work 0 ms, bw io 0 ms, fw 1 2998 ms, fw 2 413 ms, fw io 113 ms, fw old 867 ms, other 108 ms
+2022-04-19.10:26:36 Forward step, parentC=26
+2022-04-19.10:26:36 Processing layer c=26 phase 1
+2022-04-19.10:26:36 Total 4501 ms, bw work 0 ms, bw io 0 ms, fw 1 2998 ms, fw 2 413 ms, fw io 113 ms, fw old 867 ms, other 108 ms
+2022-04-19.10:26:36 Forward step, parentC=27
+2022-04-19.10:26:36 Processing layer c=27 phase 1
+2022-04-19.10:26:36 Total 4501 ms, bw work 0 ms, bw io 0 ms, fw 1 2998 ms, fw 2 413 ms, fw io 113 ms, fw old 867 ms, other 108 ms
+2022-04-19.10:26:36 Forward step, parentC=26
+2022-04-19.10:26:36 Processing layer c=26 phase 2
+2022-04-19.10:26:36 Total 4501 ms, bw work 0 ms, bw io 0 ms, fw 1 2998 ms, fw 2 413 ms, fw io 113 ms, fw old 867 ms, other 108 ms
+2022-04-19.10:26:36 Forward step, parentC=25
+2022-04-19.10:26:36 Processing layer c=25 phase 2
+2022-04-19.10:26:36 Total 4501 ms, bw work 0 ms, bw io 0 ms, fw 1 2998 ms, fw 2 413 ms, fw io 113 ms, fw old 867 ms, other 108 ms
+2022-04-19.10:26:36 Forward step, parentC=24
+2022-04-19.10:26:36 Processing layer c=24 phase 2
+2022-04-19.10:26:36 Total 4501 ms, bw work 0 ms, bw io 0 ms, fw 1 2998 ms, fw 2 413 ms, fw io 113 ms, fw old 867 ms, other 108 ms
+2022-04-19.10:26:36 Forward step, parentC=23
+2022-04-19.10:26:36 Processing layer c=23 phase 2
+2022-04-19.10:26:36 Total 4501 ms, bw work 0 ms, bw io 0 ms, fw 1 2998 ms, fw 2 413 ms, fw io 113 ms, fw old 867 ms, other 108 ms
+2022-04-19.10:26:36 Forward step, parentC=22
+2022-04-19.10:26:36 Processing layer c=22 phase 2
+2022-04-19.10:26:36 Total 4501 ms, bw work 0 ms, bw io 0 ms, fw 1 2998 ms, fw 2 413 ms, fw io 113 ms, fw old 867 ms, other 108 ms
+2022-04-19.10:26:36 Forward step, parentC=21
+2022-04-19.10:26:36 Processing layer c=21 phase 2
+2022-04-19.10:26:36 Total 4501 ms, bw work 0 ms, bw io 0 ms, fw 1 2998 ms, fw 2 413 ms, fw io 113 ms, fw old 867 ms, other 108 ms
+2022-04-19.10:26:36 Forward step, parentC=20
+2022-04-19.10:26:36 Processing layer c=20 phase 2
+2022-04-19.10:26:36 Total 4501 ms, bw work 0 ms, bw io 0 ms, fw 1 2998 ms, fw 2 413 ms, fw io 113 ms, fw old 867 ms, other 108 ms
+2022-04-19.10:26:36 Forward step, parentC=19
+2022-04-19.10:26:36 Processing layer c=19 phase 2
+2022-04-19.10:26:36 Total 4501 ms, bw work 0 ms, bw io 0 ms, fw 1 2998 ms, fw 2 413 ms, fw io 113 ms, fw old 867 ms, other 108 ms
+2022-04-19.10:26:36 Forward step, parentC=18
+2022-04-19.10:26:36 Processing layer c=18 phase 2
+2022-04-19.10:26:36 Total 4501 ms, bw work 0 ms, bw io 0 ms, fw 1 2998 ms, fw 2 413 ms, fw io 113 ms, fw old 867 ms, other 108 ms
+2022-04-19.10:26:36 Forward step, parentC=17
+2022-04-19.10:26:36 Processing layer c=17 phase 2
+2022-04-19.10:26:36 Total 4501 ms, bw work 0 ms, bw io 0 ms, fw 1 2998 ms, fw 2 413 ms, fw io 113 ms, fw old 867 ms, other 108 ms
+2022-04-19.10:26:36 Forward step, parentC=16
+2022-04-19.10:26:36 Processing layer c=16 phase 2
+2022-04-19.10:26:36 Total 4501 ms, bw work 0 ms, bw io 0 ms, fw 1 2998 ms, fw 2 413 ms, fw io 113 ms, fw old 867 ms, other 108 ms
+2022-04-19.10:26:36 Forward step, parentC=15
+2022-04-19.10:26:36 Processing layer c=15 phase 3
+2022-04-19.10:26:36 Total 4524 ms, bw work 0 ms, bw io 0 ms, fw 1 2998 ms, fw 2 415 ms, fw io 113 ms, fw old 888 ms, other 108 ms
+2022-04-19.10:26:36 Forward step, parentC=14
+2022-04-19.10:26:36 Processing layer c=14 phase 2
+2022-04-19.10:26:36 Total 4544 ms, bw work 0 ms, bw io 0 ms, fw 1 2998 ms, fw 2 425 ms, fw io 114 ms, fw old 896 ms, other 108 ms
+2022-04-19.10:26:36 Forward step, parentC=13
+2022-04-19.10:26:36 Processing layer c=13 phase 2
+2022-04-19.10:26:36 Total 4552 ms, bw work 0 ms, bw io 0 ms, fw 1 2998 ms, fw 2 429 ms, fw io 114 ms, fw old 900 ms, other 108 ms
+2022-04-19.10:26:36 Forward step, parentC=12
+2022-04-19.10:26:36 Processing layer c=12 phase 2
+2022-04-19.10:26:36 Total 4558 ms, bw work 0 ms, bw io 0 ms, fw 1 2998 ms, fw 2 432 ms, fw io 115 ms, fw old 902 ms, other 109 ms
+2022-04-19.10:26:36 Forward step, parentC=11
+2022-04-19.10:26:36 Processing layer c=11 phase 2
+2022-04-19.10:26:36 Total 4573 ms, bw work 0 ms, bw io 0 ms, fw 1 2998 ms, fw 2 445 ms, fw io 115 ms, fw old 904 ms, other 109 ms
+2022-04-19.10:26:36 Forward step, parentC=10
+2022-04-19.10:26:36 Processing layer c=10 phase 2
+2022-04-19.10:26:36 Total 4578 ms, bw work 0 ms, bw io 0 ms, fw 1 2998 ms, fw 2 449 ms, fw io 115 ms, fw old 905 ms, other 109 ms
+2022-04-19.10:26:36 Forward step, parentC=9
+2022-04-19.10:26:36 Processing layer c=9 phase 2
+2022-04-19.10:26:36 Total 4581 ms, bw work 0 ms, bw io 0 ms, fw 1 2998 ms, fw 2 451 ms, fw io 115 ms, fw old 905 ms, other 109 ms
+2022-04-19.10:26:36 Forward step, parentC=8
+2022-04-19.10:26:36 Processing layer c=8 phase 2
+2022-04-19.10:26:36 Total 4583 ms, bw work 0 ms, bw io 0 ms, fw 1 2998 ms, fw 2 453 ms, fw io 115 ms, fw old 906 ms, other 109 ms
+2022-04-19.10:26:36 Forward step, parentC=7
+2022-04-19.10:26:36 Processing layer c=7 phase 2
+2022-04-19.10:26:36 Total 4585 ms, bw work 0 ms, bw io 0 ms, fw 1 2998 ms, fw 2 455 ms, fw io 115 ms, fw old 906 ms, other 109 ms
+2022-04-19.10:26:36 Forward step, parentC=6
+2022-04-19.10:26:36 Processing layer c=6 phase 2
+2022-04-19.10:26:36 Total 4585 ms, bw work 0 ms, bw io 0 ms, fw 1 2998 ms, fw 2 455 ms, fw io 115 ms, fw old 906 ms, other 109 ms
+2022-04-19.10:26:36 Forward step, parentC=5
+2022-04-19.10:26:36 Processing layer c=5 phase 2
+2022-04-19.10:26:36 Total 4585 ms, bw work 0 ms, bw io 0 ms, fw 1 2998 ms, fw 2 455 ms, fw io 115 ms, fw old 906 ms, other 109 ms
+2022-04-19.10:26:36 Forward step, parentC=4
+2022-04-19.10:26:36 Processing layer c=4 phase 2
+2022-04-19.10:26:36 Total 4585 ms, bw work 0 ms, bw io 0 ms, fw 1 2998 ms, fw 2 455 ms, fw io 115 ms, fw old 906 ms, other 109 ms
+2022-04-19.10:26:36 Forward step, parentC=3
+2022-04-19.10:26:36 Processing layer c=3 phase 2
+2022-04-19.10:26:36 Total 4585 ms, bw work 0 ms, bw io 0 ms, fw 1 2998 ms, fw 2 455 ms, fw io 115 ms, fw old 906 ms, other 109 ms
+2022-04-19.10:26:36 Forward step, parentC=2
+2022-04-19.10:26:36 Processing layer c=2 phase 2
+2022-04-19.10:26:36 Total 4585 ms, bw work 0 ms, bw io 0 ms, fw 1 2998 ms, fw 2 455 ms, fw io 115 ms, fw old 906 ms, other 109 ms
+2022-04-19.10:26:36 Forward step, parentC=1
+2022-04-19.10:26:36 Processing layer c=1 phase 2
+2022-04-19.10:26:36 Total 4585 ms, bw work 0 ms, bw io 0 ms, fw 1 2998 ms, fw 2 455 ms, fw io 115 ms, fw old 906 ms, other 109 ms
+2022-04-19.10:26:36 Forward step, parentC=0
+2022-04-19.10:26:36 Processing layer c=0 phase 2
+2022-04-19.10:26:36 Steps: 657
+2022-04-19.10:26:36 FW Profile Complete:
+2022-04-19.10:26:36 c =  0:  1          	 YES:  0          	 NO: 1          
+2022-04-19.10:26:36 c =  1:  1          	 YES:  0          	 NO: 1          
+2022-04-19.10:26:36 c =  2:  2          	 YES:  0          	 NO: 2          
+2022-04-19.10:26:36 c =  3:  3          	 YES:  0          	 NO: 3          
+2022-04-19.10:26:36 c =  4:  7          	 YES:  0          	 NO: 7          
+2022-04-19.10:26:36 c =  5:  16         	 YES:  0          	 NO: 16         
+2022-04-19.10:26:36 c =  6:  27         	 YES:  0          	 NO: 27         
+2022-04-19.10:26:36 c =  7:  55         	 YES:  0          	 NO: 55         
+2022-04-19.10:26:36 c =  8:  152        	 YES:  0          	 NO: 152        
+2022-04-19.10:26:36 c =  9:  428        	 YES:  0          	 NO: 428        
+2022-04-19.10:26:36 c = 10:  1157       	 YES:  0          	 NO: 1157       
+2022-04-19.10:26:36 c = 11:  3085       	 YES:  0          	 NO: 3085       
+2022-04-19.10:26:36 c = 12:  7961       	 YES:  0          	 NO: 7961       
+2022-04-19.10:26:36 c = 13:  19373      	 YES:  0          	 NO: 19373      
+2022-04-19.10:26:36 c = 14:  44040      	 YES:  0          	 NO: 44040      
+2022-04-19.10:26:36 c = 15:  89535      	 YES:  0          	 NO: 89535      
+2022-04-19.10:26:36 c = 16:  159251     	 YES:  1          	 NO: 159250     
+2022-04-19.10:26:36 c = 17:  242891     	 YES:  7          	 NO: 242884     
+2022-04-19.10:26:36 c = 18:  312078     	 YES:  13         	 NO: 312065     
+2022-04-19.10:26:36 c = 19:  335028     	 YES:  22         	 NO: 335006     
+2022-04-19.10:26:36 c = 20:  301493     	 YES:  41         	 NO: 301452     
+2022-04-19.10:26:36 c = 21:  224711     	 YES:  62         	 NO: 224649     
+2022-04-19.10:26:36 c = 22:  140872     	 YES:  129        	 NO: 140743     
+2022-04-19.10:26:36 c = 23:  76313      	 YES:  279        	 NO: 76034      
+2022-04-19.10:26:36 c = 24:  36833      	 YES:  681        	 NO: 36152      
+2022-04-19.10:26:36 c = 25:  17529      	 YES:  1576       	 NO: 15953      
+2022-04-19.10:26:36 c = 26:  10311      	 YES:  2997       	 NO: 7314       
+2022-04-19.10:26:36 c = 27:  6161       	 YES:  2843       	 NO: 3318       
+2022-04-19.10:26:36 c = 28:  2295       	 YES:  1378       	 NO: 917        
+2022-04-19.10:26:36 c = 29:  516        	 YES:  386        	 NO: 130        
+2022-04-19.10:26:36 c = 30:  0          	 YES:  0          	 NO: 0          
+2022-04-19.10:26:36 c = 31:  0          	 YES:  0          	 NO: 0          
+2022-04-19.10:26:36 c = 32:  0          	 YES:  0          	 NO: 0          
+2022-04-19.10:26:36 c = 33:  0          	 YES:  0          	 NO: 0          
+2022-04-19.10:26:36 Total elements: 2032125
+2022-04-19.10:26:36 Old Gen Map Profile:
+2022-04-19.10:26:36 c =  0: MAX: 16205      	 ALL: 1          	 YES: 0          	 NO: 1          
+2022-04-19.10:26:36 c =  1: MAX: 16205      	 ALL: 1          	 YES: 0          	 NO: 1          
+2022-04-19.10:26:36 c =  2: MAX: 16205      	 ALL: 2          	 YES: 0          	 NO: 2          
+2022-04-19.10:26:36 c =  3: MAX: 16205      	 ALL: 3          	 YES: 0          	 NO: 3          
+2022-04-19.10:26:36 c =  4: MAX: 16205      	 ALL: 7          	 YES: 0          	 NO: 7          
+2022-04-19.10:26:36 c =  5: MAX: 16205      	 ALL: 16         	 YES: 0          	 NO: 16         
+2022-04-19.10:26:36 c =  6: MAX: 16205      	 ALL: 26         	 YES: 0          	 NO: 26         
+2022-04-19.10:26:36 c =  7: MAX: 16205      	 ALL: 55         	 YES: 0          	 NO: 55         
+2022-04-19.10:26:36 c =  8: MAX: 16205      	 ALL: 151        	 YES: 0          	 NO: 151        
+2022-04-19.10:26:36 c =  9: MAX: 16205      	 ALL: 425        	 YES: 0          	 NO: 425        
+2022-04-19.10:26:36 c = 10: MAX: 16205      	 ALL: 1116       	 YES: 0          	 NO: 1116       
+2022-04-19.10:26:36 c = 11: MAX: 16205      	 ALL: 2811       	 YES: 0          	 NO: 2811       
+2022-04-19.10:26:36 c = 12: MAX: 16205      	 ALL: 6303       	 YES: 0          	 NO: 6303       
+2022-04-19.10:26:36 c = 13: MAX: 16205      	 ALL: 11328      	 YES: 0          	 NO: 11328      
+2022-04-19.10:26:36 c = 14: MAX: 16205      	 ALL: 15130      	 YES: 0          	 NO: 15130      
+2022-04-19.10:26:36 c = 15: MAX: 16205      	 ALL: 16142      	 YES: 0          	 NO: 16142      
+2022-04-19.10:26:36 c = 16: MAX: 1887910    	 ALL: 152780     	 YES: 1          	 NO: 152779     
+2022-04-19.10:26:36 c = 17: MAX: 1887910    	 ALL: 228023     	 YES: 7          	 NO: 228016     
+2022-04-19.10:26:36 c = 18: MAX: 1887910    	 ALL: 287622     	 YES: 13         	 NO: 287609     
+2022-04-19.10:26:36 c = 19: MAX: 8572572    	 ALL: 328086     	 YES: 22         	 NO: 328064     
+2022-04-19.10:26:36 c = 20: MAX: 1887910    	 ALL: 278694     	 YES: 41         	 NO: 278653     
+2022-04-19.10:26:36 c = 21: MAX: 1887910    	 ALL: 211848     	 YES: 62         	 NO: 211786     
+2022-04-19.10:26:36 c = 22: MAX: 1887910    	 ALL: 135671     	 YES: 129        	 NO: 135542     
+2022-04-19.10:26:36 c = 23: MAX: 8572572    	 ALL: 75963      	 YES: 279        	 NO: 75684      
+2022-04-19.10:26:36 c = 24: MAX: 1887910    	 ALL: 36429      	 YES: 681        	 NO: 35748      
+2022-04-19.10:26:36 c = 25: MAX: 1887910    	 ALL: 17454      	 YES: 1575       	 NO: 15879      
+2022-04-19.10:26:36 c = 26: MAX: 16205      	 ALL: 7403       	 YES: 2729       	 NO: 4674       
+2022-04-19.10:26:36 c = 27: MAX: 16205      	 ALL: 4932       	 YES: 2575       	 NO: 2357       
+2022-04-19.10:26:36 c = 28: MAX: 16205      	 ALL: 2121       	 YES: 1298       	 NO: 823        
+2022-04-19.10:26:36 c = 29: MAX: 16205      	 ALL: 509        	 YES: 381        	 NO: 128        
+2022-04-19.10:26:36 c = 30: MAX: 16205      	 ALL: 0          	 YES: 0          	 NO: 0          
+2022-04-19.10:26:36 c = 31: MAX: 16205      	 ALL: 0          	 YES: 0          	 NO: 0          
+2022-04-19.10:26:36 c = 32: MAX: 16205      	 ALL: 0          	 YES: 0          	 NO: 0          
+2022-04-19.10:26:36 c = 33: MAX: 16205      	 ALL: 0          	 YES: 0          	 NO: 0          
+2022-04-19.10:26:36 Total elements: 1821052
+2022-04-19.10:26:36 Finished.
+2022-04-19.10:26:36 Stat name             Total          Recent
+2022-04-19.10:26:36 #Phase1             : 330            330
+2022-04-19.10:26:36 #Phase2             : 241            241
+2022-04-19.10:26:36 #Phase3             : 87             87
+2022-04-19.10:26:36 #MarkFirst          : 2030555        2030555
+2022-04-19.10:26:36 #MarkSecond         : 4288           4288
+2022-04-19.10:26:36 #ChildMapBWFind     : 0              0
+2022-04-19.10:26:36 #ChildMapBWFindNo   : 0              0
+2022-04-19.10:26:36 #ChildMapBWFindYes  : 0              0
+2022-04-19.10:26:36 #ChildMapBWFindUnf  : 0              0
+2022-04-19.10:26:36 #ChildMapOldFind    : 7629941        7629941
+2022-04-19.10:26:36 #ChildMapOldFindNo  : 62819          62819
+2022-04-19.10:26:36 #ChildMapOldFindYes : 13104          13104
+2022-04-19.10:26:36 #CompOneChild       : 51197          51197
+2022-04-19.10:26:36 #CompTwoChildren    : 3747120        3747120
+2022-04-19.10:26:36 #ParentUnsortBWLim  : 0              0
+2022-04-19.10:26:36 #PredLimitEdgeCount : 0              0
+2022-04-19.10:26:36 #PtrHashEqTest      : 3965092        3965092
+2022-04-19.10:26:36 #EqTest             : 3169436        3169436
+2022-04-19.10:26:36 #PtrHashDif         : 871591         871591
+2022-04-19.10:26:36 #PosHashDif         : 0              0
+2022-04-19.10:26:36 #SingletDiff        : 0              0
+2022-04-19.10:26:36 #PairsDiff          : 0              0
+2022-04-19.10:26:36 #IsoT               : 3169436        3169436
+2022-04-19.10:26:36 #IsoPositive        : 3132320        3132320
+2022-04-19.10:26:36 #RevIsoT            : 1              1
+2022-04-19.10:26:36 #BoostIsoTest       : 37057          37057
+2022-04-19.10:26:36 #BoostIsoPos        : 37020          37020
+2022-04-19.10:26:36 #SelfdualIdCr       : 260            260
+2022-04-19.10:26:36 #FullLinExt32       : 1991834        1991834
+2022-04-19.10:26:36 #FullLinExt64       : 0              0
+2022-04-19.10:26:36 #RedLinExt          : 40784          40784
+2022-04-19.10:26:36 #LinExtOverflow     : 0              0
+2022-04-19.10:26:36 #ReorderGraph       : 7635276        7635276
+2022-04-19.10:26:36 #Ambiguous          : 170521         170521
+2022-04-19.10:26:36 #AmbiguousIso       : 7464755        7464755
+2022-04-19.10:26:36 #DownSets             max: 882       num: 2032618       avg: 94.4566      num >=1000     : 0
+2022-04-19.10:26:36 HFdGloPos#Step        max: 11        num: 3093417       avg: 1.09177      num >=5        : 2172
+2022-04-19.10:26:36 HFdGloNeg#Step        max: 0         num: 0             avg: -nan         num >=3        : 0
+2022-04-19.10:26:36 #AutoFound            max: 5         num: 7635276       avg: 0.260549     num >=1        : 1766622
+2022-04-19.10:26:36 #CyclAutFound         max: 2         num: 7635276       avg: 0.0105585    num >=1        : 80207
+2022-04-19.10:26:36 ELSizePhase1          max: 36        num: 1428716       avg: 2.65303      num >=10       : 17841
+2022-04-19.10:26:36 ELSizePhase2          max: 14        num: 1546          avg: 1.3868       num >=10       : 7
+2022-04-19.10:26:36 PotPredCount          max: 0         num: 0             avg: -nan         num >=100      : 0
+2022-04-19.10:26:36 PredCount             max: 0         num: 0             avg: -nan         num >=100      : 0
+2022-04-19.10:26:36 Total 4661 ms, bw work 0 ms, bw io 0 ms, fw 1 2998 ms, fw 2 455 ms, fw io 115 ms, fw old 906 ms, other 185 ms
+2022-04-19.10:26:36 13 elements NOT SORTABLE in 33 comparisons
+2022-04-19.10:26:36 Removing temp files.
+2022-04-19.10:26:36 Done.

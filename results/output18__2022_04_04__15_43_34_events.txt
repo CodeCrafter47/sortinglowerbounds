@@ -1,0 +1,29 @@
+2022-04-04.15:43:34 Starting bidirectional search n = 18, C = 0, threads=0
+2022-04-04.15:43:34 BW Search poset storage directory: ../storageBw
+2022-04-04.15:43:34 BW Search Params:
+2022-04-04.15:43:34   Start Efficiency (c=0): 0.710806
+2022-04-04.15:43:34   Efficiency Bandwidth  : 0.150000
+2022-04-04.15:43:34   Efficiency Limit      : 0.860806
+2022-04-04.15:43:34   Full Layers           : 13
+2022-04-04.15:43:34 Creating initial poset for bw search
+2022-04-04.15:43:34 Backward step, parentC=52
+2022-04-04.15:43:34 Backward step, parentC=51
+2022-04-04.15:43:34 Backward step, parentC=50
+2022-04-04.15:43:34 Backward step, parentC=49
+2022-04-04.15:43:34 Backward step, parentC=48
+2022-04-04.15:43:34 Backward step, parentC=47
+2022-04-04.15:43:35 Backward step, parentC=46
+2022-04-04.15:43:39 Backward step, parentC=45
+2022-04-04.15:43:56 Backward step, parentC=44
+2022-04-04.15:45:20 Backward step, parentC=43
+2022-04-04.15:52:05 Backward step, parentC=42
+2022-04-04.16:24:26 Backward step, parentC=41
+2022-04-04.19:00:16 Backward step, parentC=40
+2022-04-04.22:35:16 Backward step, parentC=39
+2022-04-04.22:39:31 Backward step, parentC=38
+2022-04-04.22:50:59 Backward step, parentC=37
+2022-04-04.23:26:02 Backward step, parentC=36
+2022-04-05.01:10:50 Backward step, parentC=35
+2022-04-05.06:13:32 Backward step, parentC=34
+2022-04-05.19:17:08 Backward step, parentC=33
+2022-04-06.22:38:25 Backward step, parentC=32

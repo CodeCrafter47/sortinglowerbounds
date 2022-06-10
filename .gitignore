@@ -1,0 +1,11 @@
+
+# CLion
+.idea/
+
+# CMake
+cmake-build-*/
+
+# Program output and temp files
+outputs/
+temp/
+storage_*/

@@ -1,0 +1,97 @@
+
+0.09
+2021-10-20.14:26:45 Total 2 hr 50 min, bw work 87 sec, bw io 26 sec, fw 1 1 hr 56 min, fw 2 128 sec, fw io 7 min, fw old 40 min, other 121 sec
+
+0.1
+2021-10-21.12:55:58 Total number: 3321459
+2021-10-21.12:55:58 Steps: 273
+2021-10-21.12:55:58 Total 2 hr 19 min, bw work 127 sec, bw io 31 sec, fw 1 1 hr 34 min, fw 2 92 sec, fw io 7 min, fw old 32 min, other 54 sec
+2021-10-21.12:55:58 15 elements NOT SORTABLE in 41 comparisons
+
+0.11
+2021-10-21.15:13:17 Total number: 4392192
+2021-10-21.15:13:17 Steps: 229
+2021-10-21.15:13:17 Total 2 hr 0 min, bw work 170 sec, bw io 40 sec, fw 1 1 hr 18 min, fw 2 84 sec, fw io 8 min, fw old 28 min, other 55 sec
+2021-10-21.15:13:17 15 elements NOT SORTABLE in 41 comparisons
+
+0.12
+2021-10-21.16:54:53 Total number: 6190951
+2021-10-21.16:54:53 Steps: 191
+2021-10-21.16:54:53 Total 1 hr 38 min, bw work 240 sec, bw io 57 sec, fw 1 1 hr 1 min, fw 2 66 sec, fw io 5 min, fw old 24 min, other 57 sec
+2021-10-21.16:54:53 15 elements NOT SORTABLE in 41 comparisons
+
+0.13
+2021-10-21.18:29:09 Total number: 8229267
+2021-10-21.18:29:09 Steps: 162
+2021-10-21.18:29:09 Total 1 hr 4 min, bw work 5 min, bw io 65 sec, fw 1 43 min, fw 2 45 sec, fw io 82 sec, fw old 11 min, other 58 sec
+2021-10-21.18:29:09 15 elements NOT SORTABLE in 41 comparisons
+
+0.14
+2021-10-21.23:34:09 Total number: 11232962
+2021-10-21.23:34:09 Steps: 172
+2021-10-21.23:34:09 Total 46 min, bw work 7 min, bw io 89 sec, fw 1 28 min, fw 2 52 sec, fw io 0 ms, fw old 7 min, other 61 sec
+2021-10-21.23:34:09 15 elements NOT SORTABLE in 41 comparisons
+
+0.15
+2021-10-22.08:36:38 Total number: 15046722
+2021-10-22.08:36:38 Steps: 172
+2021-10-22.08:36:38 Total 37 min, bw work 9 min, bw io 116 sec, fw 1 18 min, fw 2 67 sec, fw io 0 ms, fw old 5 min, other 63 sec
+2021-10-22.08:36:38 15 elements NOT SORTABLE in 41 comparisons
+
+0.16
+2021-10-22.09:17:19 Total number: 19597884
+2021-10-22.09:17:19 Steps: 172
+2021-10-22.09:17:19 Total 32 min, bw work 12 min, bw io 147 sec, fw 1 11 min, fw 2 31 sec, fw io 0 ms, fw old 201 sec, other 66 sec
+2021-10-22.09:17:19 15 elements NOT SORTABLE in 41 comparisons
+
+0.17
+2021-10-22.09:54:25 Total number: 25962938
+2021-10-22.09:54:25 Steps: 171
+2021-10-22.09:54:25 Total 34 min, bw work 17 min, bw io 173 sec, fw 1 8 min, fw 2 21 sec, fw io 0 ms, fw old 225 sec, other 71 sec
+2021-10-22.09:54:25 15 elements NOT SORTABLE in 41 comparisons
+
+0.18
+2021-10-22.10:49:03 Total number: 32942161
+2021-10-22.10:49:03 Steps: 169
+2021-10-22.10:49:03 Total 35 min, bw work 21 min, bw io 211 sec, fw 1 6 min, fw 2 15 sec, fw io 0 ms, fw old 144 sec, other 75 sec
+2021-10-22.10:49:03 15 elements NOT SORTABLE in 41 comparisons
+
+0.19
+2021-10-22.11:33:24 Total number: 42872131
+2021-10-22.11:33:24 Steps: 111
+2021-10-22.11:33:24 Total 40 min, bw work 28 min, bw io 269 sec, fw 1 5 min, fw 2 11 sec, fw io 0 ms, fw old 93 sec, other 82 sec
+2021-10-22.11:33:24 15 elements NOT SORTABLE in 41 comparisons
+
+0.20
+2021-10-22.12:37:03 Total number: 55704209
+2021-10-22.12:37:03 Steps: 95
+2021-10-22.12:37:03 Total 49 min, bw work 36 min, bw io 5 min, fw 1 264 sec, fw 2 5 sec, fw io 0 ms, fw old 69 sec, other 89 sec
+2021-10-22.12:37:03 15 elements NOT SORTABLE in 41 comparisons
+
+0.15 - no assertions
+2021-10-22.13:48:25 Total number: 15046722
+2021-10-22.13:48:25 Steps: 172
+2021-10-22.13:48:25 Total 36 min, bw work 9 min, bw io 112 sec, fw 1 17 min, fw 2 51 sec, fw io 0 ms, fw old 280 sec, other 63 sec
+2021-10-22.13:48:25 15 elements NOT SORTABLE in 41 comparisons
+
+0.16 - n=16
+2021-10-25.20:42:41 Total number: 105419653
+2021-10-25.20:42:41 Steps: 374
+2021-10-25.20:42:41 Total 5 hr 29 min, bw work 1 hr 36 min, bw io 15 min, fw 1 2 hr 49 min, fw 2 90 sec, fw io 8 min, fw old 35 min, other 141 sec
+
+0.08 - n=15 fixed
+2021-10-27.15:00:13 Total number: 1700969
+2021-10-27.15:00:13 Steps: 16158
+2021-10-27.15:00:13 Total 1 hr 16 min, bw work 63 sec, bw io 15 sec, fw 1 44 min, fw 2 48 sec, fw io 35 sec, fw old 28 min, other 70 sec
+2021-10-27.15:00:13 15 elements NOT SORTABLE in 41 comparisons
+
+0.15 - n=15 fixed
+2021-10-27.15:42:17 Total number: 15043921
+2021-10-27.15:42:17 Steps: 15214
+2021-10-27.15:42:17 Total 35 min, bw work 9 min, bw io 92 sec, fw 1 9 min, fw 2 23 sec, fw io 4 ms, fw old 11 min, other 156 sec
+
+0.15 - n=15 fixed fast map
+2021-10-27.18:02:09 Total number: 15043921
+2021-10-27.18:02:09 Steps: 15310
+2021-10-27.18:02:09 Total 29 min, bw work 9 min, bw io 98 sec, fw 1 9 min, fw 2 15 sec, fw io 4 ms, fw old 5 min, other 160 sec
+

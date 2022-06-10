@@ -1,0 +1,6 @@
+0.24
+====
+2021-11-18.09:56:21 Total elements: 6588407292
+2021-11-18.09:56:21 Steps: 217919
+2021-11-18.09:56:21 Total 164 hr 15 min, bw work 69 hr 56 min, bw io 10 hr 1 min, fw 1 71 hr 45 min, fw 2 37 min, fw io 9 min, fw old 11 hr 44 min, other 73 sec
+2021-11-18.09:56:21 17 elements NOT SORTABLE in 49 comparisons

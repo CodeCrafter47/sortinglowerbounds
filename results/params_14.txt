@@ -1,0 +1,29 @@
+0.07
+====
+2021-10-27.13:52:43 Steps: 25191
+2021-10-27.13:52:43 Total 8 min, bw work 43 sec, bw io 1659 ms, fw 1 6 min, fw 2 8 sec, fw io 1057 ms, fw old 11 sec, other 3443 ms
+
+0.09
+====
+2021-10-27.14:02:53 Total number: 491020
+2021-10-27.14:02:53 Steps: 20707
+2021-10-27.14:02:53 Total 5 min, bw work 70 sec, bw io 2242 ms, fw 1 235 sec, fw 2 5 sec, fw io 605 ms, fw old 5 sec, other 2614 ms
+
+0.10
+====
+2021-10-27.14:17:15 Total number: 686909
+2021-10-27.14:17:15 Steps: 18022
+2021-10-27.14:17:15 Total 295 sec, bw work 95 sec, bw io 2595 ms, fw 1 182 sec, fw 2 4965 ms, fw io 484 ms, fw old 5 sec, other 2934 ms
+
+0.11
+====
+2021-10-27.14:11:41 Total number: 916539
+2021-10-27.14:11:41 Steps: 16097
+2021-10-27.14:11:41 Total 5 min, bw work 134 sec, bw io 2937 ms, fw 1 153 sec, fw 2 3995 ms, fw io 423 ms, fw old 4412 ms, other 3291 ms
+2021-10-27.14:11:41 14 elements NOT SORTABLE in 37 comparisons
+
+0.10 - more hash map fix
+====
+2021-10-28.15:34:18 Total number: 686909
+2021-10-28.15:34:18 Steps: 18144
+2021-10-28.15:34:18 Total 5 min, bw work 106 sec, bw io 6 sec, fw 1 214 sec, fw 2 4453 ms, fw io 486 ms, fw old 5 sec, other 367 ms

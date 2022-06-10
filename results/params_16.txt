@@ -1,0 +1,10 @@
+0.17
+2021-10-29.20:56:41 Total elements: 2848919378
+2021-10-29.20:56:41 Steps: 65869
+2021-10-29.20:56:41 Total 9 hr 9 min, bw work 2 hr 10 min, bw io 40 min, fw 1 4 hr 21 min, fw 2 232 sec, fw io 20 ms, fw old 1 hr 52 min, other 68 sec
+
+0.17 - sym refinement, better bw storage
+2021-11-10.18:30:43 Total elements: 2832861159
+2021-11-10.18:30:43 Steps: 66935
+2021-11-10.18:30:43 Total 8 hr 33 min, bw work 2 hr 7 min, bw io 21 min, fw 1 4 hr 10 min, fw 2 227 sec, fw io 21 ms, fw old 1 hr 48 min, other 69 sec
+2021-11-10.18:30:43 16 elements NOT SORTABLE in 45 comparisons

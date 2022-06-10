@@ -1,0 +1,456 @@
+2022-02-25.09:17:51 Starting forward search n = 28, C = 0, threads=0
+2022-02-25.09:18:25 Creating initial poset
+2022-02-25.09:18:25 Forward step, parentC=0
+2022-02-25.09:18:25 Processing layer c=0 phase 1
+2022-02-25.09:18:25 Forward step, parentC=1
+2022-02-25.09:18:25 Processing layer c=1 phase 1
+2022-02-25.09:18:25 Forward step, parentC=2
+2022-02-25.09:18:25 Processing layer c=2 phase 1
+2022-02-25.09:18:25 Forward step, parentC=3
+2022-02-25.09:18:25 Processing layer c=3 phase 1
+2022-02-25.09:18:25 Forward step, parentC=4
+2022-02-25.09:18:25 Processing layer c=4 phase 1
+2022-02-25.09:18:25 Forward step, parentC=5
+2022-02-25.09:18:25 Processing layer c=5 phase 1
+2022-02-25.09:18:25 Forward step, parentC=6
+2022-02-25.09:18:25 Processing layer c=6 phase 1
+2022-02-25.09:18:25 Forward step, parentC=7
+2022-02-25.09:18:25 Processing layer c=7 phase 1
+2022-02-25.09:18:25 Forward step, parentC=8
+2022-02-25.09:18:25 Processing layer c=8 phase 1
+2022-02-25.09:18:25 Forward step, parentC=9
+2022-02-25.09:18:25 Processing layer c=9 phase 1
+2022-02-25.09:18:25 Forward step, parentC=10
+2022-02-25.09:18:25 Processing layer c=10 phase 1
+2022-02-25.09:18:25 Forward step, parentC=11
+2022-02-25.09:18:25 Processing layer c=11 phase 1
+2022-02-25.09:18:25 Forward step, parentC=12
+2022-02-25.09:18:25 Processing layer c=12 phase 1
+2022-02-25.09:18:25 Forward step, parentC=13
+2022-02-25.09:18:25 Processing layer c=13 phase 1
+2022-02-25.09:18:25 Forward step, parentC=14
+2022-02-25.09:18:25 Processing layer c=14 phase 1
+2022-02-25.09:18:25 Forward step, parentC=15
+2022-02-25.09:18:25 Processing layer c=15 phase 1
+2022-02-25.09:18:25 Forward step, parentC=16
+2022-02-25.09:18:25 Processing layer c=16 phase 1
+2022-02-25.09:18:25 Forward step, parentC=17
+2022-02-25.09:18:25 Processing layer c=17 phase 1
+2022-02-25.09:18:26 Forward step, parentC=18
+2022-02-25.09:18:26 Processing layer c=18 phase 1
+2022-02-25.09:18:27 Forward step, parentC=19
+2022-02-25.09:18:27 Processing layer c=19 phase 1
+2022-02-25.09:18:29 Forward step, parentC=20
+2022-02-25.09:18:29 Processing layer c=20 phase 1
+2022-02-25.09:18:34 Forward step, parentC=21
+2022-02-25.09:18:34 Processing layer c=21 phase 1
+2022-02-25.09:18:47 Forward step, parentC=22
+2022-02-25.09:18:47 Processing layer c=22 phase 1
+2022-02-25.09:19:19 Forward step, parentC=23
+2022-02-25.09:19:19 Processing layer c=23 phase 1
+2022-02-25.09:20:40 Forward step, parentC=24
+2022-02-25.09:20:40 Processing layer c=24 phase 1
+2022-02-25.09:23:57 Forward step, parentC=25
+2022-02-25.09:23:57 Processing layer c=25 phase 1
+2022-02-25.09:31:17 Forward step, parentC=26
+2022-02-25.09:31:17 Processing layer c=26 phase 1
+2022-02-25.09:45:55 Forward step, parentC=27
+2022-02-25.09:45:55 Processing layer c=27 phase 1
+2022-02-25.10:12:03 Forward step, parentC=28
+2022-02-25.10:12:03 Processing layer c=28 phase 1
+2022-02-25.10:53:00 Forward step, parentC=29
+2022-02-25.10:53:00 Processing layer c=29 phase 1
+2022-02-25.11:50:26 Forward step, parentC=30
+2022-02-25.11:50:26 Processing layer c=30 phase 1
+2022-02-25.13:02:12 Forward step, parentC=31
+2022-02-25.13:02:12 Processing layer c=31 phase 1
+2022-02-25.14:22:01 Forward step, parentC=32
+2022-02-25.14:22:02 Processing layer c=32 phase 1
+2022-02-25.15:43:11 Forward step, parentC=33
+2022-02-25.15:43:11 Processing layer c=33 phase 1
+2022-02-25.16:54:26 Forward step, parentC=34
+2022-02-25.16:54:27 Processing layer c=34 phase 1
+2022-02-25.17:49:25 Forward step, parentC=35
+2022-02-25.17:49:25 Processing layer c=35 phase 1
+2022-02-25.18:27:48 Forward step, parentC=36
+2022-02-25.18:27:48 Processing layer c=36 phase 1
+2022-02-25.18:52:15 Forward step, parentC=37
+2022-02-25.18:52:16 Processing layer c=37 phase 1
+2022-02-25.19:06:23 Forward step, parentC=38
+2022-02-25.19:06:23 Processing layer c=38 phase 1
+2022-02-25.19:13:49 Forward step, parentC=39
+2022-02-25.19:13:49 Processing layer c=39 phase 1
+2022-02-25.19:17:24 Forward step, parentC=40
+2022-02-25.19:17:24 Processing layer c=40 phase 1
+2022-02-25.19:19:00 Forward step, parentC=41
+2022-02-25.19:19:00 Processing layer c=41 phase 1
+2022-02-25.19:19:39 Forward step, parentC=42
+2022-02-25.19:19:39 Processing layer c=42 phase 1
+2022-02-25.19:19:54 Forward step, parentC=43
+2022-02-25.19:19:54 Processing layer c=43 phase 1
+2022-02-25.19:19:59 Forward step, parentC=44
+2022-02-25.19:19:59 Processing layer c=44 phase 1
+2022-02-25.19:20:01 Forward step, parentC=45
+2022-02-25.19:20:01 Processing layer c=45 phase 1
+2022-02-25.19:20:02 Forward step, parentC=46
+2022-02-25.19:20:02 Processing layer c=46 phase 1
+2022-02-25.19:20:03 Forward step, parentC=47
+2022-02-25.19:20:03 Processing layer c=47 phase 1
+2022-02-25.19:20:03 Forward step, parentC=48
+2022-02-25.19:20:03 Processing layer c=48 phase 1
+2022-02-25.19:20:03 Forward step, parentC=49
+2022-02-25.19:20:03 Processing layer c=49 phase 1
+2022-02-25.19:20:03 Forward step, parentC=50
+2022-02-25.19:20:03 Processing layer c=50 phase 1
+2022-02-25.19:20:03 Forward step, parentC=51
+2022-02-25.19:20:03 Processing layer c=51 phase 1
+2022-02-25.19:20:03 Forward step, parentC=50
+2022-02-25.19:20:03 Processing layer c=50 phase 2
+2022-02-25.19:20:03 Forward step, parentC=49
+2022-02-25.19:20:03 Processing layer c=49 phase 2
+2022-02-25.19:20:03 Forward step, parentC=48
+2022-02-25.19:20:03 Processing layer c=48 phase 2
+2022-02-25.19:20:03 Forward step, parentC=47
+2022-02-25.19:20:03 Processing layer c=47 phase 2
+2022-02-25.19:20:03 Forward step, parentC=46
+2022-02-25.19:20:03 Processing layer c=46 phase 2
+2022-02-25.19:20:03 Forward step, parentC=45
+2022-02-25.19:20:03 Processing layer c=45 phase 2
+2022-02-25.19:20:03 Forward step, parentC=44
+2022-02-25.19:20:03 Processing layer c=44 phase 2
+2022-02-25.19:20:03 Forward step, parentC=43
+2022-02-25.19:20:03 Processing layer c=43 phase 2
+2022-02-25.19:20:03 Forward step, parentC=42
+2022-02-25.19:20:03 Processing layer c=42 phase 2
+2022-02-25.19:20:04 Forward step, parentC=41
+2022-02-25.19:20:04 Processing layer c=41 phase 2
+2022-02-25.19:20:05 Forward step, parentC=40
+2022-02-25.19:20:05 Processing layer c=40 phase 2
+2022-02-25.19:20:07 Forward step, parentC=39
+2022-02-25.19:20:07 Processing layer c=39 phase 2
+2022-02-25.19:20:10 Forward step, parentC=38
+2022-02-25.19:20:10 Processing layer c=38 phase 2
+2022-02-25.19:20:11 Forward step, parentC=37
+2022-02-25.19:20:11 Processing layer c=37 phase 2
+2022-02-25.19:20:12 Forward step, parentC=36
+2022-02-25.19:20:12 Processing layer c=36 phase 2
+2022-02-25.19:20:13 Forward step, parentC=35
+2022-02-25.19:20:13 Processing layer c=35 phase 2
+2022-02-25.19:20:15 Forward step, parentC=34
+2022-02-25.19:20:15 Processing layer c=34 phase 2
+2022-02-25.19:20:17 Forward step, parentC=33
+2022-02-25.19:20:17 Processing layer c=33 phase 2
+2022-02-25.19:20:19 Forward step, parentC=32
+2022-02-25.19:20:19 Processing layer c=32 phase 2
+2022-02-25.19:20:21 Forward step, parentC=31
+2022-02-25.19:20:21 Processing layer c=31 phase 2
+2022-02-25.19:20:23 Forward step, parentC=30
+2022-02-25.19:20:23 Processing layer c=30 phase 2
+2022-02-25.19:20:25 Forward step, parentC=29
+2022-02-25.19:20:25 Processing layer c=29 phase 2
+2022-02-25.19:20:26 Forward step, parentC=28
+2022-02-25.19:20:26 Processing layer c=28 phase 2
+2022-02-25.19:20:27 Forward step, parentC=27
+2022-02-25.19:20:27 Processing layer c=27 phase 2
+2022-02-25.19:20:28 Forward step, parentC=26
+2022-02-25.19:20:28 Processing layer c=26 phase 2
+2022-02-25.19:20:28 Forward step, parentC=25
+2022-02-25.19:20:28 Processing layer c=25 phase 2
+2022-02-25.19:20:29 Forward step, parentC=24
+2022-02-25.19:20:29 Processing layer c=24 phase 2
+2022-02-25.19:20:29 Forward step, parentC=23
+2022-02-25.19:20:29 Processing layer c=23 phase 2
+2022-02-25.19:20:30 Forward step, parentC=22
+2022-02-25.19:20:30 Processing layer c=22 phase 2
+2022-02-25.19:20:30 Forward step, parentC=21
+2022-02-25.19:20:30 Processing layer c=21 phase 2
+2022-02-25.19:20:30 Forward step, parentC=20
+2022-02-25.19:20:30 Processing layer c=20 phase 2
+2022-02-25.19:20:30 Forward step, parentC=19
+2022-02-25.19:20:30 Processing layer c=19 phase 2
+2022-02-25.19:20:30 Forward step, parentC=18
+2022-02-25.19:20:30 Processing layer c=18 phase 2
+2022-02-25.19:20:31 Forward step, parentC=17
+2022-02-25.19:20:31 Processing layer c=17 phase 2
+2022-02-25.19:20:31 Forward step, parentC=16
+2022-02-25.19:20:31 Processing layer c=16 phase 2
+2022-02-25.19:20:31 Forward step, parentC=15
+2022-02-25.19:20:31 Processing layer c=15 phase 2
+2022-02-25.19:20:31 Forward step, parentC=14
+2022-02-25.19:20:31 Processing layer c=14 phase 2
+2022-02-25.19:20:31 Forward step, parentC=13
+2022-02-25.19:20:31 Processing layer c=13 phase 2
+2022-02-25.19:20:31 Forward step, parentC=12
+2022-02-25.19:20:31 Processing layer c=12 phase 2
+2022-02-25.19:20:31 Forward step, parentC=11
+2022-02-25.19:20:31 Processing layer c=11 phase 2
+2022-02-25.19:20:31 Forward step, parentC=10
+2022-02-25.19:20:31 Processing layer c=10 phase 2
+2022-02-25.19:20:31 Forward step, parentC=9
+2022-02-25.19:20:31 Processing layer c=9 phase 2
+2022-02-25.19:20:31 Forward step, parentC=8
+2022-02-25.19:20:31 Processing layer c=8 phase 2
+2022-02-25.19:20:31 Forward step, parentC=7
+2022-02-25.19:20:31 Processing layer c=7 phase 2
+2022-02-25.19:20:31 Forward step, parentC=6
+2022-02-25.19:20:31 Processing layer c=6 phase 2
+2022-02-25.19:20:31 Forward step, parentC=5
+2022-02-25.19:20:31 Processing layer c=5 phase 2
+2022-02-25.19:20:31 Forward step, parentC=4
+2022-02-25.19:20:31 Processing layer c=4 phase 2
+2022-02-25.19:20:31 Forward step, parentC=3
+2022-02-25.19:20:31 Processing layer c=3 phase 2
+2022-02-25.19:20:31 Forward step, parentC=2
+2022-02-25.19:20:31 Processing layer c=2 phase 2
+2022-02-25.19:20:31 Forward step, parentC=1
+2022-02-25.19:20:31 Processing layer c=1 phase 2
+2022-02-25.19:20:31 Forward step, parentC=0
+2022-02-25.19:20:31 Processing layer c=0 phase 2
+2022-02-25.19:20:31 Steps: 103
+2022-02-25.19:20:31 FW Profile Complete:
+2022-02-25.19:20:31 c =  0:  1          	 YES:  0          	 NO: 1          
+2022-02-25.19:20:31 c =  1:  1          	 YES:  0          	 NO: 1          
+2022-02-25.19:20:31 c =  2:  1          	 YES:  0          	 NO: 1          
+2022-02-25.19:20:31 c =  3:  1          	 YES:  0          	 NO: 1          
+2022-02-25.19:20:31 c =  4:  1          	 YES:  0          	 NO: 1          
+2022-02-25.19:20:31 c =  5:  1          	 YES:  0          	 NO: 1          
+2022-02-25.19:20:31 c =  6:  2          	 YES:  0          	 NO: 2          
+2022-02-25.19:20:31 c =  7:  6          	 YES:  0          	 NO: 6          
+2022-02-25.19:20:31 c =  8:  11         	 YES:  0          	 NO: 11         
+2022-02-25.19:20:31 c =  9:  15         	 YES:  0          	 NO: 15         
+2022-02-25.19:20:31 c = 10:  20         	 YES:  0          	 NO: 20         
+2022-02-25.19:20:31 c = 11:  39         	 YES:  0          	 NO: 39         
+2022-02-25.19:20:31 c = 12:  63         	 YES:  0          	 NO: 63         
+2022-02-25.19:20:31 c = 13:  90         	 YES:  0          	 NO: 90         
+2022-02-25.19:20:31 c = 14:  153        	 YES:  0          	 NO: 153        
+2022-02-25.19:20:31 c = 15:  311        	 YES:  0          	 NO: 311        
+2022-02-25.19:20:31 c = 16:  727        	 YES:  0          	 NO: 727        
+2022-02-25.19:20:31 c = 17:  1361       	 YES:  0          	 NO: 1361       
+2022-02-25.19:20:31 c = 18:  2455       	 YES:  0          	 NO: 2455       
+2022-02-25.19:20:31 c = 19:  4505       	 YES:  0          	 NO: 4505       
+2022-02-25.19:20:31 c = 20:  8237       	 YES:  0          	 NO: 8237       
+2022-02-25.19:20:31 c = 21:  14900      	 YES:  0          	 NO: 14900      
+2022-02-25.19:20:31 c = 22:  26559      	 YES:  0          	 NO: 26559      
+2022-02-25.19:20:31 c = 23:  48590      	 YES:  0          	 NO: 48590      
+2022-02-25.19:20:31 c = 24:  91301      	 YES:  0          	 NO: 91301      
+2022-02-25.19:20:31 c = 25:  174203     	 YES:  0          	 NO: 174203     
+2022-02-25.19:20:31 c = 26:  326932     	 YES:  0          	 NO: 326932     
+2022-02-25.19:20:31 c = 27:  584870     	 YES:  0          	 NO: 584870     
+2022-02-25.19:20:31 c = 28:  986004     	 YES:  0          	 NO: 986004     
+2022-02-25.19:20:31 c = 29:  1544995    	 YES:  0          	 NO: 1544995    
+2022-02-25.19:20:31 c = 30:  2233588    	 YES:  0          	 NO: 2233588    
+2022-02-25.19:20:31 c = 31:  2949374    	 YES:  0          	 NO: 2949374    
+2022-02-25.19:20:31 c = 32:  3529261    	 YES:  0          	 NO: 3529261    
+2022-02-25.19:20:31 c = 33:  3809912    	 YES:  0          	 NO: 3809912    
+2022-02-25.19:20:31 c = 34:  3695169    	 YES:  0          	 NO: 3695169    
+2022-02-25.19:20:31 c = 35:  3223926    	 YES:  0          	 NO: 3223926    
+2022-02-25.19:20:31 c = 36:  2540427    	 YES:  0          	 NO: 2540427    
+2022-02-25.19:20:31 c = 37:  1808549    	 YES:  0          	 NO: 1808549    
+2022-02-25.19:20:31 c = 38:  1170869    	 YES:  0          	 NO: 1170869    
+2022-02-25.19:20:31 c = 39:  694569     	 YES:  0          	 NO: 694569     
+2022-02-25.19:20:31 c = 40:  377288     	 YES:  0          	 NO: 377288     
+2022-02-25.19:20:31 c = 41:  188359     	 YES:  0          	 NO: 188359     
+2022-02-25.19:20:31 c = 42:  86462      	 YES:  0          	 NO: 86462      
+2022-02-25.19:20:31 c = 43:  37104      	 YES:  0          	 NO: 37104      
+2022-02-25.19:20:31 c = 44:  14742      	 YES:  0          	 NO: 14742      
+2022-02-25.19:20:31 c = 45:  5393       	 YES:  0          	 NO: 5393       
+2022-02-25.19:20:31 c = 46:  2010       	 YES:  0          	 NO: 2010       
+2022-02-25.19:20:31 c = 47:  690        	 YES:  0          	 NO: 690        
+2022-02-25.19:20:31 c = 48:  235        	 YES:  0          	 NO: 235        
+2022-02-25.19:20:31 c = 49:  63         	 YES:  0          	 NO: 63         
+2022-02-25.19:20:31 c = 50:  13         	 YES:  0          	 NO: 13         
+2022-02-25.19:20:31 c = 51:  0          	 YES:  0          	 NO: 0          
+2022-02-25.19:20:31 c = 52:  0          	 YES:  0          	 NO: 0          
+2022-02-25.19:20:31 c = 53:  0          	 YES:  0          	 NO: 0          
+2022-02-25.19:20:31 c = 54:  0          	 YES:  0          	 NO: 0          
+2022-02-25.19:20:31 c = 55:  0          	 YES:  0          	 NO: 0          
+2022-02-25.19:20:31 c = 56:  0          	 YES:  0          	 NO: 0          
+2022-02-25.19:20:31 c = 57:  0          	 YES:  0          	 NO: 0          
+2022-02-25.19:20:31 c = 58:  0          	 YES:  0          	 NO: 0          
+2022-02-25.19:20:31 c = 59:  0          	 YES:  0          	 NO: 0          
+2022-02-25.19:20:31 c = 60:  0          	 YES:  0          	 NO: 0          
+2022-02-25.19:20:31 c = 61:  0          	 YES:  0          	 NO: 0          
+2022-02-25.19:20:31 c = 62:  0          	 YES:  0          	 NO: 0          
+2022-02-25.19:20:31 c = 63:  0          	 YES:  0          	 NO: 0          
+2022-02-25.19:20:31 c = 64:  0          	 YES:  0          	 NO: 0          
+2022-02-25.19:20:31 c = 65:  0          	 YES:  0          	 NO: 0          
+2022-02-25.19:20:31 c = 66:  0          	 YES:  0          	 NO: 0          
+2022-02-25.19:20:31 c = 67:  0          	 YES:  0          	 NO: 0          
+2022-02-25.19:20:31 c = 68:  0          	 YES:  0          	 NO: 0          
+2022-02-25.19:20:31 c = 69:  0          	 YES:  0          	 NO: 0          
+2022-02-25.19:20:31 c = 70:  0          	 YES:  0          	 NO: 0          
+2022-02-25.19:20:31 c = 71:  0          	 YES:  0          	 NO: 0          
+2022-02-25.19:20:31 c = 72:  0          	 YES:  0          	 NO: 0          
+2022-02-25.19:20:31 c = 73:  0          	 YES:  0          	 NO: 0          
+2022-02-25.19:20:31 c = 74:  0          	 YES:  0          	 NO: 0          
+2022-02-25.19:20:31 c = 75:  0          	 YES:  0          	 NO: 0          
+2022-02-25.19:20:31 c = 76:  0          	 YES:  0          	 NO: 0          
+2022-02-25.19:20:31 c = 77:  0          	 YES:  0          	 NO: 0          
+2022-02-25.19:20:31 c = 78:  0          	 YES:  0          	 NO: 0          
+2022-02-25.19:20:31 c = 79:  0          	 YES:  0          	 NO: 0          
+2022-02-25.19:20:31 c = 80:  0          	 YES:  0          	 NO: 0          
+2022-02-25.19:20:31 c = 81:  0          	 YES:  0          	 NO: 0          
+2022-02-25.19:20:31 c = 82:  0          	 YES:  0          	 NO: 0          
+2022-02-25.19:20:31 c = 83:  0          	 YES:  0          	 NO: 0          
+2022-02-25.19:20:31 c = 84:  0          	 YES:  0          	 NO: 0          
+2022-02-25.19:20:31 c = 85:  0          	 YES:  0          	 NO: 0          
+2022-02-25.19:20:31 c = 86:  0          	 YES:  0          	 NO: 0          
+2022-02-25.19:20:31 c = 87:  0          	 YES:  0          	 NO: 0          
+2022-02-25.19:20:31 c = 88:  0          	 YES:  0          	 NO: 0          
+2022-02-25.19:20:31 c = 89:  0          	 YES:  0          	 NO: 0          
+2022-02-25.19:20:31 c = 90:  0          	 YES:  0          	 NO: 0          
+2022-02-25.19:20:31 c = 91:  0          	 YES:  0          	 NO: 0          
+2022-02-25.19:20:31 c = 92:  0          	 YES:  0          	 NO: 0          
+2022-02-25.19:20:31 c = 93:  0          	 YES:  0          	 NO: 0          
+2022-02-25.19:20:31 c = 94:  0          	 YES:  0          	 NO: 0          
+2022-02-25.19:20:31 c = 95:  0          	 YES:  0          	 NO: 0          
+2022-02-25.19:20:31 c = 96:  0          	 YES:  0          	 NO: 0          
+2022-02-25.19:20:31 c = 97:  0          	 YES:  0          	 NO: 0          
+2022-02-25.19:20:31 c = 98:  0          	 YES:  0          	 NO: 0          
+2022-02-25.19:20:31 Total elements: 30184358
+2022-02-25.19:20:31 Old Gen Map Profile:
+2022-02-25.19:20:31 c =  0: MAX: 2739137    	 ALL: 1          	 YES: 0          	 NO: 1          
+2022-02-25.19:20:31 c =  1: MAX: 2739137    	 ALL: 1          	 YES: 0          	 NO: 1          
+2022-02-25.19:20:31 c =  2: MAX: 2739137    	 ALL: 1          	 YES: 0          	 NO: 1          
+2022-02-25.19:20:31 c =  3: MAX: 2739137    	 ALL: 1          	 YES: 0          	 NO: 1          
+2022-02-25.19:20:31 c =  4: MAX: 2739137    	 ALL: 1          	 YES: 0          	 NO: 1          
+2022-02-25.19:20:31 c =  5: MAX: 2739137    	 ALL: 1          	 YES: 0          	 NO: 1          
+2022-02-25.19:20:31 c =  6: MAX: 2739137    	 ALL: 2          	 YES: 0          	 NO: 2          
+2022-02-25.19:20:31 c =  7: MAX: 2739137    	 ALL: 6          	 YES: 0          	 NO: 6          
+2022-02-25.19:20:31 c =  8: MAX: 2739137    	 ALL: 11         	 YES: 0          	 NO: 11         
+2022-02-25.19:20:31 c =  9: MAX: 2739137    	 ALL: 15         	 YES: 0          	 NO: 15         
+2022-02-25.19:20:31 c = 10: MAX: 2739137    	 ALL: 20         	 YES: 0          	 NO: 20         
+2022-02-25.19:20:31 c = 11: MAX: 2739137    	 ALL: 39         	 YES: 0          	 NO: 39         
+2022-02-25.19:20:31 c = 12: MAX: 2739137    	 ALL: 63         	 YES: 0          	 NO: 63         
+2022-02-25.19:20:31 c = 13: MAX: 2739137    	 ALL: 90         	 YES: 0          	 NO: 90         
+2022-02-25.19:20:31 c = 14: MAX: 2739137    	 ALL: 153        	 YES: 0          	 NO: 153        
+2022-02-25.19:20:31 c = 15: MAX: 2739137    	 ALL: 311        	 YES: 0          	 NO: 311        
+2022-02-25.19:20:31 c = 16: MAX: 2739137    	 ALL: 727        	 YES: 0          	 NO: 727        
+2022-02-25.19:20:31 c = 17: MAX: 2739137    	 ALL: 1360       	 YES: 0          	 NO: 1360       
+2022-02-25.19:20:31 c = 18: MAX: 2739137    	 ALL: 2455       	 YES: 0          	 NO: 2455       
+2022-02-25.19:20:31 c = 19: MAX: 2739137    	 ALL: 4504       	 YES: 0          	 NO: 4504       
+2022-02-25.19:20:31 c = 20: MAX: 2739137    	 ALL: 8218       	 YES: 0          	 NO: 8218       
+2022-02-25.19:20:31 c = 21: MAX: 2739137    	 ALL: 14863      	 YES: 0          	 NO: 14863      
+2022-02-25.19:20:31 c = 22: MAX: 2739137    	 ALL: 26434      	 YES: 0          	 NO: 26434      
+2022-02-25.19:20:31 c = 23: MAX: 2739137    	 ALL: 48175      	 YES: 0          	 NO: 48175      
+2022-02-25.19:20:31 c = 24: MAX: 2739137    	 ALL: 89762      	 YES: 0          	 NO: 89762      
+2022-02-25.19:20:31 c = 25: MAX: 2739137    	 ALL: 168755     	 YES: 0          	 NO: 168755     
+2022-02-25.19:20:31 c = 26: MAX: 2739137    	 ALL: 308071     	 YES: 0          	 NO: 308071     
+2022-02-25.19:20:31 c = 27: MAX: 2739137    	 ALL: 526594     	 YES: 0          	 NO: 526594     
+2022-02-25.19:20:31 c = 28: MAX: 2739137    	 ALL: 827907     	 YES: 0          	 NO: 827907     
+2022-02-25.19:20:31 c = 29: MAX: 2739137    	 ALL: 1180998    	 YES: 0          	 NO: 1180998    
+2022-02-25.19:20:31 c = 30: MAX: 2739137    	 ALL: 1527067    	 YES: 0          	 NO: 1527067    
+2022-02-25.19:20:31 c = 31: MAX: 2739137    	 ALL: 1805328    	 YES: 0          	 NO: 1805328    
+2022-02-25.19:20:31 c = 32: MAX: 2739137    	 ALL: 1983983    	 YES: 0          	 NO: 1983983    
+2022-02-25.19:20:31 c = 33: MAX: 2739137    	 ALL: 2057607    	 YES: 0          	 NO: 2057607    
+2022-02-25.19:20:31 c = 34: MAX: 2739137    	 ALL: 2027217    	 YES: 0          	 NO: 2027217    
+2022-02-25.19:20:31 c = 35: MAX: 2739137    	 ALL: 1894620    	 YES: 0          	 NO: 1894620    
+2022-02-25.19:20:31 c = 36: MAX: 2739137    	 ALL: 1655564    	 YES: 0          	 NO: 1655564    
+2022-02-25.19:20:31 c = 37: MAX: 2739137    	 ALL: 1324361    	 YES: 0          	 NO: 1324361    
+2022-02-25.19:20:31 c = 38: MAX: 2739137    	 ALL: 952604     	 YES: 0          	 NO: 952604     
+2022-02-25.19:20:31 c = 39: MAX: 331572570  	 ALL: 693841     	 YES: 0          	 NO: 693841     
+2022-02-25.19:20:31 c = 40: MAX: 331572570  	 ALL: 377079     	 YES: 0          	 NO: 377079     
+2022-02-25.19:20:31 c = 41: MAX: 331572570  	 ALL: 188293     	 YES: 0          	 NO: 188293     
+2022-02-25.19:20:31 c = 42: MAX: 1673749850 	 ALL: 86459      	 YES: 0          	 NO: 86459      
+2022-02-25.19:20:31 c = 43: MAX: 331572570  	 ALL: 37103      	 YES: 0          	 NO: 37103      
+2022-02-25.19:20:31 c = 44: MAX: 331572570  	 ALL: 14741      	 YES: 0          	 NO: 14741      
+2022-02-25.19:20:31 c = 45: MAX: 331572570  	 ALL: 5393       	 YES: 0          	 NO: 5393       
+2022-02-25.19:20:31 c = 46: MAX: 1673749850 	 ALL: 2010       	 YES: 0          	 NO: 2010       
+2022-02-25.19:20:31 c = 47: MAX: 331572570  	 ALL: 690        	 YES: 0          	 NO: 690        
+2022-02-25.19:20:31 c = 48: MAX: 331572570  	 ALL: 235        	 YES: 0          	 NO: 235        
+2022-02-25.19:20:31 c = 49: MAX: 331572570  	 ALL: 63         	 YES: 0          	 NO: 63         
+2022-02-25.19:20:31 c = 50: MAX: 1673749850 	 ALL: 13         	 YES: 0          	 NO: 13         
+2022-02-25.19:20:31 c = 51: MAX: 331572570  	 ALL: 0          	 YES: 0          	 NO: 0          
+2022-02-25.19:20:31 c = 52: MAX: 331572570  	 ALL: 0          	 YES: 0          	 NO: 0          
+2022-02-25.19:20:31 c = 53: MAX: 331572570  	 ALL: 0          	 YES: 0          	 NO: 0          
+2022-02-25.19:20:31 c = 54: MAX: 1673749850 	 ALL: 0          	 YES: 0          	 NO: 0          
+2022-02-25.19:20:31 c = 55: MAX: 331572570  	 ALL: 0          	 YES: 0          	 NO: 0          
+2022-02-25.19:20:31 c = 56: MAX: 331572570  	 ALL: 0          	 YES: 0          	 NO: 0          
+2022-02-25.19:20:31 c = 57: MAX: 331572570  	 ALL: 0          	 YES: 0          	 NO: 0          
+2022-02-25.19:20:31 c = 58: MAX: 1673749850 	 ALL: 0          	 YES: 0          	 NO: 0          
+2022-02-25.19:20:31 c = 59: MAX: 331572570  	 ALL: 0          	 YES: 0          	 NO: 0          
+2022-02-25.19:20:31 c = 60: MAX: 331572570  	 ALL: 0          	 YES: 0          	 NO: 0          
+2022-02-25.19:20:31 c = 61: MAX: 331572570  	 ALL: 0          	 YES: 0          	 NO: 0          
+2022-02-25.19:20:31 c = 62: MAX: 1673749850 	 ALL: 0          	 YES: 0          	 NO: 0          
+2022-02-25.19:20:31 c = 63: MAX: 331572570  	 ALL: 0          	 YES: 0          	 NO: 0          
+2022-02-25.19:20:31 c = 64: MAX: 331572570  	 ALL: 0          	 YES: 0          	 NO: 0          
+2022-02-25.19:20:31 c = 65: MAX: 331572570  	 ALL: 0          	 YES: 0          	 NO: 0          
+2022-02-25.19:20:31 c = 66: MAX: 1673749850 	 ALL: 0          	 YES: 0          	 NO: 0          
+2022-02-25.19:20:31 c = 67: MAX: 331572570  	 ALL: 0          	 YES: 0          	 NO: 0          
+2022-02-25.19:20:31 c = 68: MAX: 331572570  	 ALL: 0          	 YES: 0          	 NO: 0          
+2022-02-25.19:20:31 c = 69: MAX: 331572570  	 ALL: 0          	 YES: 0          	 NO: 0          
+2022-02-25.19:20:31 c = 70: MAX: 1673749850 	 ALL: 0          	 YES: 0          	 NO: 0          
+2022-02-25.19:20:31 c = 71: MAX: 331572570  	 ALL: 0          	 YES: 0          	 NO: 0          
+2022-02-25.19:20:31 c = 72: MAX: 331572570  	 ALL: 0          	 YES: 0          	 NO: 0          
+2022-02-25.19:20:31 c = 73: MAX: 331572570  	 ALL: 0          	 YES: 0          	 NO: 0          
+2022-02-25.19:20:31 c = 74: MAX: 1673749850 	 ALL: 0          	 YES: 0          	 NO: 0          
+2022-02-25.19:20:31 c = 75: MAX: 331572570  	 ALL: 0          	 YES: 0          	 NO: 0          
+2022-02-25.19:20:31 c = 76: MAX: 331572570  	 ALL: 0          	 YES: 0          	 NO: 0          
+2022-02-25.19:20:31 c = 77: MAX: 331572570  	 ALL: 0          	 YES: 0          	 NO: 0          
+2022-02-25.19:20:31 c = 78: MAX: 2739137    	 ALL: 0          	 YES: 0          	 NO: 0          
+2022-02-25.19:20:31 c = 79: MAX: 2739137    	 ALL: 0          	 YES: 0          	 NO: 0          
+2022-02-25.19:20:31 c = 80: MAX: 2739137    	 ALL: 0          	 YES: 0          	 NO: 0          
+2022-02-25.19:20:31 c = 81: MAX: 2739137    	 ALL: 0          	 YES: 0          	 NO: 0          
+2022-02-25.19:20:31 c = 82: MAX: 2739137    	 ALL: 0          	 YES: 0          	 NO: 0          
+2022-02-25.19:20:31 c = 83: MAX: 2739137    	 ALL: 0          	 YES: 0          	 NO: 0          
+2022-02-25.19:20:31 c = 84: MAX: 2739137    	 ALL: 0          	 YES: 0          	 NO: 0          
+2022-02-25.19:20:31 c = 85: MAX: 2739137    	 ALL: 0          	 YES: 0          	 NO: 0          
+2022-02-25.19:20:31 c = 86: MAX: 2739137    	 ALL: 0          	 YES: 0          	 NO: 0          
+2022-02-25.19:20:31 c = 87: MAX: 2739137    	 ALL: 0          	 YES: 0          	 NO: 0          
+2022-02-25.19:20:31 c = 88: MAX: 2739137    	 ALL: 0          	 YES: 0          	 NO: 0          
+2022-02-25.19:20:31 c = 89: MAX: 2739137    	 ALL: 0          	 YES: 0          	 NO: 0          
+2022-02-25.19:20:31 c = 90: MAX: 2739137    	 ALL: 0          	 YES: 0          	 NO: 0          
+2022-02-25.19:20:31 c = 91: MAX: 2739137    	 ALL: 0          	 YES: 0          	 NO: 0          
+2022-02-25.19:20:31 c = 92: MAX: 2739137    	 ALL: 0          	 YES: 0          	 NO: 0          
+2022-02-25.19:20:31 c = 93: MAX: 2739137    	 ALL: 0          	 YES: 0          	 NO: 0          
+2022-02-25.19:20:31 c = 94: MAX: 2739137    	 ALL: 0          	 YES: 0          	 NO: 0          
+2022-02-25.19:20:31 c = 95: MAX: 2739137    	 ALL: 0          	 YES: 0          	 NO: 0          
+2022-02-25.19:20:31 c = 96: MAX: 2739137    	 ALL: 0          	 YES: 0          	 NO: 0          
+2022-02-25.19:20:31 c = 97: MAX: 2739137    	 ALL: 0          	 YES: 0          	 NO: 0          
+2022-02-25.19:20:31 c = 98: MAX: 2739137    	 ALL: 0          	 YES: 0          	 NO: 0          
+2022-02-25.19:20:31 Total elements: 19843810
+2022-02-25.19:20:35 Finished.
+2022-02-25.19:20:35 Stat name             Total          Recent
+2022-02-25.19:20:35 #Phase1             : 52             52
+2022-02-25.19:20:35 #Phase2             : 51             51
+2022-02-25.19:20:35 #Phase3             : 0              0
+2022-02-25.19:20:35 #MarkFirst          : 30184360       30184360
+2022-02-25.19:20:35 #MarkSecond         : 0              0
+2022-02-25.19:20:35 #ChildMapBWFind     : 0              0
+2022-02-25.19:20:35 #ChildMapBWFindNo   : 0              0
+2022-02-25.19:20:35 #ChildMapBWFindYes  : 0              0
+2022-02-25.19:20:35 #ChildMapBWFindUnf  : 0              0
+2022-02-25.19:20:35 #ChildMapOldFind    : 73030936       73030936
+2022-02-25.19:20:35 #ChildMapOldFindNo  : 0              0
+2022-02-25.19:20:35 #ChildMapOldFindYes : 0              0
+2022-02-25.19:20:35 #CompOneChild       : 4674526        4674526
+2022-02-25.19:20:35 #CompTwoChildren    : 34178205       34178205
+2022-02-25.19:20:35 #ParentUnsortBWLim  : 0              0
+2022-02-25.19:20:35 #PtrHashEqTest      : 15164775       15164775
+2022-02-25.19:20:35 #EqTest             : 14886262       14886262
+2022-02-25.19:20:35 #PtrHashDif         : 278513         278513
+2022-02-25.19:20:35 #PosHashDif         : 0              0
+2022-02-25.19:20:35 #SingletDiff        : 0              0
+2022-02-25.19:20:35 #PairsDiff          : 0              0
+2022-02-25.19:20:35 #IsoT               : 14886262       14886262
+2022-02-25.19:20:35 #IsoPositive        : 14840204       14840204
+2022-02-25.19:20:35 #RevIsoT            : 0              0
+2022-02-25.19:20:35 #BoostIsoTest       : 46058          46058
+2022-02-25.19:20:35 #BoostIsoPos        : 45584          45584
+2022-02-25.19:20:35 #SelfdualIdCr       : 71             71
+2022-02-25.19:20:35 #FullLinExt32       : 0              0
+2022-02-25.19:20:35 #FullLinExt64       : 25407861       25407861
+2022-02-25.19:20:35 #RedLinExt          : 4776500        4776500
+2022-02-25.19:20:35 #Ambiguous          : 1242961        1242961
+2022-02-25.19:20:35 #AmbiguousIso       : 71787975       71787975
+2022-02-25.19:20:35 #DownSets             max: 1058841   num: 30184361      avg: 55618.7      num >=1000     : 30183626
+2022-02-25.19:20:35 HFdGloPos#Step        max: 3         num: 14885788      avg: 1.00323      num >=5        : 0
+2022-02-25.19:20:35 HFdGloNeg#Step        max: 0         num: 0             avg: -nan         num >=3        : 0
+2022-02-25.19:20:35 #AutoFound            max: 5         num: 73030936      avg: 0.0984108    num >=1        : 6799584
+2022-02-25.19:20:35 #CyclAutFound         max: 2         num: 73030936      avg: 0.00312699   num >=1        : 227655
+2022-02-25.19:20:35 ELSizePhase1          max: 84        num: 18360270      avg: 2.11613      num >=10       : 93432
+2022-02-25.19:20:35 ELSizePhase2          max: 0         num: 0             avg: -nan         num >=10       : 0
+2022-02-25.19:20:35 Total 10 hr 2 min, bw work 0 ms, bw io 0 ms, fw 1 10 hr 1 min, fw 2 2051 ms, fw io 0 ms, fw old 25 sec, other 37 sec
+2022-02-25.19:20:35 28 elements NOT SORTABLE in 98 comparisons
+2022-02-25.19:20:35 Removing temp files.
+2022-02-25.19:28:53 Done.

@@ -1,0 +1,7 @@
+2022-04-08.10:50:12 Starting bidirectional search n = 18, C = 0, threads=0
+2022-04-08.10:50:12 BW Search poset storage directory: ../storageBw
+2022-04-08.10:50:12 BW Search Params:
+2022-04-08.10:50:12   Start Efficiency (c=0): 0.710806
+2022-04-08.10:50:12   Efficiency Bandwidth  : 0.200000
+2022-04-08.10:50:12   Efficiency Limit      : 0.910806
+2022-04-08.10:50:12   Full Layers           : 13
