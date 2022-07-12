@@ -1,4 +1,4 @@
-This tool finds the minimum number of comparisons required to sort N elements, by searching for suitable comparison algorithms.
+This tool finds the minimum number of comparisons required to sort N elements, by searching for suitable comparison algorithms, as used in "Lower Bounds for Sorting 16, 17, and 18 Elements" https://arxiv.org/abs/2206.05597.
 
 Building:
 ---------
